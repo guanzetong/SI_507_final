@@ -14,3 +14,4 @@
     Price Range
     Evaluation
     Charging
+    Sales (From 16888)
