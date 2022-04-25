@@ -1,0 +1,5793 @@
+Tree Start
+Brand Node Start
+Tesla
+https://car.autohome.com.cn/diandongche/brand-133.html
+Model Node Start
+Model Y
+中型SUV
+545
+660
+264
+486
+31.69
+41.79
+4.5
+1.0
+10.0
+Version Node Start
+2022款 后轮驱动版
+31.69
+//www.autohome.com.cn/spec/54332/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 长续航全轮驱动版
+37.59
+//www.autohome.com.cn/spec/54861/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Performance高性能全轮驱动版
+41.79
+//www.autohome.com.cn/spec/45735/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+Model 3
+中型车
+556
+675
+264
+486
+29.0988
+36.79
+4.39
+1.0
+10.0
+Version Node Start
+2022款 后轮驱动版
+29.0988
+//www.autohome.com.cn/spec/54529/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Performance高性能全轮驱动版
+36.79
+//www.autohome.com.cn/spec/54857/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+Model S
+中大型车
+637
+652
+670
+1020
+88.999
+105.999
+0.0
+1.0
+10.0
+Version Node Start
+2021款 双电机全轮驱动版
+88.999
+//www.autohome.com.cn/spec/49680/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 三电机全轮驱动 Plaid版
+105.999
+//www.autohome.com.cn/spec/47901/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+Model X
+中大型SUV
+536
+560
+670
+1020
+93.999
+99.999
+0.0
+1.0
+10.0
+Version Node Start
+2021款 双电机全轮驱动版
+93.999
+//www.autohome.com.cn/spec/49683/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 三电机全轮驱动 Plaid版
+99.999
+//www.autohome.com.cn/spec/49684/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+Porche
+https://car.autohome.com.cn/diandongche/brand-40.html
+Model Node Start
+Taycan
+中大型车
+407
+450
+408
+762
+88.8
+180.8
+4.39
+1.55
+0.0
+Version Node Start
+2022款 Taycan
+88.8
+//www.autohome.com.cn/spec/52419/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Taycan 4S
+115.8
+//www.autohome.com.cn/spec/52420/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Taycan Turbo
+150.8
+//www.autohome.com.cn/spec/52421/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Taycan Turbo S
+180.8
+//www.autohome.com.cn/spec/52422/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+Panamera新能源
+大型车
+64
+64
+0
+0
+116.8
+248.3
+3.89
+0
+0
+Version Node Start
+2022款 Panamera 4 E-Hybrid 2.9T
+116.8
+//www.autohome.com.cn/spec/56498/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Panamera 4 E-Hybrid 铂金版 2.9T
+129.8
+//www.autohome.com.cn/spec/54242/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Panamera 4 E-Hybrid Sport Turismo 2.9T
+126.5
+//www.autohome.com.cn/spec/56500/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Panamera 4 E-Hybrid 行政加长版 2.9T
+130.5
+//www.autohome.com.cn/spec/56499/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Panamera 4 E-Hybrid 行政加长铂金版 2.9T
+135.8
+//www.autohome.com.cn/spec/54243/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Panamera 4 E-Hybrid 2.9T
+116.8
+//www.autohome.com.cn/spec/48393/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Panamera 4 E-Hybrid Sport Turismo 2.9T
+126.5
+//www.autohome.com.cn/spec/48386/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Panamera 4 E-Hybrid 行政加长版 2.9T
+130.5
+//www.autohome.com.cn/spec/48394/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Panamera 4S E-Hybrid Sport Turismo 2.9T
+147.8
+//www.autohome.com.cn/spec/56502/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Panamera 4S E-Hybrid 行政加长版 2.9T
+157.8
+//www.autohome.com.cn/spec/56501/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Panamera 4S E-Hybrid Sport Turismo 2.9T
+147.8
+//www.autohome.com.cn/spec/47303/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Panamera 4S E-Hybrid 行政加长版 2.9T
+157.8
+//www.autohome.com.cn/spec/47304/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Panamera Turbo S E-Hybrid 行政加长版 4.0T
+248.3
+//www.autohome.com.cn/spec/48395/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+Cayenne新能源
+中大型SUV
+50
+53
+0
+0
+86.8
+101.8
+4.35
+0
+0
+Version Node Start
+2021款 Cayenne E-Hybrid 2.0T
+86.8
+//www.autohome.com.cn/spec/48626/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Cayenne E-Hybrid 2.0T 铂金版
+98.8
+//www.autohome.com.cn/spec/55412/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Cayenne E-Hybrid Coupé 2.0T
+93.8
+//www.autohome.com.cn/spec/48627/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Cayenne E-Hybrid Coupé 2.0T 铂金版
+101.8
+//www.autohome.com.cn/spec/55413/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+Volkswagen
+https://car.autohome.com.cn/diandongche/brand-1.html
+Model Node Start
+ID.4 X
+紧凑型SUV
+402
+607
+170
+313
+19.9888
+27.8288
+4.52
+0.67
+12.5
+Version Node Start
+2022款 纯净版
+20.5288
+//www.autohome.com.cn/spec/56129/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Pure 纯净版
+19.9888
+//www.autohome.com.cn/spec/49642/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 纯净长续航版
+22.5288
+//www.autohome.com.cn/spec/56130/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 智享长续航版
+23.8788
+//www.autohome.com.cn/spec/56131/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 极智长续航版
+24.1288
+//www.autohome.com.cn/spec/56356/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Pure+ 纯净长续航版
+21.9888
+//www.autohome.com.cn/spec/49643/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Pro 极智长续航版
+23.5888
+//www.autohome.com.cn/spec/48636/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 1st Edition ID.初见版
+23.5888
+//www.autohome.com.cn/spec/48844/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 劲能四驱版
+27.8288
+//www.autohome.com.cn/spec/56132/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 劲能四驱抢鲜版
+26.8888
+//www.autohome.com.cn/spec/50169/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Prime 劲能四驱版
+27.2888
+//www.autohome.com.cn/spec/46092/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+大众ID.3
+紧凑型车
+430
+450
+170
+170
+15.9888
+17.9288
+4.53
+0.67
+8.5
+Version Node Start
+2022款 Pure 纯净版
+16.5288
+//www.autohome.com.cn/spec/56123/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Pro 极智版
+17.9288
+//www.autohome.com.cn/spec/56124/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Pure 纯净版
+15.9888
+//www.autohome.com.cn/spec/53867/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Pro 极智版
+17.3888
+//www.autohome.com.cn/spec/51720/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+ID.6 X
+中大型SUV
+436
+617
+180
+313
+23.9888
+33.5888
+4.51
+0.67
+12.5
+Version Node Start
+2022款 纯净版
+24.5288
+//www.autohome.com.cn/spec/56125/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Pure 纯净版
+23.9888
+//www.autohome.com.cn/spec/51768/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 智享纯净长续航版
+26.8788
+//www.autohome.com.cn/spec/56126/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 纯净长续航版
+27.1288
+//www.autohome.com.cn/spec/56344/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 智享长续航版
+28.1788
+//www.autohome.com.cn/spec/56127/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 极智长续航版
+28.4288
+//www.autohome.com.cn/spec/56345/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 改款 Pure+ 纯净长续航版
+26.5888
+//www.autohome.com.cn/spec/54323/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Pro 极智长续航版
+27.8888
+//www.autohome.com.cn/spec/51770/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 1st Edition ID.初见版
+27.8888
+//www.autohome.com.cn/spec/51772/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 劲能四驱版
+33.5888
+//www.autohome.com.cn/spec/56128/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Prime 智享四驱版
+33.1888
+//www.autohome.com.cn/spec/53436/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Prime 劲能四驱版
+33.5888
+//www.autohome.com.cn/spec/51771/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+帕萨特新能源
+中型车
+63
+63
+0
+0
+22.99
+23.89
+4.5
+0
+0
+Version Node Start
+2022款 430PHEV 混动精英版
+22.99
+//www.autohome.com.cn/spec/52744/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 430PHEV 混动豪华版
+23.89
+//www.autohome.com.cn/spec/51206/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+途观L新能源
+中型SUV
+55
+55
+0
+0
+25.78
+26.88
+4.54
+0
+0
+Version Node Start
+2022款 430PHEV 插电混动尊贵版
+25.78
+//www.autohome.com.cn/spec/52767/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 430PHEV 插电混动旗舰版
+26.88
+//www.autohome.com.cn/spec/50132/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+途岳新能源
+紧凑型SUV
+315
+315
+136
+136
+19.48
+19.48
+4.5
+0.87
+6.5
+Version Node Start
+2021款 全景优享版
+19.48
+//www.autohome.com.cn/spec/43247/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+ID.6 CROZZ
+中大型SUV
+439
+601
+180
+313
+23.98
+33.48
+4.51
+0
+0
+Version Node Start
+2022款 标准续航PURE版
+24.52
+//www.autohome.com.cn/spec/56427/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 标准续航PURE版
+23.98
+//www.autohome.com.cn/spec/52022/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 长续航PURE+版
+27.22
+//www.autohome.com.cn/spec/56428/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 长续航PRO版
+28.52
+//www.autohome.com.cn/spec/56429/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 长续航PURE+版
+26.68
+//www.autohome.com.cn/spec/52023/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 改款 长续航PURE+版
+26.68
+//www.autohome.com.cn/spec/55300/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 长续航PRO版
+27.98
+//www.autohome.com.cn/spec/50135/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 改款 长续航PRO版
+27.98
+//www.autohome.com.cn/spec/55301/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 首发版
+27.88
+//www.autohome.com.cn/spec/52024/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 高性能PRIME版
+33.48
+//www.autohome.com.cn/spec/56430/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 高性能PRIME版
+33.48
+//www.autohome.com.cn/spec/50784/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+ID.4 CROZZ
+紧凑型SUV
+405
+600
+170
+313
+19.99
+28.53
+4.53
+0.5
+0.0
+Version Node Start
+2022款 标准续航PURE版
+20.53
+//www.autohome.com.cn/spec/56431/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 标准续航PURE两驱版
+19.99
+//www.autohome.com.cn/spec/49592/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 长续航PURE+版
+22.53
+//www.autohome.com.cn/spec/56432/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 长续航Lite PRO版
+24.28
+//www.autohome.com.cn/spec/56433/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 长续航PRO版
+24.53
+//www.autohome.com.cn/spec/56434/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 长续航PURE+两驱版
+21.99
+//www.autohome.com.cn/spec/49593/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 长续航Lite PRO两驱版
+23.74
+//www.autohome.com.cn/spec/55327/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 长续航PRO两驱版
+23.99
+//www.autohome.com.cn/spec/49181/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 高性能PRIME版
+28.53
+//www.autohome.com.cn/spec/56435/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 高性能PRIME四驱版
+27.99
+//www.autohome.com.cn/spec/49104/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+迈腾GTE插电混动
+中型车
+63
+63
+0
+0
+23.79
+25.29
+4.29
+0
+0
+Version Node Start
+2022款 GTE 豪华型
+23.79
+//www.autohome.com.cn/spec/54800/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 GTE 尊贵型
+25.29
+//www.autohome.com.cn/spec/54801/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+探岳GTE插电混动
+中型SUV
+56
+56
+0
+0
+24.29
+25.29
+0.0
+0
+0
+Version Node Start
+2022款 1.4T 豪华型
+24.29
+//www.autohome.com.cn/spec/54798/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 1.4T 尊贵型
+25.29
+//www.autohome.com.cn/spec/54799/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+宝来·纯电
+紧凑型车
+346
+346
+136
+136
+14.08
+15.08
+4.75
+0.6
+0.0
+Version Node Start
+2021款 尚
+14.08
+//www.autohome.com.cn/spec/51061/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 尚Pro
+15.08
+//www.autohome.com.cn/spec/51062/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+途锐新能源
+中大型SUV
+58
+58
+0
+0
+67.98
+67.98
+4.75
+2.5
+10.8
+Version Node Start
+2022款 eHybrid
+67.98
+//www.autohome.com.cn/spec/55512/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 eHybrid
+67.98
+//www.autohome.com.cn/spec/48552/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+ZEEKR
+https://car.autohome.com.cn/diandongche/brand-456.html
+Model Node Start
+ZEEKR 001
+中大型车
+526
+712
+272
+544
+29.9
+36.8
+4.54
+0
+0
+Version Node Start
+2021款 超长续航单电机 WE版
+29.9
+//www.autohome.com.cn/spec/50750/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 长续航双电机 WE版
+29.9
+//www.autohome.com.cn/spec/50749/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 超长续航双电机 YOU版
+36.8
+//www.autohome.com.cn/spec/50437/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+NIO
+https://car.autohome.com.cn/diandongche/brand-284.html
+Model Node Start
+蔚来ET7
+中大型车
+500
+700
+653
+653
+44.8
+52.6
+4.88
+0
+0
+Version Node Start
+2022款 75kWh
+44.8
+//www.autohome.com.cn/spec/49481/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 100kWh
+50.6
+//www.autohome.com.cn/spec/49482/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 100kWh 首发版
+52.6
+//www.autohome.com.cn/spec/49483/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+蔚来ES6
+中型SUV
+455
+610
+435
+544
+35.8
+52.6
+4.53
+0.6
+0.0
+Version Node Start
+2020款 455KM 运动版
+35.8
+//www.autohome.com.cn/spec/53428/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 600KM 运动版
+41.6
+//www.autohome.com.cn/spec/47621/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 465KM 性能版
+39.8
+//www.autohome.com.cn/spec/53429/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 610KM 性能版
+45.6
+//www.autohome.com.cn/spec/47622/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 465KM 签名版
+46.8
+//www.autohome.com.cn/spec/53430/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 610KM 签名版
+52.6
+//www.autohome.com.cn/spec/47623/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+蔚来ES8
+中大型SUV
+450
+580
+544
+544
+46.8
+62.4
+4.54
+0.6
+0.0
+Version Node Start
+2020款 450KM 六座版
+47.6
+//www.autohome.com.cn/spec/53425/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 450KM 七座版
+46.8
+//www.autohome.com.cn/spec/53424/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 450KM 签名版 六座版
+56.6
+//www.autohome.com.cn/spec/53427/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 450KM 签名版 七座版
+55.8
+//www.autohome.com.cn/spec/53426/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 580KM 六座版
+53.4
+//www.autohome.com.cn/spec/43384/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 580KM 七座版
+52.6
+//www.autohome.com.cn/spec/43378/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 580KM 签名版 六座版
+62.4
+//www.autohome.com.cn/spec/43387/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 580KM 签名版 七座版
+61.6
+//www.autohome.com.cn/spec/43381/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+蔚来ET5
+中型车
+550
+700
+490
+490
+32.8
+38.6
+0.0
+0
+0
+Version Node Start
+2022款 75kWh
+32.8
+//www.autohome.com.cn/spec/53838/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 100kWh
+38.6
+//www.autohome.com.cn/spec/55065/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+蔚来EC6
+中型SUV
+465
+615
+435
+544
+36.8
+52.6
+4.54
+0.6
+0.0
+Version Node Start
+2020款 465KM 运动版
+36.8
+//www.autohome.com.cn/spec/53431/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 605KM 运动版
+42.6
+//www.autohome.com.cn/spec/43389/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 475KM 性能版
+40.8
+//www.autohome.com.cn/spec/53432/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 615KM 性能版
+46.6
+//www.autohome.com.cn/spec/43391/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 475KM 签名版
+46.8
+//www.autohome.com.cn/spec/53433/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 615KM 签名版
+52.6
+//www.autohome.com.cn/spec/46800/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+XPENG
+https://car.autohome.com.cn/diandongche/brand-275.html
+Model Node Start
+小鹏P7
+中型车
+480
+706
+267
+430
+23.99
+42.99
+4.53
+0.42
+6.5
+Version Node Start
+2021款 480G
+23.99
+//www.autohome.com.cn/spec/53576/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 480N
+24.99
+//www.autohome.com.cn/spec/50024/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 480N+
+25.29
+//www.autohome.com.cn/spec/54172/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 480E
+25.99
+//www.autohome.com.cn/spec/50025/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 586N
+27.09
+//www.autohome.com.cn/spec/45221/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 586E
+28.09
+//www.autohome.com.cn/spec/45223/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 706G
+27.09
+//www.autohome.com.cn/spec/43354/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 670G
+27.29
+//www.autohome.com.cn/spec/53577/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 670N
+28.29
+//www.autohome.com.cn/spec/45224/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 670N+
+28.59
+//www.autohome.com.cn/spec/54173/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 670E
+31.49
+//www.autohome.com.cn/spec/45225/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 670E+
+31.79
+//www.autohome.com.cn/spec/55181/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 670E+ Black Label Edition
+32.99
+//www.autohome.com.cn/spec/56231/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 670E鹏翼版
+38.69
+//www.autohome.com.cn/spec/48858/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 670E+鹏翼版
+38.79
+//www.autohome.com.cn/spec/55182/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 562E性能版
+34.99
+//www.autohome.com.cn/spec/38606/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 562E鹏翼性能版
+42.99
+//www.autohome.com.cn/spec/48927/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+小鹏P5
+紧凑型车
+450
+600
+211
+211
+17.79
+24.29
+4.43
+0.5
+0.0
+Version Node Start
+2021款 460G
+17.79
+//www.autohome.com.cn/spec/52270/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 460G+
+17.99
+//www.autohome.com.cn/spec/55688/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 460E
+19.59
+//www.autohome.com.cn/spec/52271/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 460E+
+19.79
+//www.autohome.com.cn/spec/55689/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 510G
+18.89
+//www.autohome.com.cn/spec/55690/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 510E
+20.69
+//www.autohome.com.cn/spec/55691/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 550G
+19.39
+//www.autohome.com.cn/spec/52272/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 550E
+21.19
+//www.autohome.com.cn/spec/52273/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 550P
+21.89
+//www.autohome.com.cn/spec/52274/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 600P
+24.29
+//www.autohome.com.cn/spec/50446/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+小鹏G3
+紧凑型SUV
+460
+520
+197
+197
+16.89
+20.39
+4.53
+0.58
+5.5
+Version Node Start
+2021款 G3i 460G
+16.89
+//www.autohome.com.cn/spec/52144/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 G3i 460N
+18.89
+//www.autohome.com.cn/spec/52145/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 G3i 520G
+18.19
+//www.autohome.com.cn/spec/52146/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 G3i 520G+
+18.39
+//www.autohome.com.cn/spec/55163/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 G3i 520N
+20.19
+//www.autohome.com.cn/spec/51781/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 G3i 520N+
+20.39
+//www.autohome.com.cn/spec/55164/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+Mercedes-Benz
+https://car.autohome.com.cn/diandongche/brand-36.html
+Model Node Start
+奔驰EQS
+大型车
+720
+849
+333
+517
+107.96
+151.86
+0.0
+0.62
+0.0
+Version Node Start
+2022款 450+ 先锋版
+107.96
+//www.autohome.com.cn/spec/55056/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 450+ 豪华版
+119.36
+//www.autohome.com.cn/spec/50979/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 450+ 先型特别版
+131.76
+//www.autohome.com.cn/spec/55057/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 580 4MATIC
+151.86
+//www.autohome.com.cn/spec/50367/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+奔驰E级新能源
+中大型车
+101
+120
+0
+0
+51.76
+51.83
+4.38
+1.0
+0.0
+Version Node Start
+2022款 改款二 E 350 e L 插电式混合动力轿车
+51.76
+//www.autohome.com.cn/spec/56292/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 改款二 E 350 e L 插电式混合动力运动轿车
+51.76
+//www.autohome.com.cn/spec/56293/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 改款 E 350 e L 插电式混合动力轿车
+51.83
+//www.autohome.com.cn/spec/54847/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 改款 E 350 e L 插电式混合动力运动轿车
+51.83
+//www.autohome.com.cn/spec/54848/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+奔驰EQC
+中型SUV
+415
+443
+286
+408
+49.98
+57.98
+4.4
+0.75
+0.0
+Version Node Start
+2022款 EQC 350 4MATIC
+49.98
+//www.autohome.com.cn/spec/55653/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 EQC 350 4MATIC 特别版
+50.98
+//www.autohome.com.cn/spec/55744/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 EQC 350 4MATIC
+49.98
+//www.autohome.com.cn/spec/50171/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 EQC 400 4MATIC
+57.98
+//www.autohome.com.cn/spec/55658/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 EQC 400 4MATIC
+57.98
+//www.autohome.com.cn/spec/50052/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+奔驰EQA
+紧凑型SUV
+537
+619
+190
+228
+32.18
+36.58
+0.0
+0.75
+0.0
+Version Node Start
+2022款 EQA 260
+32.18
+//www.autohome.com.cn/spec/54245/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 EQA 300 4MATIC 首发特别版
+36.58
+//www.autohome.com.cn/spec/50822/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+奔驰EQB
+紧凑型SUV
+512
+512
+292
+292
+43.78
+43.78
+0.0
+0.75
+0.0
+Version Node Start
+2022款 EQB 350 4MATIC 首发特别版
+43.78
+//www.autohome.com.cn/spec/50825/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+奔驰GLE新能源
+中大型SUV
+88
+103
+0
+0
+79.98
+82.24
+4.6
+0.3
+3.5
+Version Node Start
+2022款 GLE 350 e 4MATIC
+82.24
+//www.autohome.com.cn/spec/54699/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 GLE 350 e 4MATIC
+79.98
+//www.autohome.com.cn/spec/50762/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+奔驰GLE轿跑新能源
+中大型SUV
+103
+103
+0
+0
+82.88
+85.14
+3.75
+0.33
+3.5
+Version Node Start
+2022款 GLE 350 e 4MATIC 轿跑SUV
+85.14
+//www.autohome.com.cn/spec/54947/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 GLE 350 e 4MATIC 轿跑SUV
+82.88
+//www.autohome.com.cn/spec/48939/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+BMW
+https://car.autohome.com.cn/diandongche/brand-15.html
+Model Node Start
+宝马i3
+中型车
+526
+526
+286
+286
+34.99
+34.99
+0.0
+0.58
+6.75
+Version Node Start
+2022款 eDrive 35 L
+34.99
+//www.autohome.com.cn/spec/54899/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+宝马iX3
+中型SUV
+535
+550
+286
+286
+39.99
+43.99
+4.54
+0.75
+7.5
+Version Node Start
+2022款 领先型
+39.99
+//www.autohome.com.cn/spec/52972/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 创领型
+43.99
+//www.autohome.com.cn/spec/53240/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+宝马5系新能源
+中大型车
+95
+95
+0
+0
+49.99
+53.69
+4.44
+0.0
+3.9
+Version Node Start
+2022款 改款 535Le 豪华套装
+49.99
+//www.autohome.com.cn/spec/54018/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 改款 535Le M运动套装
+49.99
+//www.autohome.com.cn/spec/54019/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 改款 535Le 先锋版M运动套装
+53.69
+//www.autohome.com.cn/spec/54020/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+宝马X1新能源
+紧凑型SUV
+110
+110
+0
+0
+39.98
+39.98
+0.0
+0
+0
+Version Node Start
+2021款 xDrive30Le 尊享型
+39.98
+//www.autohome.com.cn/spec/47823/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+宝马i4
+中型车
+560
+625
+340
+544
+44.99
+53.99
+0.0
+0.77
+8.25
+Version Node Start
+2022款 eDrive40
+44.99
+//www.autohome.com.cn/spec/51513/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 M50
+53.99
+//www.autohome.com.cn/spec/51514/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+宝马iX
+中大型SUV
+455
+630
+326
+619
+74.69
+99.69
+4.13
+0.68
+10.75
+Version Node Start
+2022款 xDrive40
+74.69
+//www.autohome.com.cn/spec/55270/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 xDrive50
+84.69
+//www.autohome.com.cn/spec/50210/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 M60
+99.69
+//www.autohome.com.cn/spec/55271/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+宝马X5新能源(进口)
+中大型SUV
+85
+85
+0
+0
+85.99
+85.99
+0.0
+0.0
+6.5
+Version Node Start
+2022款 xDrive45e M运动套装
+85.99
+//www.autohome.com.cn/spec/54734/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+BYD
+https://car.autohome.com.cn/diandongche/brand-75.html
+Model Node Start
+汉
+中大型车
+81
+715
+0
+0
+21.48
+32.98
+4.53
+0.42
+0.0
+Version Node Start
+2022款 DM-i 121KM 尊贵型
+21.58
+//www.autohome.com.cn/spec/56153/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 DM-i 121KM 尊荣型
+22.58
+//www.autohome.com.cn/spec/56152/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 DM-i 121KM 尊享型
+23.58
+//www.autohome.com.cn/spec/55313/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 DM-i 242KM 旗舰型
+28.98
+//www.autohome.com.cn/spec/56151/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 DM-p 202KM 四驱旗舰型
+31.98
+//www.autohome.com.cn/spec/55886/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 DM 四驱性能版豪华型
+22.28
+//www.autohome.com.cn/spec/43481/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 DM 四驱性能版尊贵型
+24.28
+//www.autohome.com.cn/spec/46953/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 EV 标准续航版豪华型
+21.48
+//www.autohome.com.cn/spec/52453/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 EV 超长续航版豪华型
+23.48
+//www.autohome.com.cn/spec/45619/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 EV 超长续航版尊贵型
+26.08
+//www.autohome.com.cn/spec/45620/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 EV 创世版 715KM前驱尊荣型
+26.98
+//www.autohome.com.cn/spec/56566/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 EV 创世版 715KM前驱旗舰型
+28.75
+//www.autohome.com.cn/spec/56542/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 EV 四驱高性能版旗舰型
+28.45
+//www.autohome.com.cn/spec/42643/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 EV 创世版 610KM四驱尊享型
+28.86
+//www.autohome.com.cn/spec/56451/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 EV 610KM四驱千山翠限量版
+32.98
+//www.autohome.com.cn/spec/56567/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+宋PLUS新能源
+紧凑型SUV
+51
+505
+0
+0
+15.28
+20.58
+4.52
+0.5
+0.0
+Version Node Start
+2021款 DM-i 51KM 尊贵型
+15.28
+//www.autohome.com.cn/spec/49505/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 DM-i 51KM 尊荣型
+16.28
+//www.autohome.com.cn/spec/49506/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 DM-i 110KM 旗舰型
+16.58
+//www.autohome.com.cn/spec/49507/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 DM-i 110KM 旗舰PLUS
+17.58
+//www.autohome.com.cn/spec/49508/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 DM-i 100KM 四驱旗舰PLUS
+20.58
+//www.autohome.com.cn/spec/53500/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 EV 尊贵型
+18.08
+//www.autohome.com.cn/spec/50586/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 EV 旗舰型
+19.78
+//www.autohome.com.cn/spec/45550/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+唐新能源
+中型SUV
+81
+565
+0
+0
+20.58
+31.48
+4.52
+0.5
+0.0
+Version Node Start
+2021款 DM-i 112KM 尊贵型
+20.58
+//www.autohome.com.cn/spec/49503/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 DM-i 112KM 尊荣型
+22.28
+//www.autohome.com.cn/spec/49504/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 DM 2.0T 四驱性能版尊贵型
+23.98
+//www.autohome.com.cn/spec/46808/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 DM 2.0T 四驱高性能版尊荣型
+26.98
+//www.autohome.com.cn/spec/47191/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 DM 2.0T 四驱高性能版创世旗舰型
+28.98
+//www.autohome.com.cn/spec/46572/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 EV 长续航版尊荣型
+27.95
+//www.autohome.com.cn/spec/47189/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 EV 四驱高性能版尊荣型
+28.35
+//www.autohome.com.cn/spec/49155/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 EV 四驱高性能版创世旗舰型
+31.48
+//www.autohome.com.cn/spec/47190/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+秦PLUS
+紧凑型车
+55
+600
+0
+0
+11.18
+17.58
+4.53
+0.5
+0.0
+Version Node Start
+2021款 EV 400KM 豪华型
+13.88
+//www.autohome.com.cn/spec/50587/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 EV 500KM 豪华型
+14.88
+//www.autohome.com.cn/spec/50588/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 EV 500KM 尊贵型
+15.88
+//www.autohome.com.cn/spec/50589/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 EV 400KM 出行版
+16.98
+//www.autohome.com.cn/spec/51966/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 EV 400KM 领畅版
+17.48
+//www.autohome.com.cn/spec/51965/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 EV 600KM 旗舰型
+17.58
+//www.autohome.com.cn/spec/49774/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 DM-i 55KM 尊贵型
+11.18
+//www.autohome.com.cn/spec/49498/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 DM-i 55KM 旗舰型
+12.58
+//www.autohome.com.cn/spec/49499/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 DM-i 120KM 尊贵型
+13.58
+//www.autohome.com.cn/spec/49500/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 DM-i 120KM 旗舰型
+15.18
+//www.autohome.com.cn/spec/49501/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+海豚
+小型车
+301
+405
+95
+177
+10.28
+13.08
+4.51
+0.5
+0.0
+Version Node Start
+2021款 301km 活力版
+10.28
+//www.autohome.com.cn/spec/52323/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 405km 自由版
+11.28
+//www.autohome.com.cn/spec/52655/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 405km 时尚版
+11.78
+//www.autohome.com.cn/spec/51852/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 401km 骑士版
+13.08
+//www.autohome.com.cn/spec/52656/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+驱逐舰05
+紧凑型车
+55
+120
+0
+0
+11.98
+15.58
+4.55
+0
+0
+Version Node Start
+2022款 DM-i 55KM 舒适型
+11.98
+//www.autohome.com.cn/spec/55772/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 DM-i 55KM 豪华型
+12.98
+//www.autohome.com.cn/spec/55773/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 DM-i 55KM 尊贵型
+13.58
+//www.autohome.com.cn/spec/55774/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 DM-i 120KM 尊贵型
+14.18
+//www.autohome.com.cn/spec/55771/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 DM-i 120KM 旗舰型
+15.58
+//www.autohome.com.cn/spec/52587/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+元PLUS
+紧凑型SUV
+430
+510
+204
+204
+13.78
+16.58
+4.5
+0.5
+0.0
+Version Node Start
+2022款 430KM 豪华型
+13.78
+//www.autohome.com.cn/spec/55069/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 430KM 尊贵型
+14.48
+//www.autohome.com.cn/spec/54409/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 510KM 尊荣型
+14.78
+//www.autohome.com.cn/spec/55071/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 510KM 旗舰型
+15.78
+//www.autohome.com.cn/spec/52183/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 510KM 旗舰型PLUS
+16.58
+//www.autohome.com.cn/spec/55070/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+宋Pro新能源
+紧凑型SUV
+51
+110
+0
+0
+13.88
+16.38
+4.54
+0
+0
+Version Node Start
+2022款 DM-i 51km 豪华型
+13.88
+//www.autohome.com.cn/spec/54688/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 DM-i 51km 尊贵型
+14.58
+//www.autohome.com.cn/spec/54689/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 DM-i 51km 尊荣型
+15.28
+//www.autohome.com.cn/spec/54690/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 DM-i 110km 旗舰型
+15.58
+//www.autohome.com.cn/spec/54691/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 DM-i 110km 旗舰型Pro
+16.38
+//www.autohome.com.cn/spec/53895/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+宋MAX新能源
+紧凑型MPV
+51
+105
+0
+0
+14.58
+17.28
+4.27
+0.5
+0.0
+Version Node Start
+2022款 DM-i 51KM 豪华型
+14.58
+//www.autohome.com.cn/spec/55328/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 DM-i 51KM 尊贵型
+15.28
+//www.autohome.com.cn/spec/55329/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 DM-i 105KM 尊荣型
+15.58
+//www.autohome.com.cn/spec/55330/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 DM-i 105KM 旗舰型
+16.28
+//www.autohome.com.cn/spec/55331/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 DM-i 105KM 行政版
+17.28
+//www.autohome.com.cn/spec/55009/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+比亚迪e2
+紧凑型车
+301
+401
+95
+136
+9.58
+14.58
+4.52
+0.5
+0.0
+Version Node Start
+2021款 标准型
+9.58
+//www.autohome.com.cn/spec/53581/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 舒适型
+10.58
+//www.autohome.com.cn/spec/50581/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 豪华型
+11.28
+//www.autohome.com.cn/spec/50512/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 尊贵型
+12.18
+//www.autohome.com.cn/spec/50582/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 出行版
+14.58
+//www.autohome.com.cn/spec/51405/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 领畅版
+14.48
+//www.autohome.com.cn/spec/52636/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+秦新能源
+紧凑型车
+400
+450
+136
+136
+12.99
+17.48
+4.53
+0.5
+0.0
+Version Node Start
+2021款 出行版
+16.58
+//www.autohome.com.cn/spec/51305/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 领畅版
+16.98
+//www.autohome.com.cn/spec/52639/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 高续航版 豪华型
+12.99
+//www.autohome.com.cn/spec/41548/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 高续航版 尊贵型
+13.99
+//www.autohome.com.cn/spec/39780/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 出行标准版
+17.18
+//www.autohome.com.cn/spec/46979/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 出行版
+17.48
+//www.autohome.com.cn/spec/42737/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+元Pro
+小型SUV
+301
+401
+136
+136
+9.28
+11.28
+4.45
+0.5
+0.0
+Version Node Start
+2021款 301KM 舒适型
+9.28
+//www.autohome.com.cn/spec/51971/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 401KM 豪华型
+10.28
+//www.autohome.com.cn/spec/51972/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 401KM 尊贵型
+11.28
+//www.autohome.com.cn/spec/51973/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+秦Pro新能源
+紧凑型车
+53
+520
+0
+0
+13.69
+20.49
+4.48
+0.5
+0.0
+Version Node Start
+2019款 EV 超能版 标准版智联领尚型
+14.99
+//www.autohome.com.cn/spec/39398/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 EV 出行版
+18.19
+//www.autohome.com.cn/spec/42577/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 EV 领航版
+20.49
+//www.autohome.com.cn/spec/43216/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 EV 超能版 高功率智联领动型
+16.99
+//www.autohome.com.cn/spec/39399/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 EV 超能版 高功率智联领享型
+17.99
+//www.autohome.com.cn/spec/39144/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 EV 超能版 高功率智联领耀型
+18.99
+//www.autohome.com.cn/spec/39400/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 EV 超能版 高功率高续航智联领越型
+18.99
+//www.autohome.com.cn/spec/38498/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 EV 超能版 高功率高续航智联领创型
+19.99
+//www.autohome.com.cn/spec/38499/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 DM 超能版 1.5TI 自动智联劲尚型 国VI
+13.69
+//www.autohome.com.cn/spec/38509/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 DM 超能版 1.5TI 自动智联劲炫型 国VI
+14.69
+//www.autohome.com.cn/spec/38510/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 DM 超能版 1.5TI 自动智联劲速型 国VI
+15.69
+//www.autohome.com.cn/spec/38512/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 DM 超能版 1.5TI 自动智联劲享型 国VI
+16.99
+//www.autohome.com.cn/spec/40941/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 DM 超能版 1.5TI 自动智联劲睿型 国VI
+17.99
+//www.autohome.com.cn/spec/40942/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 DM 1.5TI 自动领航版
+20.49
+//www.autohome.com.cn/spec/43215/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+比亚迪e9
+中大型车
+506
+506
+222
+222
+23.58
+23.58
+0.0
+0.5
+0.0
+Version Node Start
+2021款 商务版
+23.58
+//www.autohome.com.cn/spec/48687/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+比亚迪D1
+紧凑型MPV
+418
+418
+136
+136
+15.78
+16.78
+0.0
+0.5
+0.0
+Version Node Start
+2022款 舒适版
+15.78
+//www.autohome.com.cn/spec/56708/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 领创版
+16.78
+//www.autohome.com.cn/spec/46706/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+AITO
+https://car.autohome.com.cn/diandongche/brand-509.html
+Model Node Start
+问界M5
+中型SUV
+180
+200
+0
+0
+25.98
+31.98
+4.51
+0.75
+0.0
+Version Node Start
+2022款 后驱标准版
+25.98
+//www.autohome.com.cn/spec/55142/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 四驱性能版
+27.98
+//www.autohome.com.cn/spec/53200/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 四驱至臻版
+28.88
+//www.autohome.com.cn/spec/56161/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 四驱旗舰版
+31.98
+//www.autohome.com.cn/spec/55143/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+ARCFOX
+https://car.autohome.com.cn/diandongche/brand-272.html
+Model Node Start
+极狐 阿尔法S(ARCFOX αS)
+中大型车
+525
+708
+218
+435
+25.19
+34.49
+4.53
+0.5
+15.5
+Version Node Start
+2021款 525S
+25.19
+//www.autohome.com.cn/spec/50803/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 525S+
+26.89
+//www.autohome.com.cn/spec/49577/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 708S+
+28.19
+//www.autohome.com.cn/spec/49578/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 603H
+34.49
+//www.autohome.com.cn/spec/49579/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+极狐 阿尔法T(ARCFOX αT)
+中型SUV
+480
+653
+218
+435
+24.19
+31.99
+4.54
+0.43
+15.5
+Version Node Start
+2021款 480S
+24.19
+//www.autohome.com.cn/spec/47985/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 480S+
+25.69
+//www.autohome.com.cn/spec/43519/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 653S
+26.19
+//www.autohome.com.cn/spec/47248/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 653S+
+27.69
+//www.autohome.com.cn/spec/47249/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 四驱性能版 H
+31.99
+//www.autohome.com.cn/spec/47487/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+Honda
+https://car.autohome.com.cn/diandongche/brand-14.html
+Model Node Start
+本田CR-V新能源
+紧凑型SUV
+84
+85
+0
+0
+27.38
+29.98
+4.64
+0
+0
+Version Node Start
+2021款 锐·混动e+ 2.0L 睿智版
+27.38
+//www.autohome.com.cn/spec/49737/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 锐·混动e+ 2.0L 睿驰版
+28.98
+//www.autohome.com.cn/spec/49650/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 锐·混动e+ 2.0L 睿雅版
+29.98
+//www.autohome.com.cn/spec/47645/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+皓影新能源
+紧凑型SUV
+84
+85
+0
+0
+27.38
+29.98
+4.0
+0
+0
+Version Node Start
+2022款 e:PHEV 豪华版
+27.38
+//www.autohome.com.cn/spec/53740/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 e:PHEV 尊贵版
+28.48
+//www.autohome.com.cn/spec/49221/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 e:PHEV 尊享版
+29.98
+//www.autohome.com.cn/spec/53741/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+TOYOTA
+https://car.autohome.com.cn/diandongche/brand-3.html
+Model Node Start
+RAV4荣放双擎E+
+紧凑型SUV
+87
+95
+0
+0
+24.88
+29.68
+4.54
+0.0
+9.5
+Version Node Start
+2021款 2.5L 两驱都市Pro
+24.88
+//www.autohome.com.cn/spec/50782/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 2.5L 两驱精英Pro
+25.68
+//www.autohome.com.cn/spec/50783/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 2.5L 四驱旗舰Pro
+29.68
+//www.autohome.com.cn/spec/48771/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+卡罗拉双擎E+
+紧凑型车
+55
+55
+0
+0
+20.78
+23.08
+4.56
+0
+0
+Version Node Start
+2019款 1.8L E-CVT先锋版
+20.78
+//www.autohome.com.cn/spec/37200/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 1.8L E-CVT领先版
+20.98
+//www.autohome.com.cn/spec/37201/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 1.8L E-CVT舒适版
+21.48
+//www.autohome.com.cn/spec/44943/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 1.8L E-CVT豪华版
+21.98
+//www.autohome.com.cn/spec/37202/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 1.8L E-CVT旗舰版
+23.08
+//www.autohome.com.cn/spec/34527/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+奕泽E进擎
+小型SUV
+400
+400
+204
+204
+22.58
+25.38
+4.57
+0.83
+6.5
+Version Node Start
+2020款 E·智行版
+22.58
+//www.autohome.com.cn/spec/45639/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 E·智享版
+23.78
+//www.autohome.com.cn/spec/45640/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 E·智尊版
+25.38
+//www.autohome.com.cn/spec/38860/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+威兰达新能源
+紧凑型SUV
+87
+95
+0
+0
+25.88
+29.98
+4.56
+0
+0
+Version Node Start
+2021款 高性能版 2.5L 两驱劲擎版
+25.88
+//www.autohome.com.cn/spec/51146/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 高性能版 2.5L 四驱劲擎版
+28.28
+//www.autohome.com.cn/spec/51187/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 高性能版 2.5L 四驱激擎版
+29.98
+//www.autohome.com.cn/spec/48937/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+雷凌双擎E+
+紧凑型车
+55
+55
+0
+0
+20.38
+21.88
+4.45
+0.0
+3.0
+Version Node Start
+2019款 1.8PH GS E-CVT精英版
+20.38
+//www.autohome.com.cn/spec/37829/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 1.8PH GS E-CVT精英风尚版
+20.98
+//www.autohome.com.cn/spec/38130/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 1.8PH GS E-CVT精英天窗版
+21.28
+//www.autohome.com.cn/spec/37830/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 1.8PH V E-CVT豪华版
+21.88
+//www.autohome.com.cn/spec/34520/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+丰田C-HR EV
+小型SUV
+400
+400
+204
+204
+22.58
+24.98
+4.58
+0.83
+6.5
+Version Node Start
+2020款 领先版
+22.58
+//www.autohome.com.cn/spec/45129/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 豪华版
+22.88
+//www.autohome.com.cn/spec/45130/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 豪华天窗版
+23.28
+//www.autohome.com.cn/spec/45131/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 尊贵版
+24.58
+//www.autohome.com.cn/spec/45132/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 尊贵天窗版
+24.98
+//www.autohome.com.cn/spec/44730/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+Marvel-R
+https://car.autohome.com.cn/diandongche/brand-438.html
+Model Node Start
+飞凡ER6
+紧凑型车
+520
+620
+184
+184
+15.68
+20.18
+4.44
+0.5
+0.0
+Version Node Start
+2021款 新动版 520km 智领版
+15.68
+//www.autohome.com.cn/spec/53078/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 新动版 620km 智行版
+16.38
+//www.autohome.com.cn/spec/51796/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 新动版 620km 智享版
+17.68
+//www.autohome.com.cn/spec/51797/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 新动版 620km 智尊版
+20.18
+//www.autohome.com.cn/spec/51609/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+飞凡MARVEL R
+中型SUV
+460
+505
+186
+302
+21.98
+26.18
+4.51
+0.5
+0.0
+Version Node Start
+2021款 后驱标准版
+21.98
+//www.autohome.com.cn/spec/49795/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 后驱PRO版
+24.18
+//www.autohome.com.cn/spec/48781/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 四驱PRO版
+26.18
+//www.autohome.com.cn/spec/49796/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+Ford
+https://car.autohome.com.cn/diandongche/brand-8.html
+Model Node Start
+Mustang Mach-E
+中型SUV
+492
+619
+273
+488
+26.5
+37.99
+4.52
+0.45
+4.5
+Version Node Start
+2021款 跃世后驱版(标准续航)
+26.5
+//www.autohome.com.cn/spec/50685/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 无疆后驱版(长续航)
+28.2
+//www.autohome.com.cn/spec/52287/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 无疆后驱豪华版(长续航)
+30.99
+//www.autohome.com.cn/spec/50686/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 追风全驱豪华版(长续航)
+34.74
+//www.autohome.com.cn/spec/50687/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 GT
+36.99
+//www.autohome.com.cn/spec/53652/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 GT First Edition
+37.99
+//www.autohome.com.cn/spec/49699/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+领界EV
+紧凑型SUV
+435
+435
+163
+163
+17.98
+19.28
+4.63
+0.53
+8.4
+Version Node Start
+2020款 静领型
+17.98
+//www.autohome.com.cn/spec/46918/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 耀领型
+19.28
+//www.autohome.com.cn/spec/46919/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+锐际新能源
+紧凑型SUV
+77
+77
+0
+0
+21.0
+21.0
+0.0
+0
+0
+Version Node Start
+2021款 PHEV
+21.0
+//www.autohome.com.cn/spec/45547/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+Polestar
+https://car.autohome.com.cn/diandongche/brand-308.html
+Model Node Start
+Polestar 2
+紧凑型车
+485
+565
+224
+408
+25.78
+33.8
+4.7
+0.55
+0.0
+Version Node Start
+2021款 单电机标准续航
+25.78
+//www.autohome.com.cn/spec/50689/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 单电机长续航
+28.78
+//www.autohome.com.cn/spec/50690/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 双电机长续航
+33.8
+//www.autohome.com.cn/spec/50691/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+Polestar 1
+跑车
+135
+135
+0
+0
+145.0
+145.0
+0.0
+0
+0
+Version Node Start
+2018款 标准型
+145.0
+//www.autohome.com.cn/spec/32172/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+Audi
+https://car.autohome.com.cn/diandongche/brand-33.html
+Model Node Start
+奥迪Q5 e-tron
+中大型SUV
+520
+560
+204
+306
+39.55
+51.0
+0.0
+0
+0
+Version Node Start
+2022款 40 e-tron 星耀型 锦衣套装
+39.55
+//www.autohome.com.cn/spec/54423/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 40 e-tron 星耀型 锦衣套装 逐日版
+40.55
+//www.autohome.com.cn/spec/55746/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 40 e-tron 星耀型 机甲套装
+39.55
+//www.autohome.com.cn/spec/54581/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 40 e-tron 星耀型 机甲套装 逐日版
+40.55
+//www.autohome.com.cn/spec/55747/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 50 e-tron quattro 荣耀型 锦衣套装
+48.55
+//www.autohome.com.cn/spec/52586/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 50 e-tron quattro 荣耀型 锦衣套装 逐日版
+49.55
+//www.autohome.com.cn/spec/55748/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 50 e-tron quattro 荣耀型 机甲套装
+48.55
+//www.autohome.com.cn/spec/54580/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 50 e-tron quattro 荣耀型 机甲套装 逐日版
+49.55
+//www.autohome.com.cn/spec/55749/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 50 e-tron quattro edition one 艺创典藏版
+51.0
+//www.autohome.com.cn/spec/54498/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+奥迪A6L新能源
+中大型车
+54
+54
+0
+0
+50.8
+50.8
+4.59
+2.5
+0.0
+Version Node Start
+2020款 55 TFSI e quattro
+50.8
+//www.autohome.com.cn/spec/42454/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+奥迪e-tron
+中大型SUV
+465
+500
+313
+313
+54.68
+64.88
+4.54
+0.67
+9.5
+Version Node Start
+2021款 50 quattro 豪华型
+54.68
+//www.autohome.com.cn/spec/50627/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 50 quattro 臻选型
+58.58
+//www.autohome.com.cn/spec/50628/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 50 quattro 尊享型
+64.88
+//www.autohome.com.cn/spec/45606/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+奥迪Q2L e-tron
+小型SUV
+325
+325
+136
+136
+24.38
+24.38
+0.0
+0.62
+0.0
+Version Node Start
+2022款 Q2L e-tron 纯电智享型
+24.38
+//www.autohome.com.cn/spec/55144/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+奥迪e-tron(进口)
+中大型SUV
+500
+500
+408
+408
+66.98
+73.58
+0.0
+0.67
+0.0
+Version Node Start
+2022款 Sportback 55 quattro 豪华型
+66.98
+//www.autohome.com.cn/spec/54932/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Sportback 55 quattro 臻选型
+72.98
+//www.autohome.com.cn/spec/54933/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Sportback 55 quattro 限量版
+73.58
+//www.autohome.com.cn/spec/54934/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+奥迪A8新能源
+大型车
+51
+51
+0
+0
+111.78
+111.78
+0.0
+0
+0
+Version Node Start
+2022款 A8L 60 TFSIe quattro 典藏版
+111.78
+//www.autohome.com.cn/spec/51986/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+Volvo
+https://car.autohome.com.cn/diandongche/brand-70.html
+Model Node Start
+沃尔沃S60新能源
+中型车
+52
+52
+0
+0
+39.99
+46.19
+4.44
+0.0
+8.0
+Version Node Start
+2022款 T8 E驱混动 四驱智逸豪华版
+39.99
+//www.autohome.com.cn/spec/50817/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 T8 E驱混动 四驱智雅运动版
+46.19
+//www.autohome.com.cn/spec/51737/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+沃尔沃XC60新能源
+中型SUV
+50
+64
+0
+0
+52.79
+60.39
+4.54
+3.0
+13.0
+Version Node Start
+2022款 T8 插电混动 四驱智远豪华版
+52.79
+//www.autohome.com.cn/spec/51602/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 T8 插电混动 四驱智远运动版
+52.79
+//www.autohome.com.cn/spec/51601/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 T8 插电混动 四驱智雅豪华版
+60.39
+//www.autohome.com.cn/spec/50808/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 改款 T8 插电混动 四驱智远豪华版
+52.79
+//www.autohome.com.cn/spec/55431/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 改款 T8 插电混动 四驱智远运动版
+52.79
+//www.autohome.com.cn/spec/55432/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 改款 T8 插电混动 四驱智雅豪华版
+60.39
+//www.autohome.com.cn/spec/55433/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+沃尔沃XC40新能源
+紧凑型SUV
+420
+529
+231
+408
+25.7
+31.5
+4.19
+0.67
+0.0
+Version Node Start
+2022款 长续航版
+25.7
+//www.autohome.com.cn/spec/55673/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 长续航版 PRO
+27.6
+//www.autohome.com.cn/spec/55494/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 四驱高性能版
+28.9928
+//www.autohome.com.cn/spec/52550/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 四驱高性能版 PRO
+31.5
+//www.autohome.com.cn/spec/52526/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+沃尔沃S90新能源
+中大型车
+53
+75
+0
+0
+49.99
+61.39
+4.64
+3.0
+13.0
+Version Node Start
+2022款 T8 E驱混动 智逸豪华版
+49.99
+//www.autohome.com.cn/spec/51844/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 T8 E驱混动 智雅豪华版
+61.39
+//www.autohome.com.cn/spec/51845/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 改款 T8 E驱混动 智逸豪华版
+49.99
+//www.autohome.com.cn/spec/55434/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 改款 T8 E驱混动 智雅豪华版
+61.39
+//www.autohome.com.cn/spec/55435/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+沃尔沃XC90新能源
+中大型SUV
+50
+59
+0
+0
+89.49
+89.49
+4.56
+3.0
+13.0
+Version Node Start
+2022款 E驱混动 T8 智尊豪华版 7座
+89.49
+//www.autohome.com.cn/spec/53799/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 改款 E驱混动 T8 智尊豪华版 7座
+89.49
+//www.autohome.com.cn/spec/56234/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+Hyandai
+https://car.autohome.com.cn/diandongche/brand-12.html
+Model Node Start
+领动插电混动
+紧凑型车
+85
+85
+0
+0
+15.78
+17.88
+4.15
+0.0
+4.75
+Version Node Start
+2019款 1.6L PHS畅行版
+15.78
+//www.autohome.com.cn/spec/41228/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 1.6L PHX乐行版
+16.68
+//www.autohome.com.cn/spec/41229/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 1.6L PHP智行版
+17.88
+//www.autohome.com.cn/spec/37409/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+名图新能源
+中型车
+520
+520
+184
+184
+17.88
+20.38
+0.0
+0.0
+9.5
+Version Node Start
+2021款 GLX精英版
+17.88
+//www.autohome.com.cn/spec/49987/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 LUX尊贵版
+18.88
+//www.autohome.com.cn/spec/49988/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 TOP旗舰版
+20.38
+//www.autohome.com.cn/spec/47940/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+菲斯塔纯电动
+紧凑型车
+490
+490
+184
+184
+17.38
+19.88
+4.5
+0.67
+9.5
+Version Node Start
+2020款 GLS畅行版
+17.38
+//www.autohome.com.cn/spec/44156/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 GLX智捷版
+18.88
+//www.autohome.com.cn/spec/44157/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 DLX悦享版
+19.88
+//www.autohome.com.cn/spec/40809/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+索纳塔插电混动
+中型车
+75
+75
+0
+0
+22.28
+25.68
+4.52
+0.0
+4.0
+Version Node Start
+2018款 2.0 PHE智享版 国VI
+22.28
+//www.autohome.com.cn/spec/44669/#pvareaid=2042126
+Version Node End
+Version Node Start
+2018款 2.0 PHS智联版 国VI
+23.98
+//www.autohome.com.cn/spec/44670/#pvareaid=2042126
+Version Node End
+Version Node Start
+2018款 2.0 PHT智尊版 国VI
+25.68
+//www.autohome.com.cn/spec/44671/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+WULING
+https://car.autohome.com.cn/diandongche/brand-114.html
+Model Node Start
+宏光MINIEV
+微型车
+120
+300
+27
+41
+3.28
+6.98
+4.68
+0.0
+9.0
+Version Node Start
+2022款 轻松款 三元锂
+3.28
+//www.autohome.com.cn/spec/56242/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 轻松款 磷酸铁锂
+3.28
+//www.autohome.com.cn/spec/56244/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 自在款 三元锂
+3.88
+//www.autohome.com.cn/spec/56037/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 自在款 磷酸铁锂
+3.88
+//www.autohome.com.cn/spec/56038/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 悦享款 三元锂
+4.48
+//www.autohome.com.cn/spec/56039/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 悦享款 磷酸铁锂
+4.48
+//www.autohome.com.cn/spec/56040/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 马卡龙时尚款 三元锂
+4.38
+//www.autohome.com.cn/spec/56033/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 马卡龙时尚款 磷酸铁锂
+4.38
+//www.autohome.com.cn/spec/56034/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 马卡龙臻享款 三元锂
+4.98
+//www.autohome.com.cn/spec/56035/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 马卡龙臻享款 磷酸铁锂
+4.98
+//www.autohome.com.cn/spec/56036/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 GAMEBOY 200km 玩乐款 磷酸铁锂
+5.58
+//www.autohome.com.cn/spec/55822/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 GAMEBOY 200km 玩咖款 磷酸铁锂
+5.78
+//www.autohome.com.cn/spec/55821/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 GAMEBOY 300km 玩乐款 磷酸铁锂
+6.78
+//www.autohome.com.cn/spec/55820/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 GAMEBOY 300km 玩咖款 磷酸铁锂
+6.98
+//www.autohome.com.cn/spec/55810/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+五菱NanoEV
+微型车
+305
+305
+33
+39
+5.68
+6.68
+2.68
+0.0
+13.5
+Version Node Start
+2021款 玩乐款
+5.68
+//www.autohome.com.cn/spec/53787/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 热爱款
+6.18
+//www.autohome.com.cn/spec/50664/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 迪士尼疯狂动物城Judy款
+6.68
+//www.autohome.com.cn/spec/53480/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 迪士尼疯狂动物城Nick款
+6.68
+//www.autohome.com.cn/spec/53479/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 玩乐款-高功率版
+5.88
+//www.autohome.com.cn/spec/55597/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+五菱荣光EV
+微面
+300
+300
+82
+82
+11.78
+11.48
+4.75
+0
+0
+Version Node Start
+2022款 基本型客车鹏辉电池
+11.48
+//www.autohome.com.cn/spec/1013741/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 基本型客车宁德时代
+11.78
+//www.autohome.com.cn/spec/1013740/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 基本型封窗车2座鹏辉电池
+11.48
+//www.autohome.com.cn/spec/1013743/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 基本型封窗车2座宁德时代
+11.78
+//www.autohome.com.cn/spec/1013742/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 基本型封窗车5座鹏辉电池
+11.48
+//www.autohome.com.cn/spec/1013745/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 基本型封窗车5座宁德时代
+11.78
+//www.autohome.com.cn/spec/1013744/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+五菱EV50
+微面
+255
+300
+82
+82
+14.38
+12.48
+0.0
+1.5
+0.0
+Version Node Start
+2021款 厢式物流车慧视通鹏辉43.2kWh柳机电控
+12.68
+//www.autohome.com.cn/spec/1012034/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 厢式物流车慧视通鹏辉43.2kWh汇川2代电控
+12.68
+//www.autohome.com.cn/spec/1012035/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 厢式物流车慧视通鹏辉43.2kWh通宇电控
+12.68
+//www.autohome.com.cn/spec/1012036/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 厢式物流车博创鹏辉43.2kWh汇川2代电控
+12.68
+//www.autohome.com.cn/spec/1012038/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 厢式物流车博创鹏辉43.2kWh柳机电控
+12.68
+//www.autohome.com.cn/spec/1012037/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 厢式物流车慧视通宁德41.86kWh汇川2代电控
+13.88
+//www.autohome.com.cn/spec/1012044/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 厢式物流车博创宁德41.86kWh柳机电控
+13.88
+//www.autohome.com.cn/spec/1012039/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 厢式物流车慧视通宁德41.86kWh柳机电控
+13.88
+//www.autohome.com.cn/spec/1012045/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 厢式物流车力神41.6kWh柳机电控
+12.88
+//www.autohome.com.cn/spec/1012040/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 厢式物流车力神41.6kWh通宇电控
+12.88
+//www.autohome.com.cn/spec/1012041/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 厢式物流车鹏辉36.16kWh柳机电控
+12.48
+//www.autohome.com.cn/spec/1012042/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 厢式物流车鹏辉36.16kWh通宇电控
+12.48
+//www.autohome.com.cn/spec/1012043/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 5座版宁德41.86kWh
+14.38
+//www.autohome.com.cn/spec/1013673/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 5座版鹏辉43.2kWh
+13.38
+//www.autohome.com.cn/spec/1013674/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+五菱电卡
+微卡
+255
+300
+82
+82
+14.38
+12.08
+0.0
+0
+0
+Version Node Start
+2021款 载货车鹏辉43.2kWh柳机电控
+12.58
+//www.autohome.com.cn/spec/1011608/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 载货车宁德41.86kWh汇川2代电控
+13.68
+//www.autohome.com.cn/spec/1011609/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 载货车宁德41.86kWh通宇电控
+13.68
+//www.autohome.com.cn/spec/1011610/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 载货车力神41.6kWh汇川2代电控
+12.78
+//www.autohome.com.cn/spec/1011611/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 载货车力神41.6kWh通宇电控
+12.78
+//www.autohome.com.cn/spec/1011612/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 载货车鹏辉36.16kWh柳机电控
+12.08
+//www.autohome.com.cn/spec/1011613/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 载货车鹏辉36.16kWh通宇电控
+12.08
+//www.autohome.com.cn/spec/1011614/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 厢式运输车2.91米货箱宁德41.86kWh汇川2代电控
+14.18
+//www.autohome.com.cn/spec/1011615/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 厢式运输车2.91米货箱宁德41.86kWh通宇电控
+14.18
+//www.autohome.com.cn/spec/1011616/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 厢式运输车2.91米货箱力神41.6kWh汇川2代电控
+13.18
+//www.autohome.com.cn/spec/1011617/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 厢式运输车2.91米货箱力神41.6kWh通宇电控
+13.18
+//www.autohome.com.cn/spec/1011618/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 厢式运输车2.9米货箱宁德41.86kWh汇川2代电控
+14.38
+//www.autohome.com.cn/spec/1011619/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 厢式运输车2.9米货箱宁德41.86kWh通宇电控
+14.38
+//www.autohome.com.cn/spec/1011620/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 厢式运输车2.9米货箱力神41.6kWh汇川2代电控
+13.48
+//www.autohome.com.cn/spec/1011621/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 厢式运输车2.9米货箱力神41.6kWh通宇电控
+13.48
+//www.autohome.com.cn/spec/1011622/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 仓栅式运输车宁德41.86kWh汇川2代电控
+14.08
+//www.autohome.com.cn/spec/1011623/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 仓栅式运输车宁德41.86kWh通宇电控
+14.08
+//www.autohome.com.cn/spec/1011624/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 仓栅式运输车力神41.6kWh汇川2代电控
+13.18
+//www.autohome.com.cn/spec/1011625/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 仓栅式运输车力神41.6kWh通宇电控
+13.18
+//www.autohome.com.cn/spec/1011626/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+五菱EV80
+轻客
+330
+330
+150
+150
+21.3
+21.3
+0.0
+2.0
+0.0
+Version Node Start
+2022款 封闭厢货
+21.3
+//www.autohome.com.cn/spec/1013675/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+WM Motor
+https://car.autohome.com.cn/diandongche/brand-291.html
+Model Node Start
+威马E.5
+中型车
+410
+505
+163
+163
+16.01
+19.01
+0.0
+0.55
+9.5
+Version Node Start
+2022款 Pro
+18.01
+//www.autohome.com.cn/spec/55959/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 智客行
+19.01
+//www.autohome.com.cn/spec/55974/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 改款 400 即客行
+16.01
+//www.autohome.com.cn/spec/56361/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 改款 500 即客行
+17.01
+//www.autohome.com.cn/spec/56362/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+威马EX5
+紧凑型SUV
+403
+403
+218
+218
+16.98
+18.98
+0.0
+0.5
+8.4
+Version Node Start
+2022款 改款 EX5-Z Nex探索版
+16.98
+//www.autohome.com.cn/spec/56332/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 改款 EX5-Z Pro全能版
+17.98
+//www.autohome.com.cn/spec/55340/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 EX5-Z Lead创领版
+18.98
+//www.autohome.com.cn/spec/53185/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+威马W6
+中型SUV
+520
+620
+218
+218
+18.98
+25.98
+4.53
+0.67
+11.9
+Version Node Start
+2021款 520km NEX探索版
+18.98
+//www.autohome.com.cn/spec/50487/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 520km PRO全能版
+20.98
+//www.autohome.com.cn/spec/50488/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 520km ACE极智版
+22.98
+//www.autohome.com.cn/spec/49858/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 620km ACE极智版
+25.98
+//www.autohome.com.cn/spec/50489/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+威马EX6
+中型SUV
+408
+505
+218
+218
+23.99
+27.99
+4.55
+0.5
+11.2
+Version Node Start
+2020款 Plus 400极地版
+23.99
+//www.autohome.com.cn/spec/46836/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 Plus 500极地版
+25.99
+//www.autohome.com.cn/spec/46837/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 Plus 6座 Nex探索版
+27.99
+//www.autohome.com.cn/spec/48023/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+Chery
+https://car.autohome.com.cn/diandongche/brand-487.html
+Model Node Start
+QQ冰淇淋
+微型车
+120
+170
+27
+27
+3.99
+4.99
+4.26
+0.0
+8.0
+Version Node Start
+2022款 奶昔
+3.99
+//www.autohome.com.cn/spec/56463/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 甜筒
+4.39
+//www.autohome.com.cn/spec/53873/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 圣代
+4.99
+//www.autohome.com.cn/spec/53074/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+小蚂蚁
+微型车
+301
+408
+41
+75
+7.39
+9.4
+4.75
+0.5
+0.0
+Version Node Start
+2022款 改款 甜粉款 微糖版 三元锂 30kW 301km
+7.39
+//www.autohome.com.cn/spec/56465/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 改款 甜粉款 微糖版 磷酸铁锂 30kW 301km
+7.39
+//www.autohome.com.cn/spec/56466/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 改款 甜粉款 半糖版 三元锂 30kW 301km
+7.69
+//www.autohome.com.cn/spec/56467/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 改款 甜粉款 半糖版 磷酸铁锂 30kW 301km
+7.69
+//www.autohome.com.cn/spec/56468/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 改款 甜粉款 全糖版 三元锂 30kW 301km
+8.2
+//www.autohome.com.cn/spec/56469/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 改款 甜粉款 全糖版 磷酸铁锂 30kW 301km
+8.2
+//www.autohome.com.cn/spec/56470/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 改款 甜粉款 半糖版 三元锂 30kW 408km
+8.89
+//www.autohome.com.cn/spec/56471/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 改款 甜粉款 半糖版 三元锂 55kW 408km
+8.99
+//www.autohome.com.cn/spec/56472/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 改款 甜粉款 全糖版 三元锂 55kW 408km
+9.4
+//www.autohome.com.cn/spec/56473/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+大蚂蚁
+中型SUV
+510
+510
+177
+204
+15.66
+17.99
+4.54
+0.5
+0.0
+Version Node Start
+2022款 潮享舱
+15.66
+//www.autohome.com.cn/spec/53955/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 驭享舱
+16.88
+//www.autohome.com.cn/spec/53956/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 智享舱
+17.99
+//www.autohome.com.cn/spec/53957/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+艾瑞泽e
+紧凑型车
+401
+401
+129
+163
+10.98
+15.48
+4.78
+0.5
+0.0
+Version Node Start
+2020款 出行版
+14.78
+//www.autohome.com.cn/spec/46687/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 出行版plus
+15.48
+//www.autohome.com.cn/spec/49432/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 改款 超值版
+10.98
+//www.autohome.com.cn/spec/46688/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 舒享版
+12.98
+//www.autohome.com.cn/spec/41273/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 悦享版
+13.28
+//www.autohome.com.cn/spec/46041/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 尊享版
+14.38
+//www.autohome.com.cn/spec/41266/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 智行版
+14.78
+//www.autohome.com.cn/spec/50891/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+瑞虎3xe
+小型SUV
+401
+401
+129
+129
+9.38
+10.68
+4.44
+0.5
+0.0
+Version Node Start
+2018款 480 畅优版
+9.38
+//www.autohome.com.cn/spec/34065/#pvareaid=2042126
+Version Node End
+Version Node Start
+2018款 480 畅行版
+9.98
+//www.autohome.com.cn/spec/34066/#pvareaid=2042126
+Version Node End
+Version Node Start
+2018款 480 畅享版
+10.68
+//www.autohome.com.cn/spec/34067/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+瑞虎e
+小型SUV
+401
+401
+129
+163
+10.88
+13.78
+4.57
+0.5
+0.0
+Version Node Start
+2021款 虎踞版 95kW
+10.88
+//www.autohome.com.cn/spec/48295/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 虎跃版 95kW
+11.58
+//www.autohome.com.cn/spec/48296/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 虎啸版 95kW
+12.68
+//www.autohome.com.cn/spec/48102/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 虎威版 95kW
+13.78
+//www.autohome.com.cn/spec/48297/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 虎踞版 120kW
+10.88
+//www.autohome.com.cn/spec/54308/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 虎跃版 120kW
+11.58
+//www.autohome.com.cn/spec/54309/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 虎啸版 120kW
+12.68
+//www.autohome.com.cn/spec/54310/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 虎威版 120kW
+13.78
+//www.autohome.com.cn/spec/54311/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+Ora
+https://car.autohome.com.cn/diandongche/brand-331.html
+Model Node Start
+欧拉好猫
+小型车
+401
+501
+143
+143
+12.79
+15.79
+4.75
+0.5
+0.0
+Version Node Start
+2022款 400km标准续航 豪华型 磷酸铁锂
+12.79
+//www.autohome.com.cn/spec/55848/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 400km标准续航 豪华型 三元锂
+12.79
+//www.autohome.com.cn/spec/55852/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 400km标准续航 尊贵型 磷酸铁锂
+13.79
+//www.autohome.com.cn/spec/55849/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 400km标准续航 尊贵型 三元锂
+13.79
+//www.autohome.com.cn/spec/55853/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 500km长续航 豪华型 三元锂
+14.79
+//www.autohome.com.cn/spec/55850/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 500km长续航 尊贵型 三元锂
+15.79
+//www.autohome.com.cn/spec/55851/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+欧拉好猫GT
+小型车
+480
+480
+171
+171
+15.4
+15.4
+4.15
+0.5
+0.0
+Version Node Start
+2022款 木兰版 480km长续航 标准版 126kW
+15.4
+//www.autohome.com.cn/spec/52471/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+Hozonauto
+https://car.autohome.com.cn/diandongche/brand-309.html
+Model Node Start
+哪吒V
+小型SUV
+301
+401
+54
+95
+6.59
+12.38
+0.0
+0.5
+0.0
+Version Node Start
+2022款 潮 300 Lite
+7.49
+//www.autohome.com.cn/spec/56446/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 标准续航行业定制版
+8.59
+//www.autohome.com.cn/spec/54896/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 网约定制版
+12.38
+//www.autohome.com.cn/spec/54895/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 标准续航版升级型
+6.59
+//www.autohome.com.cn/spec/51149/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 标准续航娱乐版升级型
+6.89
+//www.autohome.com.cn/spec/51150/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 潮 400 Lite 粉色定制款
+8.29
+//www.autohome.com.cn/spec/56448/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 长续航行业定制版
+9.29
+//www.autohome.com.cn/spec/54897/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 长续航娱乐版升级型
+7.59
+//www.autohome.com.cn/spec/51151/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 魔女版
+7.79
+//www.autohome.com.cn/spec/51318/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 潮 400 Lite
+8.19
+//www.autohome.com.cn/spec/56447/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 潮 400
+8.99
+//www.autohome.com.cn/spec/56449/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 潮 400 Pro
+9.39
+//www.autohome.com.cn/spec/56450/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Pro 行业定制版
+9.99
+//www.autohome.com.cn/spec/56302/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Pro 长续航智趣版
+8.19
+//www.autohome.com.cn/spec/54171/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Pro 长续航智享版
+8.59
+//www.autohome.com.cn/spec/54032/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+哪吒U
+紧凑型SUV
+400
+610
+163
+231
+10.58
+20.18
+0.0
+0.5
+0.0
+Version Node Start
+2022款 智400 三元锂
+11.78
+//www.autohome.com.cn/spec/56440/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 智400 磷酸铁锂
+11.78
+//www.autohome.com.cn/spec/56646/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 智400 Pro 三元锂
+12.18
+//www.autohome.com.cn/spec/56441/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 智400 Pro 磷酸铁锂
+12.18
+//www.autohome.com.cn/spec/56647/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 智500 三元锂
+13.88
+//www.autohome.com.cn/spec/56442/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 智500 磷酸铁锂
+13.88
+//www.autohome.com.cn/spec/56648/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 智500 Pro 三元锂
+14.98
+//www.autohome.com.cn/spec/56443/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 智500 Pro 磷酸铁锂
+14.98
+//www.autohome.com.cn/spec/56649/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Pro 400 轻快版
+14.28
+//www.autohome.com.cn/spec/51155/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 改款 Pro 400 行业定制版
+14.28
+//www.autohome.com.cn/spec/53227/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Pro 400 畅行网约版
+14.98
+//www.autohome.com.cn/spec/56639/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 改款 Pro 400 尊享驾驭版
+16.48
+//www.autohome.com.cn/spec/53228/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Pro 500 行业定制版
+17.58
+//www.autohome.com.cn/spec/51157/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Pro 500 尊享驾驭版
+17.98
+//www.autohome.com.cn/spec/51684/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Pro 400 巡航版
+10.98
+//www.autohome.com.cn/spec/49970/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Pro 400 畅行版
+10.58
+//www.autohome.com.cn/spec/55695/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Pro 500 环球版
+13.78
+//www.autohome.com.cn/spec/49971/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Pro 500 登月版
+14.78
+//www.autohome.com.cn/spec/49972/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 智610 三元锂
+15.38
+//www.autohome.com.cn/spec/56444/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Pro 610 行业定制版
+19.98
+//www.autohome.com.cn/spec/51158/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Pro 610 尊享驾驭版
+20.18
+//www.autohome.com.cn/spec/56301/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Pro 610 探火版
+16.78
+//www.autohome.com.cn/spec/49973/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 智610 Pro 三元锂
+17.98
+//www.autohome.com.cn/spec/56445/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+Cadillac
+https://car.autohome.com.cn/diandongche/brand-47.html
+Model Node Start
+LYRIQ
+中大型SUV
+650
+650
+347
+347
+43.97
+43.97
+0.0
+0.67
+15.5
+Version Node Start
+2022款 后驱长续航豪华版
+43.97
+//www.autohome.com.cn/spec/53345/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+Lexus
+https://car.autohome.com.cn/diandongche/brand-52.html
+Model Node Start
+雷克萨斯NX新能源
+中型SUV
+73
+76
+0
+0
+42.88
+50.98
+4.5
+0
+0
+Version Node Start
+2022款 400h+ 畅悦版
+42.88
+//www.autohome.com.cn/spec/54182/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 400h+ 畅领版
+50.98
+//www.autohome.com.cn/spec/51711/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+雷克萨斯UX新能源
+紧凑型SUV
+400
+400
+204
+204
+36.2
+38.5
+4.57
+0.83
+6.5
+Version Node Start
+2020款 300e 纯·悦版
+36.2
+//www.autohome.com.cn/spec/45248/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 300e 纯·享版
+38.5
+//www.autohome.com.cn/spec/42973/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+Leapmotor
+https://car.autohome.com.cn/diandongche/brand-318.html
+Model Node Start
+零跑C11
+中型SUV
+510
+610
+272
+544
+17.98
+22.98
+4.53
+0.67
+7.5
+Version Node Start
+2021款 豪华版 磷酸铁锂
+17.98
+//www.autohome.com.cn/spec/54760/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 尊享版
+20.98
+//www.autohome.com.cn/spec/47707/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 行业版
+19.88
+//www.autohome.com.cn/spec/54930/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 性能版
+22.98
+//www.autohome.com.cn/spec/48891/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+零跑T03
+微型车
+301
+403
+75
+109
+7.39
+8.99
+3.88
+0.6
+3.5
+Version Node Start
+2022款 玛瑙版
+7.39
+//www.autohome.com.cn/spec/56275/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 皓玉版
+7.99
+//www.autohome.com.cn/spec/56276/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 琥珀版
+8.19
+//www.autohome.com.cn/spec/56277/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 耀金版
+8.59
+//www.autohome.com.cn/spec/55189/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 星钻版
+8.99
+//www.autohome.com.cn/spec/55162/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+零跑S01
+小型车
+305
+451
+170
+170
+11.99
+15.09
+4.41
+1.0
+8.0
+Version Node Start
+2021款 460 酷玩版
+13.09
+//www.autohome.com.cn/spec/44918/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 460 Pro 酷玩版
+15.09
+//www.autohome.com.cn/spec/44919/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 380 标准版
+11.99
+//www.autohome.com.cn/spec/37260/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 380 Pro
+13.99
+//www.autohome.com.cn/spec/37261/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 460 标准版
+12.99
+//www.autohome.com.cn/spec/44923/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 460 Pro
+14.99
+//www.autohome.com.cn/spec/44924/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+GEELY
+https://car.autohome.com.cn/diandongche/brand-25.html
+Model Node Start
+帝豪新能源
+紧凑型车
+400
+500
+163
+204
+13.58
+16.18
+0.0
+0.5
+0.0
+Version Node Start
+2019款 EV500 进取型标准续航版
+13.58
+//www.autohome.com.cn/spec/41118/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 EV500 精英型标准续航版
+14.58
+//www.autohome.com.cn/spec/41119/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 EV500 精英型超长续航版
+15.98
+//www.autohome.com.cn/spec/41120/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 EV Pro 网约版
+13.68
+//www.autohome.com.cn/spec/49315/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 EV Pro 个人网约版
+13.98
+//www.autohome.com.cn/spec/53507/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 EV Pro 畅行版
+16.18
+//www.autohome.com.cn/spec/53508/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+星越新能源
+紧凑型SUV
+56
+80
+0
+0
+15.58
+19.68
+0.0
+0.0
+1.5
+Version Node Start
+2021款 ePro 揽星者 纯电动续航56KM
+15.58
+//www.autohome.com.cn/spec/48449/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 ePro 耀星者 纯电动续航56KM
+16.88
+//www.autohome.com.cn/spec/48450/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 ePro 耀星者 纯电动续航80KM
+17.68
+//www.autohome.com.cn/spec/48451/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 ePro 驭星者 纯电动续航80KM
+19.68
+//www.autohome.com.cn/spec/48452/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+缤越新能源
+小型SUV
+85
+85
+0
+0
+11.98
+13.58
+0.0
+0
+0
+Version Node Start
+2022款 1.5T ePro 85KM星耀版
+11.98
+//www.autohome.com.cn/spec/53876/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 1.5T ePro 85KM荣耀版
+13.58
+//www.autohome.com.cn/spec/54249/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+博瑞新能源
+中型车
+84
+84
+0
+0
+15.58
+20.98
+4.81
+0
+0
+Version Node Start
+2022款 1.5T PHEV 里程升级版豪华型
+15.58
+//www.autohome.com.cn/spec/53756/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 1.5T PHEV 里程升级版尊贵型
+16.98
+//www.autohome.com.cn/spec/53757/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 1.5T PHEV 行政版
+20.98
+//www.autohome.com.cn/spec/56486/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+帝豪GL新能源
+紧凑型车
+66
+66
+0
+0
+16.88
+16.88
+0.0
+0.0
+1.5
+Version Node Start
+2021款 1.5T DCT智行版
+16.88
+//www.autohome.com.cn/spec/51811/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+嘉际新能源
+紧凑型MPV
+82
+82
+0
+0
+14.58
+16.88
+0.0
+0
+0
+Version Node Start
+2022款 1.5TD PHEV 白金舒适型
+14.58
+//www.autohome.com.cn/spec/53615/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 1.5TD PHEV 白金豪华型
+15.58
+//www.autohome.com.cn/spec/53616/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 1.5TD PHEV 白金尊贵型
+16.88
+//www.autohome.com.cn/spec/53617/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+Jaguar
+https://car.autohome.com.cn/diandongche/brand-44.html
+Model Node Start
+捷豹I-PACE
+中型SUV
+456
+456
+400
+400
+63.08
+71.68
+0.0
+0.0
+11.4
+Version Node Start
+2020款 EV400 S
+63.08
+//www.autohome.com.cn/spec/49168/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 EV400 SE
+67.08
+//www.autohome.com.cn/spec/49169/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 EV400 HSE
+70.88
+//www.autohome.com.cn/spec/49170/#pvareaid=2042126
+Version Node End
+Version Node Start
+2018款 EV400 S
+63.08
+//www.autohome.com.cn/spec/33680/#pvareaid=2042126
+Version Node End
+Version Node Start
+2018款 EV400 SE
+66.08
+//www.autohome.com.cn/spec/33681/#pvareaid=2042126
+Version Node End
+Version Node Start
+2018款 EV400 HSE
+69.98
+//www.autohome.com.cn/spec/33682/#pvareaid=2042126
+Version Node End
+Version Node Start
+2018款 EV400 首发限量版
+71.68
+//www.autohome.com.cn/spec/33684/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+Geometry
+https://car.autohome.com.cn/diandongche/brand-373.html
+Model Node Start
+几何A
+紧凑型车
+430
+600
+204
+204
+12.68
+19.98
+4.48
+0.5
+0.0
+Version Node Start
+2022款 Pro 430KM 青苹果Pro
+13.98
+//www.autohome.com.cn/spec/56555/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Pro 430KM 青苹果Plus
+14.58
+//www.autohome.com.cn/spec/56556/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Pro 430KM 青苹果Halo
+15.58
+//www.autohome.com.cn/spec/56557/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Pro 600KM 红苹果Plus
+16.28
+//www.autohome.com.cn/spec/56558/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Pro 600KM 红苹果Halo
+17.58
+//www.autohome.com.cn/spec/56559/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Pro 畅享高维续航版 430KM A430平方版
+12.68
+//www.autohome.com.cn/spec/50244/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Pro 畅享高维续航版 430KM A430立方版
+13.68
+//www.autohome.com.cn/spec/50245/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Pro 畅享高维续航版 430KM A430畅行版
+18.68
+//www.autohome.com.cn/spec/51791/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Pro 臻享高能续航版 600KM A600亚运版
+15.68
+//www.autohome.com.cn/spec/53678/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Pro 臻享高能续航版 600KM A600立方版
+15.68
+//www.autohome.com.cn/spec/50246/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Pro 臻享高能续航版 600KM A600幂方版
+17.28
+//www.autohome.com.cn/spec/50247/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Pro 臻享高能续航版 600KM A600畅优版
+19.98
+//www.autohome.com.cn/spec/54035/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+EX3 功夫牛
+小型SUV
+322
+322
+95
+95
+6.88
+7.88
+4.51
+0.5
+0.0
+Version Node Start
+2021款 坚强牛牛
+6.88
+//www.autohome.com.cn/spec/53360/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 功夫牛牛
+7.88
+//www.autohome.com.cn/spec/53323/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+几何C
+紧凑型SUV
+400
+550
+204
+204
+12.98
+18.28
+4.54
+0.5
+0.0
+Version Node Start
+2022款 400KM 蓝莓Pro
+13.97
+//www.autohome.com.cn/spec/56560/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 400KM 蓝莓Plus
+14.57
+//www.autohome.com.cn/spec/56561/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 550KM 西柚Pro
+15.97
+//www.autohome.com.cn/spec/56562/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 550KM 西柚Plus
+16.27
+//www.autohome.com.cn/spec/56563/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 550KM 西柚Halo
+17.57
+//www.autohome.com.cn/spec/56564/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 蓝莓C400
+13.57
+//www.autohome.com.cn/spec/55252/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 葡萄C550
+15.57
+//www.autohome.com.cn/spec/55253/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 西柚C550
+17.27
+//www.autohome.com.cn/spec/55254/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 C400 平方版
+12.98
+//www.autohome.com.cn/spec/52638/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 C400 立方版
+13.98
+//www.autohome.com.cn/spec/52710/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 400 奋斗版
+17.58
+//www.autohome.com.cn/spec/52711/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 C550 幂方版
+16.28
+//www.autohome.com.cn/spec/52712/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 C550 魔方版
+18.28
+//www.autohome.com.cn/spec/52713/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+GAC AION
+https://car.autohome.com.cn/diandongche/brand-313.html
+Model Node Start
+AION Y
+紧凑型SUV
+500
+600
+184
+184
+13.76
+18.98
+4.51
+0
+0
+Version Node Start
+2022款 70 乐享版 磷酸铁锂
+13.76
+//www.autohome.com.cn/spec/54108/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 70 乐享版 三元锂
+13.76
+//www.autohome.com.cn/spec/56660/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 70 智领版 磷酸铁锂
+14.76
+//www.autohome.com.cn/spec/54109/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 70 智领版 三元锂
+14.76
+//www.autohome.com.cn/spec/56661/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 70 智驾版 磷酸铁锂
+15.76
+//www.autohome.com.cn/spec/54110/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 70 智驾版 三元锂
+15.76
+//www.autohome.com.cn/spec/56662/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 70 科技版 磷酸铁锂
+15.76
+//www.autohome.com.cn/spec/54111/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 70 科技版 三元锂
+15.76
+//www.autohome.com.cn/spec/56663/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 70 行政版 磷酸铁锂
+17.98
+//www.autohome.com.cn/spec/56650/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 70 行政版 三元锂
+17.98
+//www.autohome.com.cn/spec/56664/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 80 超长续航版
+16.26
+//www.autohome.com.cn/spec/54112/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 80 智驾版
+17.56
+//www.autohome.com.cn/spec/54051/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 80 行政版
+18.98
+//www.autohome.com.cn/spec/56651/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+AION S Plus
+紧凑型车
+410
+602
+136
+224
+13.96
+19.16
+4.52
+0.4
+0.0
+Version Node Start
+2021款 60 智领版
+13.96
+//www.autohome.com.cn/spec/51861/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 70 智领版
+16.38
+//www.autohome.com.cn/spec/55243/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 70 智驾版
+17.58
+//www.autohome.com.cn/spec/55244/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 70 行政版
+18.49
+//www.autohome.com.cn/spec/56655/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 70 科技版
+16.36
+//www.autohome.com.cn/spec/51555/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 80 科技版
+17.58
+//www.autohome.com.cn/spec/55245/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 80 智驾版
+18.98
+//www.autohome.com.cn/spec/55246/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 80 行政版
+19.16
+//www.autohome.com.cn/spec/56656/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 80 超长续航版
+16.36
+//www.autohome.com.cn/spec/51863/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+AION V
+紧凑型SUV
+500
+702
+224
+272
+18.76
+26.59
+4.52
+0.17
+0.0
+Version Node Start
+2021款 Plus 70 智领版 磷酸铁锂
+18.76
+//www.autohome.com.cn/spec/53558/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Plus 70 智领版 三元锂
+18.76
+//www.autohome.com.cn/spec/56657/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Plus 70 行政版 磷酸铁锂
+19.16
+//www.autohome.com.cn/spec/56652/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Plus 70 行政版 三元锂
+19.16
+//www.autohome.com.cn/spec/56658/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Plus 70 智享科技版 磷酸铁锂
+19.76
+//www.autohome.com.cn/spec/53559/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Plus 70 智享科技版 三元锂
+19.76
+//www.autohome.com.cn/spec/56659/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Plus 70 超级快充版 三元锂
+20.96
+//www.autohome.com.cn/spec/53560/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Plus 80 智领版 三元锂
+20.26
+//www.autohome.com.cn/spec/53561/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Plus 80 智享科技版 三元锂
+21.46
+//www.autohome.com.cn/spec/53562/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Plus 80 行政版 三元锂
+22.96
+//www.autohome.com.cn/spec/56653/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Plus 80 领航智驾版 三元锂
+23.46
+//www.autohome.com.cn/spec/53136/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Plus 80 领袖版 三元锂
+26.59
+//www.autohome.com.cn/spec/56654/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Plus 90 超长续航版 三元锂
+24.96
+//www.autohome.com.cn/spec/53563/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+AION S
+紧凑型车
+410
+510
+136
+184
+13.98
+17.98
+4.44
+0.78
+0.0
+Version Node Start
+2022款 炫 530
+13.98
+//www.autohome.com.cn/spec/55000/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 炫 580
+13.98
+//www.autohome.com.cn/spec/46341/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 炫 580 出行标准版
+17.28
+//www.autohome.com.cn/spec/49838/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 魅 580
+14.68
+//www.autohome.com.cn/spec/46345/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 魅 580 出行标准版
+17.98
+//www.autohome.com.cn/spec/49839/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 炫 630
+15.38
+//www.autohome.com.cn/spec/46343/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+AION LX
+中型SUV
+600
+1008
+245
+490
+28.66
+46.96
+0.0
+0
+0
+Version Node Start
+2022款 PLUS 80 智尊版
+28.66
+//www.autohome.com.cn/spec/55278/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 PLUS 千里版
+46.96
+//www.autohome.com.cn/spec/55280/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 PLUS 80D 旗舰版
+33.96
+//www.autohome.com.cn/spec/55279/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 PLUS 80D Max版
+41.96
+//www.autohome.com.cn/spec/55088/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+HiPhi
+https://car.autohome.com.cn/diandongche/brand-383.html
+Model Node Start
+高合HiPhi X
+中大型SUV
+550
+630
+299
+598
+57.0
+80.0
+4.45
+0.75
+0.0
+Version Node Start
+2022款 智远版6座 长续航版
+57.0
+//www.autohome.com.cn/spec/55994/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 创远版6座 长续航版
+62.0
+//www.autohome.com.cn/spec/55925/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 豪华版6座
+62.0
+//www.autohome.com.cn/spec/50429/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 旗舰版6座
+68.0
+//www.autohome.com.cn/spec/50427/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 旗舰版4座
+80.0
+//www.autohome.com.cn/spec/50428/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+Hongqi
+https://car.autohome.com.cn/diandongche/brand-91.html
+Model Node Start
+红旗E-HS9
+大型SUV
+460
+690
+435
+551
+50.98
+77.98
+4.49
+0.8
+9.5
+Version Node Start
+2021款 460km 旗悦版 七座
+50.98
+//www.autohome.com.cn/spec/49052/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 690km 旗悦版 七座
+58.98
+//www.autohome.com.cn/spec/54511/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 460km 旗享版 六座
+53.98
+//www.autohome.com.cn/spec/49051/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 690km 旗享版 六座
+61.98
+//www.autohome.com.cn/spec/54512/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 510km 旗畅版 六座
+63.98
+//www.autohome.com.cn/spec/47984/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 660km 旗畅版 六座
+68.98
+//www.autohome.com.cn/spec/54514/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 510km 旗领版 四座
+72.98
+//www.autohome.com.cn/spec/46868/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 660km 旗领版 四座
+77.98
+//www.autohome.com.cn/spec/54515/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+红旗E-QM5
+中型车
+431
+431
+136
+190
+12.28
+23.98
+3.38
+0.5
+0.0
+Version Node Start
+2022款 431km 换电乐享版
+12.28
+//www.autohome.com.cn/spec/56053/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 网约充电 T3版 4座
+23.98
+//www.autohome.com.cn/spec/56059/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 网约充电 T3版 5座
+23.98
+//www.autohome.com.cn/spec/56060/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 网约充电 基础版 4座
+23.98
+//www.autohome.com.cn/spec/56055/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 网约充电 基础版 5座
+23.98
+//www.autohome.com.cn/spec/56056/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 网约充电 滴滴版 4座
+23.98
+//www.autohome.com.cn/spec/56061/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 网约充电 滴滴版 5座
+23.98
+//www.autohome.com.cn/spec/56062/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 网约换电 出租版 4座
+23.98
+//www.autohome.com.cn/spec/56057/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 网约换电 出租版 5座
+23.98
+//www.autohome.com.cn/spec/56058/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 充电 旗享版
+23.98
+//www.autohome.com.cn/spec/51378/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 充电 旗悦版
+23.98
+//www.autohome.com.cn/spec/49386/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 换电 旗享版
+23.98
+//www.autohome.com.cn/spec/51379/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 换电 旗悦版
+23.98
+//www.autohome.com.cn/spec/51380/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 充电 滴滴版
+23.98
+//www.autohome.com.cn/spec/51792/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 充电 T3版 4座
+23.98
+//www.autohome.com.cn/spec/51381/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 充电 T3版 5座
+23.98
+//www.autohome.com.cn/spec/55692/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 431km 充电乐享版
+16.58
+//www.autohome.com.cn/spec/56032/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+红旗E-HS3
+紧凑型SUV
+344
+407
+155
+310
+22.58
+26.58
+0.0
+0
+0
+Version Node Start
+2019款 智联旗悦两驱版
+22.58
+//www.autohome.com.cn/spec/38362/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 智联旗领四驱版
+26.58
+//www.autohome.com.cn/spec/38363/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+Hycan
+https://car.autohome.com.cn/diandongche/brand-376.html
+Model Node Start
+合创Z03
+紧凑型SUV
+430
+620
+184
+218
+13.28
+17.88
+4.52
+0.6
+12.9
+Version Node Start
+2022款 潮享版 430km
+13.28
+//www.autohome.com.cn/spec/56543/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 潮享版 510km
+13.98
+//www.autohome.com.cn/spec/56544/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 潮酷版 510km
+14.68
+//www.autohome.com.cn/spec/56545/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 潮智版 510km
+15.88
+//www.autohome.com.cn/spec/56547/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 潮玩版
+13.28
+//www.autohome.com.cn/spec/50882/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 潮智版
+14.88
+//www.autohome.com.cn/spec/52770/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 潮酷版 620km
+15.88
+//www.autohome.com.cn/spec/56546/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 潮智版 620km
+17.28
+//www.autohome.com.cn/spec/56548/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Z潮版 620km
+17.88
+//www.autohome.com.cn/spec/56549/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 长续航潮智版
+15.88
+//www.autohome.com.cn/spec/53753/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 Z潮版
+16.88
+//www.autohome.com.cn/spec/52769/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+合创007
+中型SUV
+643
+643
+204
+204
+29.98
+29.98
+0.0
+0.58
+0.0
+Version Node Start
+2021款 PLUS版
+29.98
+//www.autohome.com.cn/spec/51163/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+Smart
+https://car.autohome.com.cn/diandongche/brand-45.html
+Model Node Start
+smart精灵#1
+小型SUV
+535
+560
+272
+272
+19.0
+23.0
+0.0
+0.5
+7.5
+Version Node Start
+2022款 Pro+
+19.0
+//www.autohome.com.cn/spec/56772/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 Premium
+23.0
+//www.autohome.com.cn/spec/56536/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+Venucia
+https://car.autohome.com.cn/diandongche/brand-122.html
+Model Node Start
+启辰D60EV
+紧凑型车
+405
+481
+163
+163
+15.005
+17.88
+4.51
+0.5
+6.4
+Version Node Start
+2022款 换电版
+15.005
+//www.autohome.com.cn/spec/55657/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 标准续航舒适版
+15.005
+//www.autohome.com.cn/spec/54821/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 标准续航智行版
+15.005
+//www.autohome.com.cn/spec/54823/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 标准续航智享版
+15.805
+//www.autohome.com.cn/spec/54822/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 标准续航舒适版
+15.005
+//www.autohome.com.cn/spec/46380/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 标准续航智行版
+15.005
+//www.autohome.com.cn/spec/46381/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 标准续航智享版
+15.805
+//www.autohome.com.cn/spec/46382/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 高续航出行版
+17.08
+//www.autohome.com.cn/spec/42642/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 高续航舒适版
+16.28
+//www.autohome.com.cn/spec/40753/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 高续航智享版
+17.18
+//www.autohome.com.cn/spec/41129/#pvareaid=2042126
+Version Node End
+Version Node Start
+2019款 高续航尊享版
+17.88
+//www.autohome.com.cn/spec/38269/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+启辰e30
+小型SUV
+301
+301
+45
+45
+7.24
+8.54
+4.13
+0.5
+0.0
+Version Node Start
+2021款 改款 精灵版
+7.24
+//www.autohome.com.cn/spec/56669/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 改款 精英版
+7.74
+//www.autohome.com.cn/spec/56670/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 改款 精睿版
+8.54
+//www.autohome.com.cn/spec/56671/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 精灵版
+7.24
+//www.autohome.com.cn/spec/51765/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 精英版
+7.74
+//www.autohome.com.cn/spec/51766/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 精睿版
+8.54
+//www.autohome.com.cn/spec/51767/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+启辰T60EV
+小型SUV
+442
+442
+163
+163
+16.38
+18.18
+4.53
+0.5
+6.8
+Version Node Start
+2020款 AI时尚型
+16.38
+//www.autohome.com.cn/spec/43120/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 AI悦享型
+16.88
+//www.autohome.com.cn/spec/43121/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 AI尊享型
+17.78
+//www.autohome.com.cn/spec/43122/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 AI旗舰型
+18.18
+//www.autohome.com.cn/spec/38659/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+Mazda
+https://car.autohome.com.cn/diandongche/brand-58.html
+Model Node Start
+马自达CX-30 EV
+小型SUV
+450
+450
+218
+218
+15.98
+20.18
+4.88
+0.92
+0.0
+Version Node Start
+2021款 纯电驭享版
+15.98
+//www.autohome.com.cn/spec/53495/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 纯电劲享版
+18.08
+//www.autohome.com.cn/spec/53496/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 纯电尊享版
+20.18
+//www.autohome.com.cn/spec/50797/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+Skyworth
+https://car.autohome.com.cn/diandongche/brand-400.html
+Model Node Start
+创维EV6
+中型SUV
+410
+520
+204
+204
+14.68
+25.28
+4.24
+0.5
+0.0
+Version Node Start
+2022款 410 欢乐版
+14.68
+//www.autohome.com.cn/spec/56396/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 410 出行版
+16.58
+//www.autohome.com.cn/spec/52342/#pvareaid=2042126
+Version Node End
+Version Node Start
+2022款 520 欢乐版
+16.68
+//www.autohome.com.cn/spec/56397/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 520 出行版
+18.58
+//www.autohome.com.cn/spec/53357/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 520 标准版
+17.98
+//www.autohome.com.cn/spec/52343/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 520 创享版
+18.98
+//www.autohome.com.cn/spec/52346/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 520 智能版
+20.58
+//www.autohome.com.cn/spec/52345/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 520 PRO版
+25.28
+//www.autohome.com.cn/spec/52347/#pvareaid=2042126
+Version Node End
+Model Node End
+Model Node Start
+天美汽车ET5
+中型SUV
+410
+520
+204
+204
+15.28
+19.88
+0.0
+0.5
+0.0
+Version Node Start
+2020款 明心健康版410km
+15.28
+//www.autohome.com.cn/spec/46641/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 净心智慧版410km
+16.88
+//www.autohome.com.cn/spec/46642/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 净心智慧版520km
+18.38
+//www.autohome.com.cn/spec/46643/#pvareaid=2042126
+Version Node End
+Version Node Start
+2020款 智健合一版520km
+19.88
+//www.autohome.com.cn/spec/44798/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Brand Node Start
+Aiways
+https://car.autohome.com.cn/diandongche/brand-327.html
+Model Node Start
+爱驰U5
+中型SUV
+405
+600
+190
+204
+16.69
+24.99
+4.65
+0.45
+0.0
+Version Node Start
+2020款 U5 Lite
+21.99
+//www.autohome.com.cn/spec/49186/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 U5 SE
+16.69
+//www.autohome.com.cn/spec/47702/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 U5 标准续航 PURE智净版
+17.99
+//www.autohome.com.cn/spec/50022/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 U5 ING
+18.69
+//www.autohome.com.cn/spec/47703/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 U5 长续航 PURE智净版
+19.99
+//www.autohome.com.cn/spec/50023/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 U5 ING+
+20.99
+//www.autohome.com.cn/spec/47704/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 U5 PRO
+22.99
+//www.autohome.com.cn/spec/47705/#pvareaid=2042126
+Version Node End
+Version Node Start
+2021款 U5 PRO+
+24.99
+//www.autohome.com.cn/spec/47706/#pvareaid=2042126
+Version Node End
+Model Node End
+Brand Node End
+Tree End
