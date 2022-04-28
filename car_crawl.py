@@ -1,6 +1,3 @@
-from imp import cache_from_source
-from linecache import cache
-from ssl import VerifyFlags
 import requests
 from bs4 import BeautifulSoup
 import re
@@ -331,10 +328,15 @@ if __name__ == '__main__':
     
     cache_file = open('cache.txt', 'r')
     brand_tree = load_brand_tree(cache_file=cache_file)
+    
+    print_file = open('print.txt', 'w')
     # print(brand_tree)
     # print(brand_tree[0])
     for brand in brand_tree:
-        print(brand)
+        print(brand, file=print_file)
+        
+    cache_file.close()
+    print_file.close()
     
     # url = autohome_base_url + autohome_brand_dict['Tesla']
     # response = requests.get(url = url, headers = headers)

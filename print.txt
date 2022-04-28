@@ -1,0 +1,4500 @@
+Brand: Tesla
+URL: https://car.autohome.com.cn/diandongche/brand-133.html
+Models:
+
+	Model: Model Y
+	Type: 中型SUV
+	Horse Power: 264 ~ 486
+	Price Range: RMB 31.69 ~ 41.79 * 10000
+	Score: 4.5 / 5.0
+	Endurance: 545km ~ 660km
+	Charging Time: Fast Charging 1.0H, Slow Charging 10.0H
+	Versions:
+
+		Version: 2022款 后轮驱动版
+		Price: 31.69 * 10000
+		URL: //www.autohome.com.cn/spec/54332/#pvareaid=2042126
+
+		Version: 2022款 长续航全轮驱动版
+		Price: 37.59 * 10000
+		URL: //www.autohome.com.cn/spec/54861/#pvareaid=2042126
+
+		Version: 2021款 Performance高性能全轮驱动版
+		Price: 41.79 * 10000
+		URL: //www.autohome.com.cn/spec/45735/#pvareaid=2042126
+
+	Model: Model 3
+	Type: 中型车
+	Horse Power: 264 ~ 486
+	Price Range: RMB 29.0988 ~ 36.79 * 10000
+	Score: 4.39 / 5.0
+	Endurance: 556km ~ 675km
+	Charging Time: Fast Charging 1.0H, Slow Charging 10.0H
+	Versions:
+
+		Version: 2022款 后轮驱动版
+		Price: 29.0988 * 10000
+		URL: //www.autohome.com.cn/spec/54529/#pvareaid=2042126
+
+		Version: 2022款 Performance高性能全轮驱动版
+		Price: 36.79 * 10000
+		URL: //www.autohome.com.cn/spec/54857/#pvareaid=2042126
+
+	Model: Model S
+	Type: 中大型车
+	Horse Power: 670 ~ 1020
+	Price Range: RMB 88.999 ~ 105.999 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 637km ~ 652km
+	Charging Time: Fast Charging 1.0H, Slow Charging 10.0H
+	Versions:
+
+		Version: 2021款 双电机全轮驱动版
+		Price: 88.999 * 10000
+		URL: //www.autohome.com.cn/spec/49680/#pvareaid=2042126
+
+		Version: 2021款 三电机全轮驱动 Plaid版
+		Price: 105.999 * 10000
+		URL: //www.autohome.com.cn/spec/47901/#pvareaid=2042126
+
+	Model: Model X
+	Type: 中大型SUV
+	Horse Power: 670 ~ 1020
+	Price Range: RMB 93.999 ~ 99.999 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 536km ~ 560km
+	Charging Time: Fast Charging 1.0H, Slow Charging 10.0H
+	Versions:
+
+		Version: 2021款 双电机全轮驱动版
+		Price: 93.999 * 10000
+		URL: //www.autohome.com.cn/spec/49683/#pvareaid=2042126
+
+		Version: 2021款 三电机全轮驱动 Plaid版
+		Price: 99.999 * 10000
+		URL: //www.autohome.com.cn/spec/49684/#pvareaid=2042126
+
+
+Brand: Porche
+URL: https://car.autohome.com.cn/diandongche/brand-40.html
+Models:
+
+	Model: Taycan
+	Type: 中大型车
+	Horse Power: 408 ~ 762
+	Price Range: RMB 88.8 ~ 180.8 * 10000
+	Score: 4.39 / 5.0
+	Endurance: 407km ~ 450km
+	Charging Time: Fast Charging 1.55H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 Taycan
+		Price: 88.8 * 10000
+		URL: //www.autohome.com.cn/spec/52419/#pvareaid=2042126
+
+		Version: 2022款 Taycan 4S
+		Price: 115.8 * 10000
+		URL: //www.autohome.com.cn/spec/52420/#pvareaid=2042126
+
+		Version: 2022款 Taycan Turbo
+		Price: 150.8 * 10000
+		URL: //www.autohome.com.cn/spec/52421/#pvareaid=2042126
+
+		Version: 2022款 Taycan Turbo S
+		Price: 180.8 * 10000
+		URL: //www.autohome.com.cn/spec/52422/#pvareaid=2042126
+
+	Model: Panamera新能源
+	Type: 大型车
+	Horse Power: 0 ~ 0
+	Price Range: RMB 116.8 ~ 248.3 * 10000
+	Score: 3.89 / 5.0
+	Endurance: 64km ~ 64km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 Panamera 4 E-Hybrid 2.9T
+		Price: 116.8 * 10000
+		URL: //www.autohome.com.cn/spec/56498/#pvareaid=2042126
+
+		Version: 2022款 Panamera 4 E-Hybrid 铂金版 2.9T
+		Price: 129.8 * 10000
+		URL: //www.autohome.com.cn/spec/54242/#pvareaid=2042126
+
+		Version: 2022款 Panamera 4 E-Hybrid Sport Turismo 2.9T
+		Price: 126.5 * 10000
+		URL: //www.autohome.com.cn/spec/56500/#pvareaid=2042126
+
+		Version: 2022款 Panamera 4 E-Hybrid 行政加长版 2.9T
+		Price: 130.5 * 10000
+		URL: //www.autohome.com.cn/spec/56499/#pvareaid=2042126
+
+		Version: 2022款 Panamera 4 E-Hybrid 行政加长铂金版 2.9T
+		Price: 135.8 * 10000
+		URL: //www.autohome.com.cn/spec/54243/#pvareaid=2042126
+
+		Version: 2021款 Panamera 4 E-Hybrid 2.9T
+		Price: 116.8 * 10000
+		URL: //www.autohome.com.cn/spec/48393/#pvareaid=2042126
+
+		Version: 2021款 Panamera 4 E-Hybrid Sport Turismo 2.9T
+		Price: 126.5 * 10000
+		URL: //www.autohome.com.cn/spec/48386/#pvareaid=2042126
+
+		Version: 2021款 Panamera 4 E-Hybrid 行政加长版 2.9T
+		Price: 130.5 * 10000
+		URL: //www.autohome.com.cn/spec/48394/#pvareaid=2042126
+
+		Version: 2022款 Panamera 4S E-Hybrid Sport Turismo 2.9T
+		Price: 147.8 * 10000
+		URL: //www.autohome.com.cn/spec/56502/#pvareaid=2042126
+
+		Version: 2022款 Panamera 4S E-Hybrid 行政加长版 2.9T
+		Price: 157.8 * 10000
+		URL: //www.autohome.com.cn/spec/56501/#pvareaid=2042126
+
+		Version: 2021款 Panamera 4S E-Hybrid Sport Turismo 2.9T
+		Price: 147.8 * 10000
+		URL: //www.autohome.com.cn/spec/47303/#pvareaid=2042126
+
+		Version: 2021款 Panamera 4S E-Hybrid 行政加长版 2.9T
+		Price: 157.8 * 10000
+		URL: //www.autohome.com.cn/spec/47304/#pvareaid=2042126
+
+		Version: 2021款 Panamera Turbo S E-Hybrid 行政加长版 4.0T
+		Price: 248.3 * 10000
+		URL: //www.autohome.com.cn/spec/48395/#pvareaid=2042126
+
+	Model: Cayenne新能源
+	Type: 中大型SUV
+	Horse Power: 0 ~ 0
+	Price Range: RMB 86.8 ~ 101.8 * 10000
+	Score: 4.35 / 5.0
+	Endurance: 50km ~ 53km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 Cayenne E-Hybrid 2.0T
+		Price: 86.8 * 10000
+		URL: //www.autohome.com.cn/spec/48626/#pvareaid=2042126
+
+		Version: 2022款 Cayenne E-Hybrid 2.0T 铂金版
+		Price: 98.8 * 10000
+		URL: //www.autohome.com.cn/spec/55412/#pvareaid=2042126
+
+		Version: 2021款 Cayenne E-Hybrid Coupé 2.0T
+		Price: 93.8 * 10000
+		URL: //www.autohome.com.cn/spec/48627/#pvareaid=2042126
+
+		Version: 2022款 Cayenne E-Hybrid Coupé 2.0T 铂金版
+		Price: 101.8 * 10000
+		URL: //www.autohome.com.cn/spec/55413/#pvareaid=2042126
+
+
+Brand: Volkswagen
+URL: https://car.autohome.com.cn/diandongche/brand-1.html
+Models:
+
+	Model: ID.4 X
+	Type: 紧凑型SUV
+	Horse Power: 170 ~ 313
+	Price Range: RMB 19.9888 ~ 27.8288 * 10000
+	Score: 4.52 / 5.0
+	Endurance: 402km ~ 607km
+	Charging Time: Fast Charging 0.67H, Slow Charging 12.5H
+	Versions:
+
+		Version: 2022款 纯净版
+		Price: 20.5288 * 10000
+		URL: //www.autohome.com.cn/spec/56129/#pvareaid=2042126
+
+		Version: 2021款 Pure 纯净版
+		Price: 19.9888 * 10000
+		URL: //www.autohome.com.cn/spec/49642/#pvareaid=2042126
+
+		Version: 2022款 纯净长续航版
+		Price: 22.5288 * 10000
+		URL: //www.autohome.com.cn/spec/56130/#pvareaid=2042126
+
+		Version: 2022款 智享长续航版
+		Price: 23.8788 * 10000
+		URL: //www.autohome.com.cn/spec/56131/#pvareaid=2042126
+
+		Version: 2022款 极智长续航版
+		Price: 24.1288 * 10000
+		URL: //www.autohome.com.cn/spec/56356/#pvareaid=2042126
+
+		Version: 2021款 Pure+ 纯净长续航版
+		Price: 21.9888 * 10000
+		URL: //www.autohome.com.cn/spec/49643/#pvareaid=2042126
+
+		Version: 2021款 Pro 极智长续航版
+		Price: 23.5888 * 10000
+		URL: //www.autohome.com.cn/spec/48636/#pvareaid=2042126
+
+		Version: 2021款 1st Edition ID.初见版
+		Price: 23.5888 * 10000
+		URL: //www.autohome.com.cn/spec/48844/#pvareaid=2042126
+
+		Version: 2022款 劲能四驱版
+		Price: 27.8288 * 10000
+		URL: //www.autohome.com.cn/spec/56132/#pvareaid=2042126
+
+		Version: 2021款 劲能四驱抢鲜版
+		Price: 26.8888 * 10000
+		URL: //www.autohome.com.cn/spec/50169/#pvareaid=2042126
+
+		Version: 2021款 Prime 劲能四驱版
+		Price: 27.2888 * 10000
+		URL: //www.autohome.com.cn/spec/46092/#pvareaid=2042126
+
+	Model: 大众ID.3
+	Type: 紧凑型车
+	Horse Power: 170 ~ 170
+	Price Range: RMB 15.9888 ~ 17.9288 * 10000
+	Score: 4.53 / 5.0
+	Endurance: 430km ~ 450km
+	Charging Time: Fast Charging 0.67H, Slow Charging 8.5H
+	Versions:
+
+		Version: 2022款 Pure 纯净版
+		Price: 16.5288 * 10000
+		URL: //www.autohome.com.cn/spec/56123/#pvareaid=2042126
+
+		Version: 2022款 Pro 极智版
+		Price: 17.9288 * 10000
+		URL: //www.autohome.com.cn/spec/56124/#pvareaid=2042126
+
+		Version: 2021款 Pure 纯净版
+		Price: 15.9888 * 10000
+		URL: //www.autohome.com.cn/spec/53867/#pvareaid=2042126
+
+		Version: 2021款 Pro 极智版
+		Price: 17.3888 * 10000
+		URL: //www.autohome.com.cn/spec/51720/#pvareaid=2042126
+
+	Model: ID.6 X
+	Type: 中大型SUV
+	Horse Power: 180 ~ 313
+	Price Range: RMB 23.9888 ~ 33.5888 * 10000
+	Score: 4.51 / 5.0
+	Endurance: 436km ~ 617km
+	Charging Time: Fast Charging 0.67H, Slow Charging 12.5H
+	Versions:
+
+		Version: 2022款 纯净版
+		Price: 24.5288 * 10000
+		URL: //www.autohome.com.cn/spec/56125/#pvareaid=2042126
+
+		Version: 2021款 Pure 纯净版
+		Price: 23.9888 * 10000
+		URL: //www.autohome.com.cn/spec/51768/#pvareaid=2042126
+
+		Version: 2022款 智享纯净长续航版
+		Price: 26.8788 * 10000
+		URL: //www.autohome.com.cn/spec/56126/#pvareaid=2042126
+
+		Version: 2022款 纯净长续航版
+		Price: 27.1288 * 10000
+		URL: //www.autohome.com.cn/spec/56344/#pvareaid=2042126
+
+		Version: 2022款 智享长续航版
+		Price: 28.1788 * 10000
+		URL: //www.autohome.com.cn/spec/56127/#pvareaid=2042126
+
+		Version: 2022款 极智长续航版
+		Price: 28.4288 * 10000
+		URL: //www.autohome.com.cn/spec/56345/#pvareaid=2042126
+
+		Version: 2021款 改款 Pure+ 纯净长续航版
+		Price: 26.5888 * 10000
+		URL: //www.autohome.com.cn/spec/54323/#pvareaid=2042126
+
+		Version: 2021款 Pro 极智长续航版
+		Price: 27.8888 * 10000
+		URL: //www.autohome.com.cn/spec/51770/#pvareaid=2042126
+
+		Version: 2021款 1st Edition ID.初见版
+		Price: 27.8888 * 10000
+		URL: //www.autohome.com.cn/spec/51772/#pvareaid=2042126
+
+		Version: 2022款 劲能四驱版
+		Price: 33.5888 * 10000
+		URL: //www.autohome.com.cn/spec/56128/#pvareaid=2042126
+
+		Version: 2021款 Prime 智享四驱版
+		Price: 33.1888 * 10000
+		URL: //www.autohome.com.cn/spec/53436/#pvareaid=2042126
+
+		Version: 2021款 Prime 劲能四驱版
+		Price: 33.5888 * 10000
+		URL: //www.autohome.com.cn/spec/51771/#pvareaid=2042126
+
+	Model: 帕萨特新能源
+	Type: 中型车
+	Horse Power: 0 ~ 0
+	Price Range: RMB 22.99 ~ 23.89 * 10000
+	Score: 4.5 / 5.0
+	Endurance: 63km ~ 63km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 430PHEV 混动精英版
+		Price: 22.99 * 10000
+		URL: //www.autohome.com.cn/spec/52744/#pvareaid=2042126
+
+		Version: 2022款 430PHEV 混动豪华版
+		Price: 23.89 * 10000
+		URL: //www.autohome.com.cn/spec/51206/#pvareaid=2042126
+
+	Model: 途观L新能源
+	Type: 中型SUV
+	Horse Power: 0 ~ 0
+	Price Range: RMB 25.78 ~ 26.88 * 10000
+	Score: 4.54 / 5.0
+	Endurance: 55km ~ 55km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 430PHEV 插电混动尊贵版
+		Price: 25.78 * 10000
+		URL: //www.autohome.com.cn/spec/52767/#pvareaid=2042126
+
+		Version: 2022款 430PHEV 插电混动旗舰版
+		Price: 26.88 * 10000
+		URL: //www.autohome.com.cn/spec/50132/#pvareaid=2042126
+
+	Model: 途岳新能源
+	Type: 紧凑型SUV
+	Horse Power: 136 ~ 136
+	Price Range: RMB 19.48 ~ 19.48 * 10000
+	Score: 4.5 / 5.0
+	Endurance: 315km ~ 315km
+	Charging Time: Fast Charging 0.87H, Slow Charging 6.5H
+	Versions:
+
+		Version: 2021款 全景优享版
+		Price: 19.48 * 10000
+		URL: //www.autohome.com.cn/spec/43247/#pvareaid=2042126
+
+	Model: ID.6 CROZZ
+	Type: 中大型SUV
+	Horse Power: 180 ~ 313
+	Price Range: RMB 23.98 ~ 33.48 * 10000
+	Score: 4.51 / 5.0
+	Endurance: 439km ~ 601km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 标准续航PURE版
+		Price: 24.52 * 10000
+		URL: //www.autohome.com.cn/spec/56427/#pvareaid=2042126
+
+		Version: 2021款 标准续航PURE版
+		Price: 23.98 * 10000
+		URL: //www.autohome.com.cn/spec/52022/#pvareaid=2042126
+
+		Version: 2022款 长续航PURE+版
+		Price: 27.22 * 10000
+		URL: //www.autohome.com.cn/spec/56428/#pvareaid=2042126
+
+		Version: 2022款 长续航PRO版
+		Price: 28.52 * 10000
+		URL: //www.autohome.com.cn/spec/56429/#pvareaid=2042126
+
+		Version: 2021款 长续航PURE+版
+		Price: 26.68 * 10000
+		URL: //www.autohome.com.cn/spec/52023/#pvareaid=2042126
+
+		Version: 2021款 改款 长续航PURE+版
+		Price: 26.68 * 10000
+		URL: //www.autohome.com.cn/spec/55300/#pvareaid=2042126
+
+		Version: 2021款 长续航PRO版
+		Price: 27.98 * 10000
+		URL: //www.autohome.com.cn/spec/50135/#pvareaid=2042126
+
+		Version: 2021款 改款 长续航PRO版
+		Price: 27.98 * 10000
+		URL: //www.autohome.com.cn/spec/55301/#pvareaid=2042126
+
+		Version: 2021款 首发版
+		Price: 27.88 * 10000
+		URL: //www.autohome.com.cn/spec/52024/#pvareaid=2042126
+
+		Version: 2022款 高性能PRIME版
+		Price: 33.48 * 10000
+		URL: //www.autohome.com.cn/spec/56430/#pvareaid=2042126
+
+		Version: 2021款 高性能PRIME版
+		Price: 33.48 * 10000
+		URL: //www.autohome.com.cn/spec/50784/#pvareaid=2042126
+
+	Model: ID.4 CROZZ
+	Type: 紧凑型SUV
+	Horse Power: 170 ~ 313
+	Price Range: RMB 19.99 ~ 28.53 * 10000
+	Score: 4.53 / 5.0
+	Endurance: 405km ~ 600km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 标准续航PURE版
+		Price: 20.53 * 10000
+		URL: //www.autohome.com.cn/spec/56431/#pvareaid=2042126
+
+		Version: 2021款 标准续航PURE两驱版
+		Price: 19.99 * 10000
+		URL: //www.autohome.com.cn/spec/49592/#pvareaid=2042126
+
+		Version: 2022款 长续航PURE+版
+		Price: 22.53 * 10000
+		URL: //www.autohome.com.cn/spec/56432/#pvareaid=2042126
+
+		Version: 2022款 长续航Lite PRO版
+		Price: 24.28 * 10000
+		URL: //www.autohome.com.cn/spec/56433/#pvareaid=2042126
+
+		Version: 2022款 长续航PRO版
+		Price: 24.53 * 10000
+		URL: //www.autohome.com.cn/spec/56434/#pvareaid=2042126
+
+		Version: 2021款 长续航PURE+两驱版
+		Price: 21.99 * 10000
+		URL: //www.autohome.com.cn/spec/49593/#pvareaid=2042126
+
+		Version: 2021款 长续航Lite PRO两驱版
+		Price: 23.74 * 10000
+		URL: //www.autohome.com.cn/spec/55327/#pvareaid=2042126
+
+		Version: 2021款 长续航PRO两驱版
+		Price: 23.99 * 10000
+		URL: //www.autohome.com.cn/spec/49181/#pvareaid=2042126
+
+		Version: 2022款 高性能PRIME版
+		Price: 28.53 * 10000
+		URL: //www.autohome.com.cn/spec/56435/#pvareaid=2042126
+
+		Version: 2021款 高性能PRIME四驱版
+		Price: 27.99 * 10000
+		URL: //www.autohome.com.cn/spec/49104/#pvareaid=2042126
+
+	Model: 迈腾GTE插电混动
+	Type: 中型车
+	Horse Power: 0 ~ 0
+	Price Range: RMB 23.79 ~ 25.29 * 10000
+	Score: 4.29 / 5.0
+	Endurance: 63km ~ 63km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 GTE 豪华型
+		Price: 23.79 * 10000
+		URL: //www.autohome.com.cn/spec/54800/#pvareaid=2042126
+
+		Version: 2022款 GTE 尊贵型
+		Price: 25.29 * 10000
+		URL: //www.autohome.com.cn/spec/54801/#pvareaid=2042126
+
+	Model: 探岳GTE插电混动
+	Type: 中型SUV
+	Horse Power: 0 ~ 0
+	Price Range: RMB 24.29 ~ 25.29 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 56km ~ 56km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 1.4T 豪华型
+		Price: 24.29 * 10000
+		URL: //www.autohome.com.cn/spec/54798/#pvareaid=2042126
+
+		Version: 2022款 1.4T 尊贵型
+		Price: 25.29 * 10000
+		URL: //www.autohome.com.cn/spec/54799/#pvareaid=2042126
+
+	Model: 宝来·纯电
+	Type: 紧凑型车
+	Horse Power: 136 ~ 136
+	Price Range: RMB 14.08 ~ 15.08 * 10000
+	Score: 4.75 / 5.0
+	Endurance: 346km ~ 346km
+	Charging Time: Fast Charging 0.6H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 尚
+		Price: 14.08 * 10000
+		URL: //www.autohome.com.cn/spec/51061/#pvareaid=2042126
+
+		Version: 2021款 尚Pro
+		Price: 15.08 * 10000
+		URL: //www.autohome.com.cn/spec/51062/#pvareaid=2042126
+
+	Model: 途锐新能源
+	Type: 中大型SUV
+	Horse Power: 0 ~ 0
+	Price Range: RMB 67.98 ~ 67.98 * 10000
+	Score: 4.75 / 5.0
+	Endurance: 58km ~ 58km
+	Charging Time: Fast Charging 2.5H, Slow Charging 10.8H
+	Versions:
+
+		Version: 2022款 eHybrid
+		Price: 67.98 * 10000
+		URL: //www.autohome.com.cn/spec/55512/#pvareaid=2042126
+
+		Version: 2021款 eHybrid
+		Price: 67.98 * 10000
+		URL: //www.autohome.com.cn/spec/48552/#pvareaid=2042126
+
+
+Brand: ZEEKR
+URL: https://car.autohome.com.cn/diandongche/brand-456.html
+Models:
+
+	Model: ZEEKR 001
+	Type: 中大型车
+	Horse Power: 272 ~ 544
+	Price Range: RMB 29.9 ~ 36.8 * 10000
+	Score: 4.54 / 5.0
+	Endurance: 526km ~ 712km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 超长续航单电机 WE版
+		Price: 29.9 * 10000
+		URL: //www.autohome.com.cn/spec/50750/#pvareaid=2042126
+
+		Version: 2021款 长续航双电机 WE版
+		Price: 29.9 * 10000
+		URL: //www.autohome.com.cn/spec/50749/#pvareaid=2042126
+
+		Version: 2021款 超长续航双电机 YOU版
+		Price: 36.8 * 10000
+		URL: //www.autohome.com.cn/spec/50437/#pvareaid=2042126
+
+
+Brand: NIO
+URL: https://car.autohome.com.cn/diandongche/brand-284.html
+Models:
+
+	Model: 蔚来ET7
+	Type: 中大型车
+	Horse Power: 653 ~ 653
+	Price Range: RMB 44.8 ~ 52.6 * 10000
+	Score: 4.88 / 5.0
+	Endurance: 500km ~ 700km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 75kWh
+		Price: 44.8 * 10000
+		URL: //www.autohome.com.cn/spec/49481/#pvareaid=2042126
+
+		Version: 2022款 100kWh
+		Price: 50.6 * 10000
+		URL: //www.autohome.com.cn/spec/49482/#pvareaid=2042126
+
+		Version: 2022款 100kWh 首发版
+		Price: 52.6 * 10000
+		URL: //www.autohome.com.cn/spec/49483/#pvareaid=2042126
+
+	Model: 蔚来ES6
+	Type: 中型SUV
+	Horse Power: 435 ~ 544
+	Price Range: RMB 35.8 ~ 52.6 * 10000
+	Score: 4.53 / 5.0
+	Endurance: 455km ~ 610km
+	Charging Time: Fast Charging 0.6H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2020款 455KM 运动版
+		Price: 35.8 * 10000
+		URL: //www.autohome.com.cn/spec/53428/#pvareaid=2042126
+
+		Version: 2020款 600KM 运动版
+		Price: 41.6 * 10000
+		URL: //www.autohome.com.cn/spec/47621/#pvareaid=2042126
+
+		Version: 2020款 465KM 性能版
+		Price: 39.8 * 10000
+		URL: //www.autohome.com.cn/spec/53429/#pvareaid=2042126
+
+		Version: 2020款 610KM 性能版
+		Price: 45.6 * 10000
+		URL: //www.autohome.com.cn/spec/47622/#pvareaid=2042126
+
+		Version: 2020款 465KM 签名版
+		Price: 46.8 * 10000
+		URL: //www.autohome.com.cn/spec/53430/#pvareaid=2042126
+
+		Version: 2020款 610KM 签名版
+		Price: 52.6 * 10000
+		URL: //www.autohome.com.cn/spec/47623/#pvareaid=2042126
+
+	Model: 蔚来ES8
+	Type: 中大型SUV
+	Horse Power: 544 ~ 544
+	Price Range: RMB 46.8 ~ 62.4 * 10000
+	Score: 4.54 / 5.0
+	Endurance: 450km ~ 580km
+	Charging Time: Fast Charging 0.6H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2020款 450KM 六座版
+		Price: 47.6 * 10000
+		URL: //www.autohome.com.cn/spec/53425/#pvareaid=2042126
+
+		Version: 2020款 450KM 七座版
+		Price: 46.8 * 10000
+		URL: //www.autohome.com.cn/spec/53424/#pvareaid=2042126
+
+		Version: 2020款 450KM 签名版 六座版
+		Price: 56.6 * 10000
+		URL: //www.autohome.com.cn/spec/53427/#pvareaid=2042126
+
+		Version: 2020款 450KM 签名版 七座版
+		Price: 55.8 * 10000
+		URL: //www.autohome.com.cn/spec/53426/#pvareaid=2042126
+
+		Version: 2020款 580KM 六座版
+		Price: 53.4 * 10000
+		URL: //www.autohome.com.cn/spec/43384/#pvareaid=2042126
+
+		Version: 2020款 580KM 七座版
+		Price: 52.6 * 10000
+		URL: //www.autohome.com.cn/spec/43378/#pvareaid=2042126
+
+		Version: 2020款 580KM 签名版 六座版
+		Price: 62.4 * 10000
+		URL: //www.autohome.com.cn/spec/43387/#pvareaid=2042126
+
+		Version: 2020款 580KM 签名版 七座版
+		Price: 61.6 * 10000
+		URL: //www.autohome.com.cn/spec/43381/#pvareaid=2042126
+
+	Model: 蔚来ET5
+	Type: 中型车
+	Horse Power: 490 ~ 490
+	Price Range: RMB 32.8 ~ 38.6 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 550km ~ 700km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 75kWh
+		Price: 32.8 * 10000
+		URL: //www.autohome.com.cn/spec/53838/#pvareaid=2042126
+
+		Version: 2022款 100kWh
+		Price: 38.6 * 10000
+		URL: //www.autohome.com.cn/spec/55065/#pvareaid=2042126
+
+	Model: 蔚来EC6
+	Type: 中型SUV
+	Horse Power: 435 ~ 544
+	Price Range: RMB 36.8 ~ 52.6 * 10000
+	Score: 4.54 / 5.0
+	Endurance: 465km ~ 615km
+	Charging Time: Fast Charging 0.6H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2020款 465KM 运动版
+		Price: 36.8 * 10000
+		URL: //www.autohome.com.cn/spec/53431/#pvareaid=2042126
+
+		Version: 2020款 605KM 运动版
+		Price: 42.6 * 10000
+		URL: //www.autohome.com.cn/spec/43389/#pvareaid=2042126
+
+		Version: 2020款 475KM 性能版
+		Price: 40.8 * 10000
+		URL: //www.autohome.com.cn/spec/53432/#pvareaid=2042126
+
+		Version: 2020款 615KM 性能版
+		Price: 46.6 * 10000
+		URL: //www.autohome.com.cn/spec/43391/#pvareaid=2042126
+
+		Version: 2020款 475KM 签名版
+		Price: 46.8 * 10000
+		URL: //www.autohome.com.cn/spec/53433/#pvareaid=2042126
+
+		Version: 2020款 615KM 签名版
+		Price: 52.6 * 10000
+		URL: //www.autohome.com.cn/spec/46800/#pvareaid=2042126
+
+
+Brand: XPENG
+URL: https://car.autohome.com.cn/diandongche/brand-275.html
+Models:
+
+	Model: 小鹏P7
+	Type: 中型车
+	Horse Power: 267 ~ 430
+	Price Range: RMB 23.99 ~ 42.99 * 10000
+	Score: 4.53 / 5.0
+	Endurance: 480km ~ 706km
+	Charging Time: Fast Charging 0.42H, Slow Charging 6.5H
+	Versions:
+
+		Version: 2021款 480G
+		Price: 23.99 * 10000
+		URL: //www.autohome.com.cn/spec/53576/#pvareaid=2042126
+
+		Version: 2021款 480N
+		Price: 24.99 * 10000
+		URL: //www.autohome.com.cn/spec/50024/#pvareaid=2042126
+
+		Version: 2022款 480N+
+		Price: 25.29 * 10000
+		URL: //www.autohome.com.cn/spec/54172/#pvareaid=2042126
+
+		Version: 2021款 480E
+		Price: 25.99 * 10000
+		URL: //www.autohome.com.cn/spec/50025/#pvareaid=2042126
+
+		Version: 2020款 586N
+		Price: 27.09 * 10000
+		URL: //www.autohome.com.cn/spec/45221/#pvareaid=2042126
+
+		Version: 2020款 586E
+		Price: 28.09 * 10000
+		URL: //www.autohome.com.cn/spec/45223/#pvareaid=2042126
+
+		Version: 2020款 706G
+		Price: 27.09 * 10000
+		URL: //www.autohome.com.cn/spec/43354/#pvareaid=2042126
+
+		Version: 2021款 670G
+		Price: 27.29 * 10000
+		URL: //www.autohome.com.cn/spec/53577/#pvareaid=2042126
+
+		Version: 2020款 670N
+		Price: 28.29 * 10000
+		URL: //www.autohome.com.cn/spec/45224/#pvareaid=2042126
+
+		Version: 2022款 670N+
+		Price: 28.59 * 10000
+		URL: //www.autohome.com.cn/spec/54173/#pvareaid=2042126
+
+		Version: 2020款 670E
+		Price: 31.49 * 10000
+		URL: //www.autohome.com.cn/spec/45225/#pvareaid=2042126
+
+		Version: 2022款 670E+
+		Price: 31.79 * 10000
+		URL: //www.autohome.com.cn/spec/55181/#pvareaid=2042126
+
+		Version: 2022款 670E+ Black Label Edition
+		Price: 32.99 * 10000
+		URL: //www.autohome.com.cn/spec/56231/#pvareaid=2042126
+
+		Version: 2021款 670E鹏翼版
+		Price: 38.69 * 10000
+		URL: //www.autohome.com.cn/spec/48858/#pvareaid=2042126
+
+		Version: 2022款 670E+鹏翼版
+		Price: 38.79 * 10000
+		URL: //www.autohome.com.cn/spec/55182/#pvareaid=2042126
+
+		Version: 2020款 562E性能版
+		Price: 34.99 * 10000
+		URL: //www.autohome.com.cn/spec/38606/#pvareaid=2042126
+
+		Version: 2021款 562E鹏翼性能版
+		Price: 42.99 * 10000
+		URL: //www.autohome.com.cn/spec/48927/#pvareaid=2042126
+
+	Model: 小鹏P5
+	Type: 紧凑型车
+	Horse Power: 211 ~ 211
+	Price Range: RMB 17.79 ~ 24.29 * 10000
+	Score: 4.43 / 5.0
+	Endurance: 450km ~ 600km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 460G
+		Price: 17.79 * 10000
+		URL: //www.autohome.com.cn/spec/52270/#pvareaid=2042126
+
+		Version: 2022款 460G+
+		Price: 17.99 * 10000
+		URL: //www.autohome.com.cn/spec/55688/#pvareaid=2042126
+
+		Version: 2021款 460E
+		Price: 19.59 * 10000
+		URL: //www.autohome.com.cn/spec/52271/#pvareaid=2042126
+
+		Version: 2022款 460E+
+		Price: 19.79 * 10000
+		URL: //www.autohome.com.cn/spec/55689/#pvareaid=2042126
+
+		Version: 2022款 510G
+		Price: 18.89 * 10000
+		URL: //www.autohome.com.cn/spec/55690/#pvareaid=2042126
+
+		Version: 2022款 510E
+		Price: 20.69 * 10000
+		URL: //www.autohome.com.cn/spec/55691/#pvareaid=2042126
+
+		Version: 2021款 550G
+		Price: 19.39 * 10000
+		URL: //www.autohome.com.cn/spec/52272/#pvareaid=2042126
+
+		Version: 2021款 550E
+		Price: 21.19 * 10000
+		URL: //www.autohome.com.cn/spec/52273/#pvareaid=2042126
+
+		Version: 2021款 550P
+		Price: 21.89 * 10000
+		URL: //www.autohome.com.cn/spec/52274/#pvareaid=2042126
+
+		Version: 2021款 600P
+		Price: 24.29 * 10000
+		URL: //www.autohome.com.cn/spec/50446/#pvareaid=2042126
+
+	Model: 小鹏G3
+	Type: 紧凑型SUV
+	Horse Power: 197 ~ 197
+	Price Range: RMB 16.89 ~ 20.39 * 10000
+	Score: 4.53 / 5.0
+	Endurance: 460km ~ 520km
+	Charging Time: Fast Charging 0.58H, Slow Charging 5.5H
+	Versions:
+
+		Version: 2021款 G3i 460G
+		Price: 16.89 * 10000
+		URL: //www.autohome.com.cn/spec/52144/#pvareaid=2042126
+
+		Version: 2021款 G3i 460N
+		Price: 18.89 * 10000
+		URL: //www.autohome.com.cn/spec/52145/#pvareaid=2042126
+
+		Version: 2021款 G3i 520G
+		Price: 18.19 * 10000
+		URL: //www.autohome.com.cn/spec/52146/#pvareaid=2042126
+
+		Version: 2021款 G3i 520G+
+		Price: 18.39 * 10000
+		URL: //www.autohome.com.cn/spec/55163/#pvareaid=2042126
+
+		Version: 2021款 G3i 520N
+		Price: 20.19 * 10000
+		URL: //www.autohome.com.cn/spec/51781/#pvareaid=2042126
+
+		Version: 2021款 G3i 520N+
+		Price: 20.39 * 10000
+		URL: //www.autohome.com.cn/spec/55164/#pvareaid=2042126
+
+
+Brand: Mercedes-Benz
+URL: https://car.autohome.com.cn/diandongche/brand-36.html
+Models:
+
+	Model: 奔驰EQS
+	Type: 大型车
+	Horse Power: 333 ~ 517
+	Price Range: RMB 107.96 ~ 151.86 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 720km ~ 849km
+	Charging Time: Fast Charging 0.62H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 450+ 先锋版
+		Price: 107.96 * 10000
+		URL: //www.autohome.com.cn/spec/55056/#pvareaid=2042126
+
+		Version: 2022款 450+ 豪华版
+		Price: 119.36 * 10000
+		URL: //www.autohome.com.cn/spec/50979/#pvareaid=2042126
+
+		Version: 2022款 450+ 先型特别版
+		Price: 131.76 * 10000
+		URL: //www.autohome.com.cn/spec/55057/#pvareaid=2042126
+
+		Version: 2022款 580 4MATIC
+		Price: 151.86 * 10000
+		URL: //www.autohome.com.cn/spec/50367/#pvareaid=2042126
+
+	Model: 奔驰E级新能源
+	Type: 中大型车
+	Horse Power: 0 ~ 0
+	Price Range: RMB 51.76 ~ 51.83 * 10000
+	Score: 4.38 / 5.0
+	Endurance: 101km ~ 120km
+	Charging Time: Fast Charging 1.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 改款二 E 350 e L 插电式混合动力轿车
+		Price: 51.76 * 10000
+		URL: //www.autohome.com.cn/spec/56292/#pvareaid=2042126
+
+		Version: 2022款 改款二 E 350 e L 插电式混合动力运动轿车
+		Price: 51.76 * 10000
+		URL: //www.autohome.com.cn/spec/56293/#pvareaid=2042126
+
+		Version: 2022款 改款 E 350 e L 插电式混合动力轿车
+		Price: 51.83 * 10000
+		URL: //www.autohome.com.cn/spec/54847/#pvareaid=2042126
+
+		Version: 2022款 改款 E 350 e L 插电式混合动力运动轿车
+		Price: 51.83 * 10000
+		URL: //www.autohome.com.cn/spec/54848/#pvareaid=2042126
+
+	Model: 奔驰EQC
+	Type: 中型SUV
+	Horse Power: 286 ~ 408
+	Price Range: RMB 49.98 ~ 57.98 * 10000
+	Score: 4.4 / 5.0
+	Endurance: 415km ~ 443km
+	Charging Time: Fast Charging 0.75H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 EQC 350 4MATIC
+		Price: 49.98 * 10000
+		URL: //www.autohome.com.cn/spec/55653/#pvareaid=2042126
+
+		Version: 2022款 EQC 350 4MATIC 特别版
+		Price: 50.98 * 10000
+		URL: //www.autohome.com.cn/spec/55744/#pvareaid=2042126
+
+		Version: 2021款 EQC 350 4MATIC
+		Price: 49.98 * 10000
+		URL: //www.autohome.com.cn/spec/50171/#pvareaid=2042126
+
+		Version: 2022款 EQC 400 4MATIC
+		Price: 57.98 * 10000
+		URL: //www.autohome.com.cn/spec/55658/#pvareaid=2042126
+
+		Version: 2021款 EQC 400 4MATIC
+		Price: 57.98 * 10000
+		URL: //www.autohome.com.cn/spec/50052/#pvareaid=2042126
+
+	Model: 奔驰EQA
+	Type: 紧凑型SUV
+	Horse Power: 190 ~ 228
+	Price Range: RMB 32.18 ~ 36.58 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 537km ~ 619km
+	Charging Time: Fast Charging 0.75H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 EQA 260
+		Price: 32.18 * 10000
+		URL: //www.autohome.com.cn/spec/54245/#pvareaid=2042126
+
+		Version: 2022款 EQA 300 4MATIC 首发特别版
+		Price: 36.58 * 10000
+		URL: //www.autohome.com.cn/spec/50822/#pvareaid=2042126
+
+	Model: 奔驰EQB
+	Type: 紧凑型SUV
+	Horse Power: 292 ~ 292
+	Price Range: RMB 43.78 ~ 43.78 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 512km ~ 512km
+	Charging Time: Fast Charging 0.75H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 EQB 350 4MATIC 首发特别版
+		Price: 43.78 * 10000
+		URL: //www.autohome.com.cn/spec/50825/#pvareaid=2042126
+
+	Model: 奔驰GLE新能源
+	Type: 中大型SUV
+	Horse Power: 0 ~ 0
+	Price Range: RMB 79.98 ~ 82.24 * 10000
+	Score: 4.6 / 5.0
+	Endurance: 88km ~ 103km
+	Charging Time: Fast Charging 0.3H, Slow Charging 3.5H
+	Versions:
+
+		Version: 2022款 GLE 350 e 4MATIC
+		Price: 82.24 * 10000
+		URL: //www.autohome.com.cn/spec/54699/#pvareaid=2042126
+
+		Version: 2021款 GLE 350 e 4MATIC
+		Price: 79.98 * 10000
+		URL: //www.autohome.com.cn/spec/50762/#pvareaid=2042126
+
+	Model: 奔驰GLE轿跑新能源
+	Type: 中大型SUV
+	Horse Power: 0 ~ 0
+	Price Range: RMB 82.88 ~ 85.14 * 10000
+	Score: 3.75 / 5.0
+	Endurance: 103km ~ 103km
+	Charging Time: Fast Charging 0.33H, Slow Charging 3.5H
+	Versions:
+
+		Version: 2022款 GLE 350 e 4MATIC 轿跑SUV
+		Price: 85.14 * 10000
+		URL: //www.autohome.com.cn/spec/54947/#pvareaid=2042126
+
+		Version: 2021款 GLE 350 e 4MATIC 轿跑SUV
+		Price: 82.88 * 10000
+		URL: //www.autohome.com.cn/spec/48939/#pvareaid=2042126
+
+
+Brand: BMW
+URL: https://car.autohome.com.cn/diandongche/brand-15.html
+Models:
+
+	Model: 宝马i3
+	Type: 中型车
+	Horse Power: 286 ~ 286
+	Price Range: RMB 34.99 ~ 34.99 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 526km ~ 526km
+	Charging Time: Fast Charging 0.58H, Slow Charging 6.75H
+	Versions:
+
+		Version: 2022款 eDrive 35 L
+		Price: 34.99 * 10000
+		URL: //www.autohome.com.cn/spec/54899/#pvareaid=2042126
+
+	Model: 宝马iX3
+	Type: 中型SUV
+	Horse Power: 286 ~ 286
+	Price Range: RMB 39.99 ~ 43.99 * 10000
+	Score: 4.54 / 5.0
+	Endurance: 535km ~ 550km
+	Charging Time: Fast Charging 0.75H, Slow Charging 7.5H
+	Versions:
+
+		Version: 2022款 领先型
+		Price: 39.99 * 10000
+		URL: //www.autohome.com.cn/spec/52972/#pvareaid=2042126
+
+		Version: 2022款 创领型
+		Price: 43.99 * 10000
+		URL: //www.autohome.com.cn/spec/53240/#pvareaid=2042126
+
+	Model: 宝马5系新能源
+	Type: 中大型车
+	Horse Power: 0 ~ 0
+	Price Range: RMB 49.99 ~ 53.69 * 10000
+	Score: 4.44 / 5.0
+	Endurance: 95km ~ 95km
+	Charging Time: Fast Charging 0.0H, Slow Charging 3.9H
+	Versions:
+
+		Version: 2022款 改款 535Le 豪华套装
+		Price: 49.99 * 10000
+		URL: //www.autohome.com.cn/spec/54018/#pvareaid=2042126
+
+		Version: 2022款 改款 535Le M运动套装
+		Price: 49.99 * 10000
+		URL: //www.autohome.com.cn/spec/54019/#pvareaid=2042126
+
+		Version: 2022款 改款 535Le 先锋版M运动套装
+		Price: 53.69 * 10000
+		URL: //www.autohome.com.cn/spec/54020/#pvareaid=2042126
+
+	Model: 宝马X1新能源
+	Type: 紧凑型SUV
+	Horse Power: 0 ~ 0
+	Price Range: RMB 39.98 ~ 39.98 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 110km ~ 110km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 xDrive30Le 尊享型
+		Price: 39.98 * 10000
+		URL: //www.autohome.com.cn/spec/47823/#pvareaid=2042126
+
+	Model: 宝马i4
+	Type: 中型车
+	Horse Power: 340 ~ 544
+	Price Range: RMB 44.99 ~ 53.99 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 560km ~ 625km
+	Charging Time: Fast Charging 0.77H, Slow Charging 8.25H
+	Versions:
+
+		Version: 2022款 eDrive40
+		Price: 44.99 * 10000
+		URL: //www.autohome.com.cn/spec/51513/#pvareaid=2042126
+
+		Version: 2022款 M50
+		Price: 53.99 * 10000
+		URL: //www.autohome.com.cn/spec/51514/#pvareaid=2042126
+
+	Model: 宝马iX
+	Type: 中大型SUV
+	Horse Power: 326 ~ 619
+	Price Range: RMB 74.69 ~ 99.69 * 10000
+	Score: 4.13 / 5.0
+	Endurance: 455km ~ 630km
+	Charging Time: Fast Charging 0.68H, Slow Charging 10.75H
+	Versions:
+
+		Version: 2022款 xDrive40
+		Price: 74.69 * 10000
+		URL: //www.autohome.com.cn/spec/55270/#pvareaid=2042126
+
+		Version: 2022款 xDrive50
+		Price: 84.69 * 10000
+		URL: //www.autohome.com.cn/spec/50210/#pvareaid=2042126
+
+		Version: 2022款 M60
+		Price: 99.69 * 10000
+		URL: //www.autohome.com.cn/spec/55271/#pvareaid=2042126
+
+	Model: 宝马X5新能源(进口)
+	Type: 中大型SUV
+	Horse Power: 0 ~ 0
+	Price Range: RMB 85.99 ~ 85.99 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 85km ~ 85km
+	Charging Time: Fast Charging 0.0H, Slow Charging 6.5H
+	Versions:
+
+		Version: 2022款 xDrive45e M运动套装
+		Price: 85.99 * 10000
+		URL: //www.autohome.com.cn/spec/54734/#pvareaid=2042126
+
+
+Brand: BYD
+URL: https://car.autohome.com.cn/diandongche/brand-75.html
+Models:
+
+	Model: 汉
+	Type: 中大型车
+	Horse Power: 0 ~ 0
+	Price Range: RMB 21.48 ~ 32.98 * 10000
+	Score: 4.53 / 5.0
+	Endurance: 81km ~ 715km
+	Charging Time: Fast Charging 0.42H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 DM-i 121KM 尊贵型
+		Price: 21.58 * 10000
+		URL: //www.autohome.com.cn/spec/56153/#pvareaid=2042126
+
+		Version: 2022款 DM-i 121KM 尊荣型
+		Price: 22.58 * 10000
+		URL: //www.autohome.com.cn/spec/56152/#pvareaid=2042126
+
+		Version: 2022款 DM-i 121KM 尊享型
+		Price: 23.58 * 10000
+		URL: //www.autohome.com.cn/spec/55313/#pvareaid=2042126
+
+		Version: 2022款 DM-i 242KM 旗舰型
+		Price: 28.98 * 10000
+		URL: //www.autohome.com.cn/spec/56151/#pvareaid=2042126
+
+		Version: 2022款 DM-p 202KM 四驱旗舰型
+		Price: 31.98 * 10000
+		URL: //www.autohome.com.cn/spec/55886/#pvareaid=2042126
+
+		Version: 2020款 DM 四驱性能版豪华型
+		Price: 22.28 * 10000
+		URL: //www.autohome.com.cn/spec/43481/#pvareaid=2042126
+
+		Version: 2020款 DM 四驱性能版尊贵型
+		Price: 24.28 * 10000
+		URL: //www.autohome.com.cn/spec/46953/#pvareaid=2042126
+
+		Version: 2021款 EV 标准续航版豪华型
+		Price: 21.48 * 10000
+		URL: //www.autohome.com.cn/spec/52453/#pvareaid=2042126
+
+		Version: 2020款 EV 超长续航版豪华型
+		Price: 23.48 * 10000
+		URL: //www.autohome.com.cn/spec/45619/#pvareaid=2042126
+
+		Version: 2020款 EV 超长续航版尊贵型
+		Price: 26.08 * 10000
+		URL: //www.autohome.com.cn/spec/45620/#pvareaid=2042126
+
+		Version: 2022款 EV 创世版 715KM前驱尊荣型
+		Price: 26.98 * 10000
+		URL: //www.autohome.com.cn/spec/56566/#pvareaid=2042126
+
+		Version: 2022款 EV 创世版 715KM前驱旗舰型
+		Price: 28.75 * 10000
+		URL: //www.autohome.com.cn/spec/56542/#pvareaid=2042126
+
+		Version: 2020款 EV 四驱高性能版旗舰型
+		Price: 28.45 * 10000
+		URL: //www.autohome.com.cn/spec/42643/#pvareaid=2042126
+
+		Version: 2022款 EV 创世版 610KM四驱尊享型
+		Price: 28.86 * 10000
+		URL: //www.autohome.com.cn/spec/56451/#pvareaid=2042126
+
+		Version: 2022款 EV 610KM四驱千山翠限量版
+		Price: 32.98 * 10000
+		URL: //www.autohome.com.cn/spec/56567/#pvareaid=2042126
+
+	Model: 宋PLUS新能源
+	Type: 紧凑型SUV
+	Horse Power: 0 ~ 0
+	Price Range: RMB 15.28 ~ 20.58 * 10000
+	Score: 4.52 / 5.0
+	Endurance: 51km ~ 505km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 DM-i 51KM 尊贵型
+		Price: 15.28 * 10000
+		URL: //www.autohome.com.cn/spec/49505/#pvareaid=2042126
+
+		Version: 2021款 DM-i 51KM 尊荣型
+		Price: 16.28 * 10000
+		URL: //www.autohome.com.cn/spec/49506/#pvareaid=2042126
+
+		Version: 2021款 DM-i 110KM 旗舰型
+		Price: 16.58 * 10000
+		URL: //www.autohome.com.cn/spec/49507/#pvareaid=2042126
+
+		Version: 2021款 DM-i 110KM 旗舰PLUS
+		Price: 17.58 * 10000
+		URL: //www.autohome.com.cn/spec/49508/#pvareaid=2042126
+
+		Version: 2021款 DM-i 100KM 四驱旗舰PLUS
+		Price: 20.58 * 10000
+		URL: //www.autohome.com.cn/spec/53500/#pvareaid=2042126
+
+		Version: 2021款 EV 尊贵型
+		Price: 18.08 * 10000
+		URL: //www.autohome.com.cn/spec/50586/#pvareaid=2042126
+
+		Version: 2021款 EV 旗舰型
+		Price: 19.78 * 10000
+		URL: //www.autohome.com.cn/spec/45550/#pvareaid=2042126
+
+	Model: 唐新能源
+	Type: 中型SUV
+	Horse Power: 0 ~ 0
+	Price Range: RMB 20.58 ~ 31.48 * 10000
+	Score: 4.52 / 5.0
+	Endurance: 81km ~ 565km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 DM-i 112KM 尊贵型
+		Price: 20.58 * 10000
+		URL: //www.autohome.com.cn/spec/49503/#pvareaid=2042126
+
+		Version: 2021款 DM-i 112KM 尊荣型
+		Price: 22.28 * 10000
+		URL: //www.autohome.com.cn/spec/49504/#pvareaid=2042126
+
+		Version: 2021款 DM 2.0T 四驱性能版尊贵型
+		Price: 23.98 * 10000
+		URL: //www.autohome.com.cn/spec/46808/#pvareaid=2042126
+
+		Version: 2021款 DM 2.0T 四驱高性能版尊荣型
+		Price: 26.98 * 10000
+		URL: //www.autohome.com.cn/spec/47191/#pvareaid=2042126
+
+		Version: 2021款 DM 2.0T 四驱高性能版创世旗舰型
+		Price: 28.98 * 10000
+		URL: //www.autohome.com.cn/spec/46572/#pvareaid=2042126
+
+		Version: 2021款 EV 长续航版尊荣型
+		Price: 27.95 * 10000
+		URL: //www.autohome.com.cn/spec/47189/#pvareaid=2042126
+
+		Version: 2021款 EV 四驱高性能版尊荣型
+		Price: 28.35 * 10000
+		URL: //www.autohome.com.cn/spec/49155/#pvareaid=2042126
+
+		Version: 2021款 EV 四驱高性能版创世旗舰型
+		Price: 31.48 * 10000
+		URL: //www.autohome.com.cn/spec/47190/#pvareaid=2042126
+
+	Model: 秦PLUS
+	Type: 紧凑型车
+	Horse Power: 0 ~ 0
+	Price Range: RMB 11.18 ~ 17.58 * 10000
+	Score: 4.53 / 5.0
+	Endurance: 55km ~ 600km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 EV 400KM 豪华型
+		Price: 13.88 * 10000
+		URL: //www.autohome.com.cn/spec/50587/#pvareaid=2042126
+
+		Version: 2021款 EV 500KM 豪华型
+		Price: 14.88 * 10000
+		URL: //www.autohome.com.cn/spec/50588/#pvareaid=2042126
+
+		Version: 2021款 EV 500KM 尊贵型
+		Price: 15.88 * 10000
+		URL: //www.autohome.com.cn/spec/50589/#pvareaid=2042126
+
+		Version: 2021款 EV 400KM 出行版
+		Price: 16.98 * 10000
+		URL: //www.autohome.com.cn/spec/51966/#pvareaid=2042126
+
+		Version: 2021款 EV 400KM 领畅版
+		Price: 17.48 * 10000
+		URL: //www.autohome.com.cn/spec/51965/#pvareaid=2042126
+
+		Version: 2021款 EV 600KM 旗舰型
+		Price: 17.58 * 10000
+		URL: //www.autohome.com.cn/spec/49774/#pvareaid=2042126
+
+		Version: 2021款 DM-i 55KM 尊贵型
+		Price: 11.18 * 10000
+		URL: //www.autohome.com.cn/spec/49498/#pvareaid=2042126
+
+		Version: 2021款 DM-i 55KM 旗舰型
+		Price: 12.58 * 10000
+		URL: //www.autohome.com.cn/spec/49499/#pvareaid=2042126
+
+		Version: 2021款 DM-i 120KM 尊贵型
+		Price: 13.58 * 10000
+		URL: //www.autohome.com.cn/spec/49500/#pvareaid=2042126
+
+		Version: 2021款 DM-i 120KM 旗舰型
+		Price: 15.18 * 10000
+		URL: //www.autohome.com.cn/spec/49501/#pvareaid=2042126
+
+	Model: 海豚
+	Type: 小型车
+	Horse Power: 95 ~ 177
+	Price Range: RMB 10.28 ~ 13.08 * 10000
+	Score: 4.51 / 5.0
+	Endurance: 301km ~ 405km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 301km 活力版
+		Price: 10.28 * 10000
+		URL: //www.autohome.com.cn/spec/52323/#pvareaid=2042126
+
+		Version: 2021款 405km 自由版
+		Price: 11.28 * 10000
+		URL: //www.autohome.com.cn/spec/52655/#pvareaid=2042126
+
+		Version: 2021款 405km 时尚版
+		Price: 11.78 * 10000
+		URL: //www.autohome.com.cn/spec/51852/#pvareaid=2042126
+
+		Version: 2021款 401km 骑士版
+		Price: 13.08 * 10000
+		URL: //www.autohome.com.cn/spec/52656/#pvareaid=2042126
+
+	Model: 驱逐舰05
+	Type: 紧凑型车
+	Horse Power: 0 ~ 0
+	Price Range: RMB 11.98 ~ 15.58 * 10000
+	Score: 4.55 / 5.0
+	Endurance: 55km ~ 120km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 DM-i 55KM 舒适型
+		Price: 11.98 * 10000
+		URL: //www.autohome.com.cn/spec/55772/#pvareaid=2042126
+
+		Version: 2022款 DM-i 55KM 豪华型
+		Price: 12.98 * 10000
+		URL: //www.autohome.com.cn/spec/55773/#pvareaid=2042126
+
+		Version: 2022款 DM-i 55KM 尊贵型
+		Price: 13.58 * 10000
+		URL: //www.autohome.com.cn/spec/55774/#pvareaid=2042126
+
+		Version: 2022款 DM-i 120KM 尊贵型
+		Price: 14.18 * 10000
+		URL: //www.autohome.com.cn/spec/55771/#pvareaid=2042126
+
+		Version: 2022款 DM-i 120KM 旗舰型
+		Price: 15.58 * 10000
+		URL: //www.autohome.com.cn/spec/52587/#pvareaid=2042126
+
+	Model: 元PLUS
+	Type: 紧凑型SUV
+	Horse Power: 204 ~ 204
+	Price Range: RMB 13.78 ~ 16.58 * 10000
+	Score: 4.5 / 5.0
+	Endurance: 430km ~ 510km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 430KM 豪华型
+		Price: 13.78 * 10000
+		URL: //www.autohome.com.cn/spec/55069/#pvareaid=2042126
+
+		Version: 2022款 430KM 尊贵型
+		Price: 14.48 * 10000
+		URL: //www.autohome.com.cn/spec/54409/#pvareaid=2042126
+
+		Version: 2022款 510KM 尊荣型
+		Price: 14.78 * 10000
+		URL: //www.autohome.com.cn/spec/55071/#pvareaid=2042126
+
+		Version: 2022款 510KM 旗舰型
+		Price: 15.78 * 10000
+		URL: //www.autohome.com.cn/spec/52183/#pvareaid=2042126
+
+		Version: 2022款 510KM 旗舰型PLUS
+		Price: 16.58 * 10000
+		URL: //www.autohome.com.cn/spec/55070/#pvareaid=2042126
+
+	Model: 宋Pro新能源
+	Type: 紧凑型SUV
+	Horse Power: 0 ~ 0
+	Price Range: RMB 13.88 ~ 16.38 * 10000
+	Score: 4.54 / 5.0
+	Endurance: 51km ~ 110km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 DM-i 51km 豪华型
+		Price: 13.88 * 10000
+		URL: //www.autohome.com.cn/spec/54688/#pvareaid=2042126
+
+		Version: 2022款 DM-i 51km 尊贵型
+		Price: 14.58 * 10000
+		URL: //www.autohome.com.cn/spec/54689/#pvareaid=2042126
+
+		Version: 2022款 DM-i 51km 尊荣型
+		Price: 15.28 * 10000
+		URL: //www.autohome.com.cn/spec/54690/#pvareaid=2042126
+
+		Version: 2022款 DM-i 110km 旗舰型
+		Price: 15.58 * 10000
+		URL: //www.autohome.com.cn/spec/54691/#pvareaid=2042126
+
+		Version: 2022款 DM-i 110km 旗舰型Pro
+		Price: 16.38 * 10000
+		URL: //www.autohome.com.cn/spec/53895/#pvareaid=2042126
+
+	Model: 宋MAX新能源
+	Type: 紧凑型MPV
+	Horse Power: 0 ~ 0
+	Price Range: RMB 14.58 ~ 17.28 * 10000
+	Score: 4.27 / 5.0
+	Endurance: 51km ~ 105km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 DM-i 51KM 豪华型
+		Price: 14.58 * 10000
+		URL: //www.autohome.com.cn/spec/55328/#pvareaid=2042126
+
+		Version: 2022款 DM-i 51KM 尊贵型
+		Price: 15.28 * 10000
+		URL: //www.autohome.com.cn/spec/55329/#pvareaid=2042126
+
+		Version: 2022款 DM-i 105KM 尊荣型
+		Price: 15.58 * 10000
+		URL: //www.autohome.com.cn/spec/55330/#pvareaid=2042126
+
+		Version: 2022款 DM-i 105KM 旗舰型
+		Price: 16.28 * 10000
+		URL: //www.autohome.com.cn/spec/55331/#pvareaid=2042126
+
+		Version: 2022款 DM-i 105KM 行政版
+		Price: 17.28 * 10000
+		URL: //www.autohome.com.cn/spec/55009/#pvareaid=2042126
+
+	Model: 比亚迪e2
+	Type: 紧凑型车
+	Horse Power: 95 ~ 136
+	Price Range: RMB 9.58 ~ 14.58 * 10000
+	Score: 4.52 / 5.0
+	Endurance: 301km ~ 401km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 标准型
+		Price: 9.58 * 10000
+		URL: //www.autohome.com.cn/spec/53581/#pvareaid=2042126
+
+		Version: 2021款 舒适型
+		Price: 10.58 * 10000
+		URL: //www.autohome.com.cn/spec/50581/#pvareaid=2042126
+
+		Version: 2021款 豪华型
+		Price: 11.28 * 10000
+		URL: //www.autohome.com.cn/spec/50512/#pvareaid=2042126
+
+		Version: 2021款 尊贵型
+		Price: 12.18 * 10000
+		URL: //www.autohome.com.cn/spec/50582/#pvareaid=2042126
+
+		Version: 2021款 出行版
+		Price: 14.58 * 10000
+		URL: //www.autohome.com.cn/spec/51405/#pvareaid=2042126
+
+		Version: 2021款 领畅版
+		Price: 14.48 * 10000
+		URL: //www.autohome.com.cn/spec/52636/#pvareaid=2042126
+
+	Model: 秦新能源
+	Type: 紧凑型车
+	Horse Power: 136 ~ 136
+	Price Range: RMB 12.99 ~ 17.48 * 10000
+	Score: 4.53 / 5.0
+	Endurance: 400km ~ 450km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 出行版
+		Price: 16.58 * 10000
+		URL: //www.autohome.com.cn/spec/51305/#pvareaid=2042126
+
+		Version: 2021款 领畅版
+		Price: 16.98 * 10000
+		URL: //www.autohome.com.cn/spec/52639/#pvareaid=2042126
+
+		Version: 2019款 高续航版 豪华型
+		Price: 12.99 * 10000
+		URL: //www.autohome.com.cn/spec/41548/#pvareaid=2042126
+
+		Version: 2019款 高续航版 尊贵型
+		Price: 13.99 * 10000
+		URL: //www.autohome.com.cn/spec/39780/#pvareaid=2042126
+
+		Version: 2019款 出行标准版
+		Price: 17.18 * 10000
+		URL: //www.autohome.com.cn/spec/46979/#pvareaid=2042126
+
+		Version: 2019款 出行版
+		Price: 17.48 * 10000
+		URL: //www.autohome.com.cn/spec/42737/#pvareaid=2042126
+
+	Model: 元Pro
+	Type: 小型SUV
+	Horse Power: 136 ~ 136
+	Price Range: RMB 9.28 ~ 11.28 * 10000
+	Score: 4.45 / 5.0
+	Endurance: 301km ~ 401km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 301KM 舒适型
+		Price: 9.28 * 10000
+		URL: //www.autohome.com.cn/spec/51971/#pvareaid=2042126
+
+		Version: 2021款 401KM 豪华型
+		Price: 10.28 * 10000
+		URL: //www.autohome.com.cn/spec/51972/#pvareaid=2042126
+
+		Version: 2021款 401KM 尊贵型
+		Price: 11.28 * 10000
+		URL: //www.autohome.com.cn/spec/51973/#pvareaid=2042126
+
+	Model: 秦Pro新能源
+	Type: 紧凑型车
+	Horse Power: 0 ~ 0
+	Price Range: RMB 13.69 ~ 20.49 * 10000
+	Score: 4.48 / 5.0
+	Endurance: 53km ~ 520km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2019款 EV 超能版 标准版智联领尚型
+		Price: 14.99 * 10000
+		URL: //www.autohome.com.cn/spec/39398/#pvareaid=2042126
+
+		Version: 2019款 EV 出行版
+		Price: 18.19 * 10000
+		URL: //www.autohome.com.cn/spec/42577/#pvareaid=2042126
+
+		Version: 2019款 EV 领航版
+		Price: 20.49 * 10000
+		URL: //www.autohome.com.cn/spec/43216/#pvareaid=2042126
+
+		Version: 2019款 EV 超能版 高功率智联领动型
+		Price: 16.99 * 10000
+		URL: //www.autohome.com.cn/spec/39399/#pvareaid=2042126
+
+		Version: 2019款 EV 超能版 高功率智联领享型
+		Price: 17.99 * 10000
+		URL: //www.autohome.com.cn/spec/39144/#pvareaid=2042126
+
+		Version: 2019款 EV 超能版 高功率智联领耀型
+		Price: 18.99 * 10000
+		URL: //www.autohome.com.cn/spec/39400/#pvareaid=2042126
+
+		Version: 2019款 EV 超能版 高功率高续航智联领越型
+		Price: 18.99 * 10000
+		URL: //www.autohome.com.cn/spec/38498/#pvareaid=2042126
+
+		Version: 2019款 EV 超能版 高功率高续航智联领创型
+		Price: 19.99 * 10000
+		URL: //www.autohome.com.cn/spec/38499/#pvareaid=2042126
+
+		Version: 2019款 DM 超能版 1.5TI 自动智联劲尚型 国VI
+		Price: 13.69 * 10000
+		URL: //www.autohome.com.cn/spec/38509/#pvareaid=2042126
+
+		Version: 2019款 DM 超能版 1.5TI 自动智联劲炫型 国VI
+		Price: 14.69 * 10000
+		URL: //www.autohome.com.cn/spec/38510/#pvareaid=2042126
+
+		Version: 2019款 DM 超能版 1.5TI 自动智联劲速型 国VI
+		Price: 15.69 * 10000
+		URL: //www.autohome.com.cn/spec/38512/#pvareaid=2042126
+
+		Version: 2019款 DM 超能版 1.5TI 自动智联劲享型 国VI
+		Price: 16.99 * 10000
+		URL: //www.autohome.com.cn/spec/40941/#pvareaid=2042126
+
+		Version: 2019款 DM 超能版 1.5TI 自动智联劲睿型 国VI
+		Price: 17.99 * 10000
+		URL: //www.autohome.com.cn/spec/40942/#pvareaid=2042126
+
+		Version: 2019款 DM 1.5TI 自动领航版
+		Price: 20.49 * 10000
+		URL: //www.autohome.com.cn/spec/43215/#pvareaid=2042126
+
+	Model: 比亚迪e9
+	Type: 中大型车
+	Horse Power: 222 ~ 222
+	Price Range: RMB 23.58 ~ 23.58 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 506km ~ 506km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 商务版
+		Price: 23.58 * 10000
+		URL: //www.autohome.com.cn/spec/48687/#pvareaid=2042126
+
+	Model: 比亚迪D1
+	Type: 紧凑型MPV
+	Horse Power: 136 ~ 136
+	Price Range: RMB 15.78 ~ 16.78 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 418km ~ 418km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 舒适版
+		Price: 15.78 * 10000
+		URL: //www.autohome.com.cn/spec/56708/#pvareaid=2042126
+
+		Version: 2021款 领创版
+		Price: 16.78 * 10000
+		URL: //www.autohome.com.cn/spec/46706/#pvareaid=2042126
+
+
+Brand: AITO
+URL: https://car.autohome.com.cn/diandongche/brand-509.html
+Models:
+
+	Model: 问界M5
+	Type: 中型SUV
+	Horse Power: 0 ~ 0
+	Price Range: RMB 25.98 ~ 31.98 * 10000
+	Score: 4.51 / 5.0
+	Endurance: 180km ~ 200km
+	Charging Time: Fast Charging 0.75H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 后驱标准版
+		Price: 25.98 * 10000
+		URL: //www.autohome.com.cn/spec/55142/#pvareaid=2042126
+
+		Version: 2022款 四驱性能版
+		Price: 27.98 * 10000
+		URL: //www.autohome.com.cn/spec/53200/#pvareaid=2042126
+
+		Version: 2022款 四驱至臻版
+		Price: 28.88 * 10000
+		URL: //www.autohome.com.cn/spec/56161/#pvareaid=2042126
+
+		Version: 2022款 四驱旗舰版
+		Price: 31.98 * 10000
+		URL: //www.autohome.com.cn/spec/55143/#pvareaid=2042126
+
+
+Brand: ARCFOX
+URL: https://car.autohome.com.cn/diandongche/brand-272.html
+Models:
+
+	Model: 极狐 阿尔法S(ARCFOX αS)
+	Type: 中大型车
+	Horse Power: 218 ~ 435
+	Price Range: RMB 25.19 ~ 34.49 * 10000
+	Score: 4.53 / 5.0
+	Endurance: 525km ~ 708km
+	Charging Time: Fast Charging 0.5H, Slow Charging 15.5H
+	Versions:
+
+		Version: 2021款 525S
+		Price: 25.19 * 10000
+		URL: //www.autohome.com.cn/spec/50803/#pvareaid=2042126
+
+		Version: 2021款 525S+
+		Price: 26.89 * 10000
+		URL: //www.autohome.com.cn/spec/49577/#pvareaid=2042126
+
+		Version: 2021款 708S+
+		Price: 28.19 * 10000
+		URL: //www.autohome.com.cn/spec/49578/#pvareaid=2042126
+
+		Version: 2021款 603H
+		Price: 34.49 * 10000
+		URL: //www.autohome.com.cn/spec/49579/#pvareaid=2042126
+
+	Model: 极狐 阿尔法T(ARCFOX αT)
+	Type: 中型SUV
+	Horse Power: 218 ~ 435
+	Price Range: RMB 24.19 ~ 31.99 * 10000
+	Score: 4.54 / 5.0
+	Endurance: 480km ~ 653km
+	Charging Time: Fast Charging 0.43H, Slow Charging 15.5H
+	Versions:
+
+		Version: 2021款 480S
+		Price: 24.19 * 10000
+		URL: //www.autohome.com.cn/spec/47985/#pvareaid=2042126
+
+		Version: 2021款 480S+
+		Price: 25.69 * 10000
+		URL: //www.autohome.com.cn/spec/43519/#pvareaid=2042126
+
+		Version: 2021款 653S
+		Price: 26.19 * 10000
+		URL: //www.autohome.com.cn/spec/47248/#pvareaid=2042126
+
+		Version: 2021款 653S+
+		Price: 27.69 * 10000
+		URL: //www.autohome.com.cn/spec/47249/#pvareaid=2042126
+
+		Version: 2021款 四驱性能版 H
+		Price: 31.99 * 10000
+		URL: //www.autohome.com.cn/spec/47487/#pvareaid=2042126
+
+
+Brand: Honda
+URL: https://car.autohome.com.cn/diandongche/brand-14.html
+Models:
+
+	Model: 本田CR-V新能源
+	Type: 紧凑型SUV
+	Horse Power: 0 ~ 0
+	Price Range: RMB 27.38 ~ 29.98 * 10000
+	Score: 4.64 / 5.0
+	Endurance: 84km ~ 85km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 锐·混动e+ 2.0L 睿智版
+		Price: 27.38 * 10000
+		URL: //www.autohome.com.cn/spec/49737/#pvareaid=2042126
+
+		Version: 2021款 锐·混动e+ 2.0L 睿驰版
+		Price: 28.98 * 10000
+		URL: //www.autohome.com.cn/spec/49650/#pvareaid=2042126
+
+		Version: 2021款 锐·混动e+ 2.0L 睿雅版
+		Price: 29.98 * 10000
+		URL: //www.autohome.com.cn/spec/47645/#pvareaid=2042126
+
+	Model: 皓影新能源
+	Type: 紧凑型SUV
+	Horse Power: 0 ~ 0
+	Price Range: RMB 27.38 ~ 29.98 * 10000
+	Score: 4.0 / 5.0
+	Endurance: 84km ~ 85km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 e:PHEV 豪华版
+		Price: 27.38 * 10000
+		URL: //www.autohome.com.cn/spec/53740/#pvareaid=2042126
+
+		Version: 2022款 e:PHEV 尊贵版
+		Price: 28.48 * 10000
+		URL: //www.autohome.com.cn/spec/49221/#pvareaid=2042126
+
+		Version: 2022款 e:PHEV 尊享版
+		Price: 29.98 * 10000
+		URL: //www.autohome.com.cn/spec/53741/#pvareaid=2042126
+
+
+Brand: TOYOTA
+URL: https://car.autohome.com.cn/diandongche/brand-3.html
+Models:
+
+	Model: RAV4荣放双擎E+
+	Type: 紧凑型SUV
+	Horse Power: 0 ~ 0
+	Price Range: RMB 24.88 ~ 29.68 * 10000
+	Score: 4.54 / 5.0
+	Endurance: 87km ~ 95km
+	Charging Time: Fast Charging 0.0H, Slow Charging 9.5H
+	Versions:
+
+		Version: 2021款 2.5L 两驱都市Pro
+		Price: 24.88 * 10000
+		URL: //www.autohome.com.cn/spec/50782/#pvareaid=2042126
+
+		Version: 2021款 2.5L 两驱精英Pro
+		Price: 25.68 * 10000
+		URL: //www.autohome.com.cn/spec/50783/#pvareaid=2042126
+
+		Version: 2021款 2.5L 四驱旗舰Pro
+		Price: 29.68 * 10000
+		URL: //www.autohome.com.cn/spec/48771/#pvareaid=2042126
+
+	Model: 卡罗拉双擎E+
+	Type: 紧凑型车
+	Horse Power: 0 ~ 0
+	Price Range: RMB 20.78 ~ 23.08 * 10000
+	Score: 4.56 / 5.0
+	Endurance: 55km ~ 55km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2019款 1.8L E-CVT先锋版
+		Price: 20.78 * 10000
+		URL: //www.autohome.com.cn/spec/37200/#pvareaid=2042126
+
+		Version: 2019款 1.8L E-CVT领先版
+		Price: 20.98 * 10000
+		URL: //www.autohome.com.cn/spec/37201/#pvareaid=2042126
+
+		Version: 2020款 1.8L E-CVT舒适版
+		Price: 21.48 * 10000
+		URL: //www.autohome.com.cn/spec/44943/#pvareaid=2042126
+
+		Version: 2019款 1.8L E-CVT豪华版
+		Price: 21.98 * 10000
+		URL: //www.autohome.com.cn/spec/37202/#pvareaid=2042126
+
+		Version: 2019款 1.8L E-CVT旗舰版
+		Price: 23.08 * 10000
+		URL: //www.autohome.com.cn/spec/34527/#pvareaid=2042126
+
+	Model: 奕泽E进擎
+	Type: 小型SUV
+	Horse Power: 204 ~ 204
+	Price Range: RMB 22.58 ~ 25.38 * 10000
+	Score: 4.57 / 5.0
+	Endurance: 400km ~ 400km
+	Charging Time: Fast Charging 0.83H, Slow Charging 6.5H
+	Versions:
+
+		Version: 2020款 E·智行版
+		Price: 22.58 * 10000
+		URL: //www.autohome.com.cn/spec/45639/#pvareaid=2042126
+
+		Version: 2020款 E·智享版
+		Price: 23.78 * 10000
+		URL: //www.autohome.com.cn/spec/45640/#pvareaid=2042126
+
+		Version: 2020款 E·智尊版
+		Price: 25.38 * 10000
+		URL: //www.autohome.com.cn/spec/38860/#pvareaid=2042126
+
+	Model: 威兰达新能源
+	Type: 紧凑型SUV
+	Horse Power: 0 ~ 0
+	Price Range: RMB 25.88 ~ 29.98 * 10000
+	Score: 4.56 / 5.0
+	Endurance: 87km ~ 95km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 高性能版 2.5L 两驱劲擎版
+		Price: 25.88 * 10000
+		URL: //www.autohome.com.cn/spec/51146/#pvareaid=2042126
+
+		Version: 2021款 高性能版 2.5L 四驱劲擎版
+		Price: 28.28 * 10000
+		URL: //www.autohome.com.cn/spec/51187/#pvareaid=2042126
+
+		Version: 2021款 高性能版 2.5L 四驱激擎版
+		Price: 29.98 * 10000
+		URL: //www.autohome.com.cn/spec/48937/#pvareaid=2042126
+
+	Model: 雷凌双擎E+
+	Type: 紧凑型车
+	Horse Power: 0 ~ 0
+	Price Range: RMB 20.38 ~ 21.88 * 10000
+	Score: 4.45 / 5.0
+	Endurance: 55km ~ 55km
+	Charging Time: Fast Charging 0.0H, Slow Charging 3.0H
+	Versions:
+
+		Version: 2019款 1.8PH GS E-CVT精英版
+		Price: 20.38 * 10000
+		URL: //www.autohome.com.cn/spec/37829/#pvareaid=2042126
+
+		Version: 2019款 1.8PH GS E-CVT精英风尚版
+		Price: 20.98 * 10000
+		URL: //www.autohome.com.cn/spec/38130/#pvareaid=2042126
+
+		Version: 2019款 1.8PH GS E-CVT精英天窗版
+		Price: 21.28 * 10000
+		URL: //www.autohome.com.cn/spec/37830/#pvareaid=2042126
+
+		Version: 2019款 1.8PH V E-CVT豪华版
+		Price: 21.88 * 10000
+		URL: //www.autohome.com.cn/spec/34520/#pvareaid=2042126
+
+	Model: 丰田C-HR EV
+	Type: 小型SUV
+	Horse Power: 204 ~ 204
+	Price Range: RMB 22.58 ~ 24.98 * 10000
+	Score: 4.58 / 5.0
+	Endurance: 400km ~ 400km
+	Charging Time: Fast Charging 0.83H, Slow Charging 6.5H
+	Versions:
+
+		Version: 2020款 领先版
+		Price: 22.58 * 10000
+		URL: //www.autohome.com.cn/spec/45129/#pvareaid=2042126
+
+		Version: 2020款 豪华版
+		Price: 22.88 * 10000
+		URL: //www.autohome.com.cn/spec/45130/#pvareaid=2042126
+
+		Version: 2020款 豪华天窗版
+		Price: 23.28 * 10000
+		URL: //www.autohome.com.cn/spec/45131/#pvareaid=2042126
+
+		Version: 2020款 尊贵版
+		Price: 24.58 * 10000
+		URL: //www.autohome.com.cn/spec/45132/#pvareaid=2042126
+
+		Version: 2020款 尊贵天窗版
+		Price: 24.98 * 10000
+		URL: //www.autohome.com.cn/spec/44730/#pvareaid=2042126
+
+
+Brand: Marvel-R
+URL: https://car.autohome.com.cn/diandongche/brand-438.html
+Models:
+
+	Model: 飞凡ER6
+	Type: 紧凑型车
+	Horse Power: 184 ~ 184
+	Price Range: RMB 15.68 ~ 20.18 * 10000
+	Score: 4.44 / 5.0
+	Endurance: 520km ~ 620km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 新动版 520km 智领版
+		Price: 15.68 * 10000
+		URL: //www.autohome.com.cn/spec/53078/#pvareaid=2042126
+
+		Version: 2021款 新动版 620km 智行版
+		Price: 16.38 * 10000
+		URL: //www.autohome.com.cn/spec/51796/#pvareaid=2042126
+
+		Version: 2021款 新动版 620km 智享版
+		Price: 17.68 * 10000
+		URL: //www.autohome.com.cn/spec/51797/#pvareaid=2042126
+
+		Version: 2021款 新动版 620km 智尊版
+		Price: 20.18 * 10000
+		URL: //www.autohome.com.cn/spec/51609/#pvareaid=2042126
+
+	Model: 飞凡MARVEL R
+	Type: 中型SUV
+	Horse Power: 186 ~ 302
+	Price Range: RMB 21.98 ~ 26.18 * 10000
+	Score: 4.51 / 5.0
+	Endurance: 460km ~ 505km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 后驱标准版
+		Price: 21.98 * 10000
+		URL: //www.autohome.com.cn/spec/49795/#pvareaid=2042126
+
+		Version: 2021款 后驱PRO版
+		Price: 24.18 * 10000
+		URL: //www.autohome.com.cn/spec/48781/#pvareaid=2042126
+
+		Version: 2021款 四驱PRO版
+		Price: 26.18 * 10000
+		URL: //www.autohome.com.cn/spec/49796/#pvareaid=2042126
+
+
+Brand: Ford
+URL: https://car.autohome.com.cn/diandongche/brand-8.html
+Models:
+
+	Model: Mustang Mach-E
+	Type: 中型SUV
+	Horse Power: 273 ~ 488
+	Price Range: RMB 26.5 ~ 37.99 * 10000
+	Score: 4.52 / 5.0
+	Endurance: 492km ~ 619km
+	Charging Time: Fast Charging 0.45H, Slow Charging 4.5H
+	Versions:
+
+		Version: 2021款 跃世后驱版(标准续航)
+		Price: 26.5 * 10000
+		URL: //www.autohome.com.cn/spec/50685/#pvareaid=2042126
+
+		Version: 2021款 无疆后驱版(长续航)
+		Price: 28.2 * 10000
+		URL: //www.autohome.com.cn/spec/52287/#pvareaid=2042126
+
+		Version: 2021款 无疆后驱豪华版(长续航)
+		Price: 30.99 * 10000
+		URL: //www.autohome.com.cn/spec/50686/#pvareaid=2042126
+
+		Version: 2021款 追风全驱豪华版(长续航)
+		Price: 34.74 * 10000
+		URL: //www.autohome.com.cn/spec/50687/#pvareaid=2042126
+
+		Version: 2021款 GT
+		Price: 36.99 * 10000
+		URL: //www.autohome.com.cn/spec/53652/#pvareaid=2042126
+
+		Version: 2021款 GT First Edition
+		Price: 37.99 * 10000
+		URL: //www.autohome.com.cn/spec/49699/#pvareaid=2042126
+
+	Model: 领界EV
+	Type: 紧凑型SUV
+	Horse Power: 163 ~ 163
+	Price Range: RMB 17.98 ~ 19.28 * 10000
+	Score: 4.63 / 5.0
+	Endurance: 435km ~ 435km
+	Charging Time: Fast Charging 0.53H, Slow Charging 8.4H
+	Versions:
+
+		Version: 2020款 静领型
+		Price: 17.98 * 10000
+		URL: //www.autohome.com.cn/spec/46918/#pvareaid=2042126
+
+		Version: 2020款 耀领型
+		Price: 19.28 * 10000
+		URL: //www.autohome.com.cn/spec/46919/#pvareaid=2042126
+
+	Model: 锐际新能源
+	Type: 紧凑型SUV
+	Horse Power: 0 ~ 0
+	Price Range: RMB 21.0 ~ 21.0 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 77km ~ 77km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 PHEV
+		Price: 21.0 * 10000
+		URL: //www.autohome.com.cn/spec/45547/#pvareaid=2042126
+
+
+Brand: Polestar
+URL: https://car.autohome.com.cn/diandongche/brand-308.html
+Models:
+
+	Model: Polestar 2
+	Type: 紧凑型车
+	Horse Power: 224 ~ 408
+	Price Range: RMB 25.78 ~ 33.8 * 10000
+	Score: 4.7 / 5.0
+	Endurance: 485km ~ 565km
+	Charging Time: Fast Charging 0.55H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 单电机标准续航
+		Price: 25.78 * 10000
+		URL: //www.autohome.com.cn/spec/50689/#pvareaid=2042126
+
+		Version: 2021款 单电机长续航
+		Price: 28.78 * 10000
+		URL: //www.autohome.com.cn/spec/50690/#pvareaid=2042126
+
+		Version: 2021款 双电机长续航
+		Price: 33.8 * 10000
+		URL: //www.autohome.com.cn/spec/50691/#pvareaid=2042126
+
+	Model: Polestar 1
+	Type: 跑车
+	Horse Power: 0 ~ 0
+	Price Range: RMB 145.0 ~ 145.0 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 135km ~ 135km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2018款 标准型
+		Price: 145.0 * 10000
+		URL: //www.autohome.com.cn/spec/32172/#pvareaid=2042126
+
+
+Brand: Audi
+URL: https://car.autohome.com.cn/diandongche/brand-33.html
+Models:
+
+	Model: 奥迪Q5 e-tron
+	Type: 中大型SUV
+	Horse Power: 204 ~ 306
+	Price Range: RMB 39.55 ~ 51.0 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 520km ~ 560km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 40 e-tron 星耀型 锦衣套装
+		Price: 39.55 * 10000
+		URL: //www.autohome.com.cn/spec/54423/#pvareaid=2042126
+
+		Version: 2022款 40 e-tron 星耀型 锦衣套装 逐日版
+		Price: 40.55 * 10000
+		URL: //www.autohome.com.cn/spec/55746/#pvareaid=2042126
+
+		Version: 2022款 40 e-tron 星耀型 机甲套装
+		Price: 39.55 * 10000
+		URL: //www.autohome.com.cn/spec/54581/#pvareaid=2042126
+
+		Version: 2022款 40 e-tron 星耀型 机甲套装 逐日版
+		Price: 40.55 * 10000
+		URL: //www.autohome.com.cn/spec/55747/#pvareaid=2042126
+
+		Version: 2022款 50 e-tron quattro 荣耀型 锦衣套装
+		Price: 48.55 * 10000
+		URL: //www.autohome.com.cn/spec/52586/#pvareaid=2042126
+
+		Version: 2022款 50 e-tron quattro 荣耀型 锦衣套装 逐日版
+		Price: 49.55 * 10000
+		URL: //www.autohome.com.cn/spec/55748/#pvareaid=2042126
+
+		Version: 2022款 50 e-tron quattro 荣耀型 机甲套装
+		Price: 48.55 * 10000
+		URL: //www.autohome.com.cn/spec/54580/#pvareaid=2042126
+
+		Version: 2022款 50 e-tron quattro 荣耀型 机甲套装 逐日版
+		Price: 49.55 * 10000
+		URL: //www.autohome.com.cn/spec/55749/#pvareaid=2042126
+
+		Version: 2022款 50 e-tron quattro edition one 艺创典藏版
+		Price: 51.0 * 10000
+		URL: //www.autohome.com.cn/spec/54498/#pvareaid=2042126
+
+	Model: 奥迪A6L新能源
+	Type: 中大型车
+	Horse Power: 0 ~ 0
+	Price Range: RMB 50.8 ~ 50.8 * 10000
+	Score: 4.59 / 5.0
+	Endurance: 54km ~ 54km
+	Charging Time: Fast Charging 2.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2020款 55 TFSI e quattro
+		Price: 50.8 * 10000
+		URL: //www.autohome.com.cn/spec/42454/#pvareaid=2042126
+
+	Model: 奥迪e-tron
+	Type: 中大型SUV
+	Horse Power: 313 ~ 313
+	Price Range: RMB 54.68 ~ 64.88 * 10000
+	Score: 4.54 / 5.0
+	Endurance: 465km ~ 500km
+	Charging Time: Fast Charging 0.67H, Slow Charging 9.5H
+	Versions:
+
+		Version: 2021款 50 quattro 豪华型
+		Price: 54.68 * 10000
+		URL: //www.autohome.com.cn/spec/50627/#pvareaid=2042126
+
+		Version: 2021款 50 quattro 臻选型
+		Price: 58.58 * 10000
+		URL: //www.autohome.com.cn/spec/50628/#pvareaid=2042126
+
+		Version: 2021款 50 quattro 尊享型
+		Price: 64.88 * 10000
+		URL: //www.autohome.com.cn/spec/45606/#pvareaid=2042126
+
+	Model: 奥迪Q2L e-tron
+	Type: 小型SUV
+	Horse Power: 136 ~ 136
+	Price Range: RMB 24.38 ~ 24.38 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 325km ~ 325km
+	Charging Time: Fast Charging 0.62H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 Q2L e-tron 纯电智享型
+		Price: 24.38 * 10000
+		URL: //www.autohome.com.cn/spec/55144/#pvareaid=2042126
+
+	Model: 奥迪e-tron(进口)
+	Type: 中大型SUV
+	Horse Power: 408 ~ 408
+	Price Range: RMB 66.98 ~ 73.58 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 500km ~ 500km
+	Charging Time: Fast Charging 0.67H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 Sportback 55 quattro 豪华型
+		Price: 66.98 * 10000
+		URL: //www.autohome.com.cn/spec/54932/#pvareaid=2042126
+
+		Version: 2022款 Sportback 55 quattro 臻选型
+		Price: 72.98 * 10000
+		URL: //www.autohome.com.cn/spec/54933/#pvareaid=2042126
+
+		Version: 2022款 Sportback 55 quattro 限量版
+		Price: 73.58 * 10000
+		URL: //www.autohome.com.cn/spec/54934/#pvareaid=2042126
+
+	Model: 奥迪A8新能源
+	Type: 大型车
+	Horse Power: 0 ~ 0
+	Price Range: RMB 111.78 ~ 111.78 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 51km ~ 51km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 A8L 60 TFSIe quattro 典藏版
+		Price: 111.78 * 10000
+		URL: //www.autohome.com.cn/spec/51986/#pvareaid=2042126
+
+
+Brand: Volvo
+URL: https://car.autohome.com.cn/diandongche/brand-70.html
+Models:
+
+	Model: 沃尔沃S60新能源
+	Type: 中型车
+	Horse Power: 0 ~ 0
+	Price Range: RMB 39.99 ~ 46.19 * 10000
+	Score: 4.44 / 5.0
+	Endurance: 52km ~ 52km
+	Charging Time: Fast Charging 0.0H, Slow Charging 8.0H
+	Versions:
+
+		Version: 2022款 T8 E驱混动 四驱智逸豪华版
+		Price: 39.99 * 10000
+		URL: //www.autohome.com.cn/spec/50817/#pvareaid=2042126
+
+		Version: 2022款 T8 E驱混动 四驱智雅运动版
+		Price: 46.19 * 10000
+		URL: //www.autohome.com.cn/spec/51737/#pvareaid=2042126
+
+	Model: 沃尔沃XC60新能源
+	Type: 中型SUV
+	Horse Power: 0 ~ 0
+	Price Range: RMB 52.79 ~ 60.39 * 10000
+	Score: 4.54 / 5.0
+	Endurance: 50km ~ 64km
+	Charging Time: Fast Charging 3.0H, Slow Charging 13.0H
+	Versions:
+
+		Version: 2022款 T8 插电混动 四驱智远豪华版
+		Price: 52.79 * 10000
+		URL: //www.autohome.com.cn/spec/51602/#pvareaid=2042126
+
+		Version: 2022款 T8 插电混动 四驱智远运动版
+		Price: 52.79 * 10000
+		URL: //www.autohome.com.cn/spec/51601/#pvareaid=2042126
+
+		Version: 2022款 T8 插电混动 四驱智雅豪华版
+		Price: 60.39 * 10000
+		URL: //www.autohome.com.cn/spec/50808/#pvareaid=2042126
+
+		Version: 2022款 改款 T8 插电混动 四驱智远豪华版
+		Price: 52.79 * 10000
+		URL: //www.autohome.com.cn/spec/55431/#pvareaid=2042126
+
+		Version: 2022款 改款 T8 插电混动 四驱智远运动版
+		Price: 52.79 * 10000
+		URL: //www.autohome.com.cn/spec/55432/#pvareaid=2042126
+
+		Version: 2022款 改款 T8 插电混动 四驱智雅豪华版
+		Price: 60.39 * 10000
+		URL: //www.autohome.com.cn/spec/55433/#pvareaid=2042126
+
+	Model: 沃尔沃XC40新能源
+	Type: 紧凑型SUV
+	Horse Power: 231 ~ 408
+	Price Range: RMB 25.7 ~ 31.5 * 10000
+	Score: 4.19 / 5.0
+	Endurance: 420km ~ 529km
+	Charging Time: Fast Charging 0.67H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 长续航版
+		Price: 25.7 * 10000
+		URL: //www.autohome.com.cn/spec/55673/#pvareaid=2042126
+
+		Version: 2022款 长续航版 PRO
+		Price: 27.6 * 10000
+		URL: //www.autohome.com.cn/spec/55494/#pvareaid=2042126
+
+		Version: 2022款 四驱高性能版
+		Price: 28.9928 * 10000
+		URL: //www.autohome.com.cn/spec/52550/#pvareaid=2042126
+
+		Version: 2022款 四驱高性能版 PRO
+		Price: 31.5 * 10000
+		URL: //www.autohome.com.cn/spec/52526/#pvareaid=2042126
+
+	Model: 沃尔沃S90新能源
+	Type: 中大型车
+	Horse Power: 0 ~ 0
+	Price Range: RMB 49.99 ~ 61.39 * 10000
+	Score: 4.64 / 5.0
+	Endurance: 53km ~ 75km
+	Charging Time: Fast Charging 3.0H, Slow Charging 13.0H
+	Versions:
+
+		Version: 2022款 T8 E驱混动 智逸豪华版
+		Price: 49.99 * 10000
+		URL: //www.autohome.com.cn/spec/51844/#pvareaid=2042126
+
+		Version: 2022款 T8 E驱混动 智雅豪华版
+		Price: 61.39 * 10000
+		URL: //www.autohome.com.cn/spec/51845/#pvareaid=2042126
+
+		Version: 2022款 改款 T8 E驱混动 智逸豪华版
+		Price: 49.99 * 10000
+		URL: //www.autohome.com.cn/spec/55434/#pvareaid=2042126
+
+		Version: 2022款 改款 T8 E驱混动 智雅豪华版
+		Price: 61.39 * 10000
+		URL: //www.autohome.com.cn/spec/55435/#pvareaid=2042126
+
+	Model: 沃尔沃XC90新能源
+	Type: 中大型SUV
+	Horse Power: 0 ~ 0
+	Price Range: RMB 89.49 ~ 89.49 * 10000
+	Score: 4.56 / 5.0
+	Endurance: 50km ~ 59km
+	Charging Time: Fast Charging 3.0H, Slow Charging 13.0H
+	Versions:
+
+		Version: 2022款 E驱混动 T8 智尊豪华版 7座
+		Price: 89.49 * 10000
+		URL: //www.autohome.com.cn/spec/53799/#pvareaid=2042126
+
+		Version: 2022款 改款 E驱混动 T8 智尊豪华版 7座
+		Price: 89.49 * 10000
+		URL: //www.autohome.com.cn/spec/56234/#pvareaid=2042126
+
+
+Brand: Hyandai
+URL: https://car.autohome.com.cn/diandongche/brand-12.html
+Models:
+
+	Model: 领动插电混动
+	Type: 紧凑型车
+	Horse Power: 0 ~ 0
+	Price Range: RMB 15.78 ~ 17.88 * 10000
+	Score: 4.15 / 5.0
+	Endurance: 85km ~ 85km
+	Charging Time: Fast Charging 0.0H, Slow Charging 4.75H
+	Versions:
+
+		Version: 2019款 1.6L PHS畅行版
+		Price: 15.78 * 10000
+		URL: //www.autohome.com.cn/spec/41228/#pvareaid=2042126
+
+		Version: 2019款 1.6L PHX乐行版
+		Price: 16.68 * 10000
+		URL: //www.autohome.com.cn/spec/41229/#pvareaid=2042126
+
+		Version: 2019款 1.6L PHP智行版
+		Price: 17.88 * 10000
+		URL: //www.autohome.com.cn/spec/37409/#pvareaid=2042126
+
+	Model: 名图新能源
+	Type: 中型车
+	Horse Power: 184 ~ 184
+	Price Range: RMB 17.88 ~ 20.38 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 520km ~ 520km
+	Charging Time: Fast Charging 0.0H, Slow Charging 9.5H
+	Versions:
+
+		Version: 2021款 GLX精英版
+		Price: 17.88 * 10000
+		URL: //www.autohome.com.cn/spec/49987/#pvareaid=2042126
+
+		Version: 2021款 LUX尊贵版
+		Price: 18.88 * 10000
+		URL: //www.autohome.com.cn/spec/49988/#pvareaid=2042126
+
+		Version: 2021款 TOP旗舰版
+		Price: 20.38 * 10000
+		URL: //www.autohome.com.cn/spec/47940/#pvareaid=2042126
+
+	Model: 菲斯塔纯电动
+	Type: 紧凑型车
+	Horse Power: 184 ~ 184
+	Price Range: RMB 17.38 ~ 19.88 * 10000
+	Score: 4.5 / 5.0
+	Endurance: 490km ~ 490km
+	Charging Time: Fast Charging 0.67H, Slow Charging 9.5H
+	Versions:
+
+		Version: 2020款 GLS畅行版
+		Price: 17.38 * 10000
+		URL: //www.autohome.com.cn/spec/44156/#pvareaid=2042126
+
+		Version: 2020款 GLX智捷版
+		Price: 18.88 * 10000
+		URL: //www.autohome.com.cn/spec/44157/#pvareaid=2042126
+
+		Version: 2020款 DLX悦享版
+		Price: 19.88 * 10000
+		URL: //www.autohome.com.cn/spec/40809/#pvareaid=2042126
+
+	Model: 索纳塔插电混动
+	Type: 中型车
+	Horse Power: 0 ~ 0
+	Price Range: RMB 22.28 ~ 25.68 * 10000
+	Score: 4.52 / 5.0
+	Endurance: 75km ~ 75km
+	Charging Time: Fast Charging 0.0H, Slow Charging 4.0H
+	Versions:
+
+		Version: 2018款 2.0 PHE智享版 国VI
+		Price: 22.28 * 10000
+		URL: //www.autohome.com.cn/spec/44669/#pvareaid=2042126
+
+		Version: 2018款 2.0 PHS智联版 国VI
+		Price: 23.98 * 10000
+		URL: //www.autohome.com.cn/spec/44670/#pvareaid=2042126
+
+		Version: 2018款 2.0 PHT智尊版 国VI
+		Price: 25.68 * 10000
+		URL: //www.autohome.com.cn/spec/44671/#pvareaid=2042126
+
+
+Brand: WULING
+URL: https://car.autohome.com.cn/diandongche/brand-114.html
+Models:
+
+	Model: 宏光MINIEV
+	Type: 微型车
+	Horse Power: 27 ~ 41
+	Price Range: RMB 3.28 ~ 6.98 * 10000
+	Score: 4.68 / 5.0
+	Endurance: 120km ~ 300km
+	Charging Time: Fast Charging 0.0H, Slow Charging 9.0H
+	Versions:
+
+		Version: 2022款 轻松款 三元锂
+		Price: 3.28 * 10000
+		URL: //www.autohome.com.cn/spec/56242/#pvareaid=2042126
+
+		Version: 2022款 轻松款 磷酸铁锂
+		Price: 3.28 * 10000
+		URL: //www.autohome.com.cn/spec/56244/#pvareaid=2042126
+
+		Version: 2022款 自在款 三元锂
+		Price: 3.88 * 10000
+		URL: //www.autohome.com.cn/spec/56037/#pvareaid=2042126
+
+		Version: 2022款 自在款 磷酸铁锂
+		Price: 3.88 * 10000
+		URL: //www.autohome.com.cn/spec/56038/#pvareaid=2042126
+
+		Version: 2022款 悦享款 三元锂
+		Price: 4.48 * 10000
+		URL: //www.autohome.com.cn/spec/56039/#pvareaid=2042126
+
+		Version: 2022款 悦享款 磷酸铁锂
+		Price: 4.48 * 10000
+		URL: //www.autohome.com.cn/spec/56040/#pvareaid=2042126
+
+		Version: 2022款 马卡龙时尚款 三元锂
+		Price: 4.38 * 10000
+		URL: //www.autohome.com.cn/spec/56033/#pvareaid=2042126
+
+		Version: 2022款 马卡龙时尚款 磷酸铁锂
+		Price: 4.38 * 10000
+		URL: //www.autohome.com.cn/spec/56034/#pvareaid=2042126
+
+		Version: 2022款 马卡龙臻享款 三元锂
+		Price: 4.98 * 10000
+		URL: //www.autohome.com.cn/spec/56035/#pvareaid=2042126
+
+		Version: 2022款 马卡龙臻享款 磷酸铁锂
+		Price: 4.98 * 10000
+		URL: //www.autohome.com.cn/spec/56036/#pvareaid=2042126
+
+		Version: 2022款 GAMEBOY 200km 玩乐款 磷酸铁锂
+		Price: 5.58 * 10000
+		URL: //www.autohome.com.cn/spec/55822/#pvareaid=2042126
+
+		Version: 2022款 GAMEBOY 200km 玩咖款 磷酸铁锂
+		Price: 5.78 * 10000
+		URL: //www.autohome.com.cn/spec/55821/#pvareaid=2042126
+
+		Version: 2022款 GAMEBOY 300km 玩乐款 磷酸铁锂
+		Price: 6.78 * 10000
+		URL: //www.autohome.com.cn/spec/55820/#pvareaid=2042126
+
+		Version: 2022款 GAMEBOY 300km 玩咖款 磷酸铁锂
+		Price: 6.98 * 10000
+		URL: //www.autohome.com.cn/spec/55810/#pvareaid=2042126
+
+	Model: 五菱NanoEV
+	Type: 微型车
+	Horse Power: 33 ~ 39
+	Price Range: RMB 5.68 ~ 6.68 * 10000
+	Score: 2.68 / 5.0
+	Endurance: 305km ~ 305km
+	Charging Time: Fast Charging 0.0H, Slow Charging 13.5H
+	Versions:
+
+		Version: 2021款 玩乐款
+		Price: 5.68 * 10000
+		URL: //www.autohome.com.cn/spec/53787/#pvareaid=2042126
+
+		Version: 2021款 热爱款
+		Price: 6.18 * 10000
+		URL: //www.autohome.com.cn/spec/50664/#pvareaid=2042126
+
+		Version: 2021款 迪士尼疯狂动物城Judy款
+		Price: 6.68 * 10000
+		URL: //www.autohome.com.cn/spec/53480/#pvareaid=2042126
+
+		Version: 2021款 迪士尼疯狂动物城Nick款
+		Price: 6.68 * 10000
+		URL: //www.autohome.com.cn/spec/53479/#pvareaid=2042126
+
+		Version: 2021款 玩乐款-高功率版
+		Price: 5.88 * 10000
+		URL: //www.autohome.com.cn/spec/55597/#pvareaid=2042126
+
+	Model: 五菱荣光EV
+	Type: 微面
+	Horse Power: 82 ~ 82
+	Price Range: RMB 11.78 ~ 11.48 * 10000
+	Score: 4.75 / 5.0
+	Endurance: 300km ~ 300km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 基本型客车鹏辉电池
+		Price: 11.48 * 10000
+		URL: //www.autohome.com.cn/spec/1013741/#pvareaid=2042126
+
+		Version: 2022款 基本型客车宁德时代
+		Price: 11.78 * 10000
+		URL: //www.autohome.com.cn/spec/1013740/#pvareaid=2042126
+
+		Version: 2022款 基本型封窗车2座鹏辉电池
+		Price: 11.48 * 10000
+		URL: //www.autohome.com.cn/spec/1013743/#pvareaid=2042126
+
+		Version: 2022款 基本型封窗车2座宁德时代
+		Price: 11.78 * 10000
+		URL: //www.autohome.com.cn/spec/1013742/#pvareaid=2042126
+
+		Version: 2022款 基本型封窗车5座鹏辉电池
+		Price: 11.48 * 10000
+		URL: //www.autohome.com.cn/spec/1013745/#pvareaid=2042126
+
+		Version: 2022款 基本型封窗车5座宁德时代
+		Price: 11.78 * 10000
+		URL: //www.autohome.com.cn/spec/1013744/#pvareaid=2042126
+
+	Model: 五菱EV50
+	Type: 微面
+	Horse Power: 82 ~ 82
+	Price Range: RMB 14.38 ~ 12.48 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 255km ~ 300km
+	Charging Time: Fast Charging 1.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 厢式物流车慧视通鹏辉43.2kWh柳机电控
+		Price: 12.68 * 10000
+		URL: //www.autohome.com.cn/spec/1012034/#pvareaid=2042126
+
+		Version: 2021款 厢式物流车慧视通鹏辉43.2kWh汇川2代电控
+		Price: 12.68 * 10000
+		URL: //www.autohome.com.cn/spec/1012035/#pvareaid=2042126
+
+		Version: 2021款 厢式物流车慧视通鹏辉43.2kWh通宇电控
+		Price: 12.68 * 10000
+		URL: //www.autohome.com.cn/spec/1012036/#pvareaid=2042126
+
+		Version: 2021款 厢式物流车博创鹏辉43.2kWh汇川2代电控
+		Price: 12.68 * 10000
+		URL: //www.autohome.com.cn/spec/1012038/#pvareaid=2042126
+
+		Version: 2021款 厢式物流车博创鹏辉43.2kWh柳机电控
+		Price: 12.68 * 10000
+		URL: //www.autohome.com.cn/spec/1012037/#pvareaid=2042126
+
+		Version: 2021款 厢式物流车慧视通宁德41.86kWh汇川2代电控
+		Price: 13.88 * 10000
+		URL: //www.autohome.com.cn/spec/1012044/#pvareaid=2042126
+
+		Version: 2021款 厢式物流车博创宁德41.86kWh柳机电控
+		Price: 13.88 * 10000
+		URL: //www.autohome.com.cn/spec/1012039/#pvareaid=2042126
+
+		Version: 2021款 厢式物流车慧视通宁德41.86kWh柳机电控
+		Price: 13.88 * 10000
+		URL: //www.autohome.com.cn/spec/1012045/#pvareaid=2042126
+
+		Version: 2021款 厢式物流车力神41.6kWh柳机电控
+		Price: 12.88 * 10000
+		URL: //www.autohome.com.cn/spec/1012040/#pvareaid=2042126
+
+		Version: 2021款 厢式物流车力神41.6kWh通宇电控
+		Price: 12.88 * 10000
+		URL: //www.autohome.com.cn/spec/1012041/#pvareaid=2042126
+
+		Version: 2021款 厢式物流车鹏辉36.16kWh柳机电控
+		Price: 12.48 * 10000
+		URL: //www.autohome.com.cn/spec/1012042/#pvareaid=2042126
+
+		Version: 2021款 厢式物流车鹏辉36.16kWh通宇电控
+		Price: 12.48 * 10000
+		URL: //www.autohome.com.cn/spec/1012043/#pvareaid=2042126
+
+		Version: 2021款 5座版宁德41.86kWh
+		Price: 14.38 * 10000
+		URL: //www.autohome.com.cn/spec/1013673/#pvareaid=2042126
+
+		Version: 2021款 5座版鹏辉43.2kWh
+		Price: 13.38 * 10000
+		URL: //www.autohome.com.cn/spec/1013674/#pvareaid=2042126
+
+	Model: 五菱电卡
+	Type: 微卡
+	Horse Power: 82 ~ 82
+	Price Range: RMB 14.38 ~ 12.08 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 255km ~ 300km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 载货车鹏辉43.2kWh柳机电控
+		Price: 12.58 * 10000
+		URL: //www.autohome.com.cn/spec/1011608/#pvareaid=2042126
+
+		Version: 2021款 载货车宁德41.86kWh汇川2代电控
+		Price: 13.68 * 10000
+		URL: //www.autohome.com.cn/spec/1011609/#pvareaid=2042126
+
+		Version: 2021款 载货车宁德41.86kWh通宇电控
+		Price: 13.68 * 10000
+		URL: //www.autohome.com.cn/spec/1011610/#pvareaid=2042126
+
+		Version: 2021款 载货车力神41.6kWh汇川2代电控
+		Price: 12.78 * 10000
+		URL: //www.autohome.com.cn/spec/1011611/#pvareaid=2042126
+
+		Version: 2021款 载货车力神41.6kWh通宇电控
+		Price: 12.78 * 10000
+		URL: //www.autohome.com.cn/spec/1011612/#pvareaid=2042126
+
+		Version: 2021款 载货车鹏辉36.16kWh柳机电控
+		Price: 12.08 * 10000
+		URL: //www.autohome.com.cn/spec/1011613/#pvareaid=2042126
+
+		Version: 2021款 载货车鹏辉36.16kWh通宇电控
+		Price: 12.08 * 10000
+		URL: //www.autohome.com.cn/spec/1011614/#pvareaid=2042126
+
+		Version: 2021款 厢式运输车2.91米货箱宁德41.86kWh汇川2代电控
+		Price: 14.18 * 10000
+		URL: //www.autohome.com.cn/spec/1011615/#pvareaid=2042126
+
+		Version: 2021款 厢式运输车2.91米货箱宁德41.86kWh通宇电控
+		Price: 14.18 * 10000
+		URL: //www.autohome.com.cn/spec/1011616/#pvareaid=2042126
+
+		Version: 2021款 厢式运输车2.91米货箱力神41.6kWh汇川2代电控
+		Price: 13.18 * 10000
+		URL: //www.autohome.com.cn/spec/1011617/#pvareaid=2042126
+
+		Version: 2021款 厢式运输车2.91米货箱力神41.6kWh通宇电控
+		Price: 13.18 * 10000
+		URL: //www.autohome.com.cn/spec/1011618/#pvareaid=2042126
+
+		Version: 2021款 厢式运输车2.9米货箱宁德41.86kWh汇川2代电控
+		Price: 14.38 * 10000
+		URL: //www.autohome.com.cn/spec/1011619/#pvareaid=2042126
+
+		Version: 2021款 厢式运输车2.9米货箱宁德41.86kWh通宇电控
+		Price: 14.38 * 10000
+		URL: //www.autohome.com.cn/spec/1011620/#pvareaid=2042126
+
+		Version: 2021款 厢式运输车2.9米货箱力神41.6kWh汇川2代电控
+		Price: 13.48 * 10000
+		URL: //www.autohome.com.cn/spec/1011621/#pvareaid=2042126
+
+		Version: 2021款 厢式运输车2.9米货箱力神41.6kWh通宇电控
+		Price: 13.48 * 10000
+		URL: //www.autohome.com.cn/spec/1011622/#pvareaid=2042126
+
+		Version: 2021款 仓栅式运输车宁德41.86kWh汇川2代电控
+		Price: 14.08 * 10000
+		URL: //www.autohome.com.cn/spec/1011623/#pvareaid=2042126
+
+		Version: 2021款 仓栅式运输车宁德41.86kWh通宇电控
+		Price: 14.08 * 10000
+		URL: //www.autohome.com.cn/spec/1011624/#pvareaid=2042126
+
+		Version: 2021款 仓栅式运输车力神41.6kWh汇川2代电控
+		Price: 13.18 * 10000
+		URL: //www.autohome.com.cn/spec/1011625/#pvareaid=2042126
+
+		Version: 2021款 仓栅式运输车力神41.6kWh通宇电控
+		Price: 13.18 * 10000
+		URL: //www.autohome.com.cn/spec/1011626/#pvareaid=2042126
+
+	Model: 五菱EV80
+	Type: 轻客
+	Horse Power: 150 ~ 150
+	Price Range: RMB 21.3 ~ 21.3 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 330km ~ 330km
+	Charging Time: Fast Charging 2.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 封闭厢货
+		Price: 21.3 * 10000
+		URL: //www.autohome.com.cn/spec/1013675/#pvareaid=2042126
+
+
+Brand: WM Motor
+URL: https://car.autohome.com.cn/diandongche/brand-291.html
+Models:
+
+	Model: 威马E.5
+	Type: 中型车
+	Horse Power: 163 ~ 163
+	Price Range: RMB 16.01 ~ 19.01 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 410km ~ 505km
+	Charging Time: Fast Charging 0.55H, Slow Charging 9.5H
+	Versions:
+
+		Version: 2022款 Pro
+		Price: 18.01 * 10000
+		URL: //www.autohome.com.cn/spec/55959/#pvareaid=2042126
+
+		Version: 2022款 智客行
+		Price: 19.01 * 10000
+		URL: //www.autohome.com.cn/spec/55974/#pvareaid=2042126
+
+		Version: 2021款 改款 400 即客行
+		Price: 16.01 * 10000
+		URL: //www.autohome.com.cn/spec/56361/#pvareaid=2042126
+
+		Version: 2021款 改款 500 即客行
+		Price: 17.01 * 10000
+		URL: //www.autohome.com.cn/spec/56362/#pvareaid=2042126
+
+	Model: 威马EX5
+	Type: 紧凑型SUV
+	Horse Power: 218 ~ 218
+	Price Range: RMB 16.98 ~ 18.98 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 403km ~ 403km
+	Charging Time: Fast Charging 0.5H, Slow Charging 8.4H
+	Versions:
+
+		Version: 2022款 改款 EX5-Z Nex探索版
+		Price: 16.98 * 10000
+		URL: //www.autohome.com.cn/spec/56332/#pvareaid=2042126
+
+		Version: 2022款 改款 EX5-Z Pro全能版
+		Price: 17.98 * 10000
+		URL: //www.autohome.com.cn/spec/55340/#pvareaid=2042126
+
+		Version: 2022款 EX5-Z Lead创领版
+		Price: 18.98 * 10000
+		URL: //www.autohome.com.cn/spec/53185/#pvareaid=2042126
+
+	Model: 威马W6
+	Type: 中型SUV
+	Horse Power: 218 ~ 218
+	Price Range: RMB 18.98 ~ 25.98 * 10000
+	Score: 4.53 / 5.0
+	Endurance: 520km ~ 620km
+	Charging Time: Fast Charging 0.67H, Slow Charging 11.9H
+	Versions:
+
+		Version: 2021款 520km NEX探索版
+		Price: 18.98 * 10000
+		URL: //www.autohome.com.cn/spec/50487/#pvareaid=2042126
+
+		Version: 2021款 520km PRO全能版
+		Price: 20.98 * 10000
+		URL: //www.autohome.com.cn/spec/50488/#pvareaid=2042126
+
+		Version: 2021款 520km ACE极智版
+		Price: 22.98 * 10000
+		URL: //www.autohome.com.cn/spec/49858/#pvareaid=2042126
+
+		Version: 2021款 620km ACE极智版
+		Price: 25.98 * 10000
+		URL: //www.autohome.com.cn/spec/50489/#pvareaid=2042126
+
+	Model: 威马EX6
+	Type: 中型SUV
+	Horse Power: 218 ~ 218
+	Price Range: RMB 23.99 ~ 27.99 * 10000
+	Score: 4.55 / 5.0
+	Endurance: 408km ~ 505km
+	Charging Time: Fast Charging 0.5H, Slow Charging 11.2H
+	Versions:
+
+		Version: 2020款 Plus 400极地版
+		Price: 23.99 * 10000
+		URL: //www.autohome.com.cn/spec/46836/#pvareaid=2042126
+
+		Version: 2020款 Plus 500极地版
+		Price: 25.99 * 10000
+		URL: //www.autohome.com.cn/spec/46837/#pvareaid=2042126
+
+		Version: 2020款 Plus 6座 Nex探索版
+		Price: 27.99 * 10000
+		URL: //www.autohome.com.cn/spec/48023/#pvareaid=2042126
+
+
+Brand: Chery
+URL: https://car.autohome.com.cn/diandongche/brand-487.html
+Models:
+
+	Model: QQ冰淇淋
+	Type: 微型车
+	Horse Power: 27 ~ 27
+	Price Range: RMB 3.99 ~ 4.99 * 10000
+	Score: 4.26 / 5.0
+	Endurance: 120km ~ 170km
+	Charging Time: Fast Charging 0.0H, Slow Charging 8.0H
+	Versions:
+
+		Version: 2022款 奶昔
+		Price: 3.99 * 10000
+		URL: //www.autohome.com.cn/spec/56463/#pvareaid=2042126
+
+		Version: 2022款 甜筒
+		Price: 4.39 * 10000
+		URL: //www.autohome.com.cn/spec/53873/#pvareaid=2042126
+
+		Version: 2022款 圣代
+		Price: 4.99 * 10000
+		URL: //www.autohome.com.cn/spec/53074/#pvareaid=2042126
+
+	Model: 小蚂蚁
+	Type: 微型车
+	Horse Power: 41 ~ 75
+	Price Range: RMB 7.39 ~ 9.4 * 10000
+	Score: 4.75 / 5.0
+	Endurance: 301km ~ 408km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 改款 甜粉款 微糖版 三元锂 30kW 301km
+		Price: 7.39 * 10000
+		URL: //www.autohome.com.cn/spec/56465/#pvareaid=2042126
+
+		Version: 2022款 改款 甜粉款 微糖版 磷酸铁锂 30kW 301km
+		Price: 7.39 * 10000
+		URL: //www.autohome.com.cn/spec/56466/#pvareaid=2042126
+
+		Version: 2022款 改款 甜粉款 半糖版 三元锂 30kW 301km
+		Price: 7.69 * 10000
+		URL: //www.autohome.com.cn/spec/56467/#pvareaid=2042126
+
+		Version: 2022款 改款 甜粉款 半糖版 磷酸铁锂 30kW 301km
+		Price: 7.69 * 10000
+		URL: //www.autohome.com.cn/spec/56468/#pvareaid=2042126
+
+		Version: 2022款 改款 甜粉款 全糖版 三元锂 30kW 301km
+		Price: 8.2 * 10000
+		URL: //www.autohome.com.cn/spec/56469/#pvareaid=2042126
+
+		Version: 2022款 改款 甜粉款 全糖版 磷酸铁锂 30kW 301km
+		Price: 8.2 * 10000
+		URL: //www.autohome.com.cn/spec/56470/#pvareaid=2042126
+
+		Version: 2022款 改款 甜粉款 半糖版 三元锂 30kW 408km
+		Price: 8.89 * 10000
+		URL: //www.autohome.com.cn/spec/56471/#pvareaid=2042126
+
+		Version: 2022款 改款 甜粉款 半糖版 三元锂 55kW 408km
+		Price: 8.99 * 10000
+		URL: //www.autohome.com.cn/spec/56472/#pvareaid=2042126
+
+		Version: 2022款 改款 甜粉款 全糖版 三元锂 55kW 408km
+		Price: 9.4 * 10000
+		URL: //www.autohome.com.cn/spec/56473/#pvareaid=2042126
+
+	Model: 大蚂蚁
+	Type: 中型SUV
+	Horse Power: 177 ~ 204
+	Price Range: RMB 15.66 ~ 17.99 * 10000
+	Score: 4.54 / 5.0
+	Endurance: 510km ~ 510km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 潮享舱
+		Price: 15.66 * 10000
+		URL: //www.autohome.com.cn/spec/53955/#pvareaid=2042126
+
+		Version: 2022款 驭享舱
+		Price: 16.88 * 10000
+		URL: //www.autohome.com.cn/spec/53956/#pvareaid=2042126
+
+		Version: 2022款 智享舱
+		Price: 17.99 * 10000
+		URL: //www.autohome.com.cn/spec/53957/#pvareaid=2042126
+
+	Model: 艾瑞泽e
+	Type: 紧凑型车
+	Horse Power: 129 ~ 163
+	Price Range: RMB 10.98 ~ 15.48 * 10000
+	Score: 4.78 / 5.0
+	Endurance: 401km ~ 401km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2020款 出行版
+		Price: 14.78 * 10000
+		URL: //www.autohome.com.cn/spec/46687/#pvareaid=2042126
+
+		Version: 2020款 出行版plus
+		Price: 15.48 * 10000
+		URL: //www.autohome.com.cn/spec/49432/#pvareaid=2042126
+
+		Version: 2020款 改款 超值版
+		Price: 10.98 * 10000
+		URL: //www.autohome.com.cn/spec/46688/#pvareaid=2042126
+
+		Version: 2019款 舒享版
+		Price: 12.98 * 10000
+		URL: //www.autohome.com.cn/spec/41273/#pvareaid=2042126
+
+		Version: 2020款 悦享版
+		Price: 13.28 * 10000
+		URL: //www.autohome.com.cn/spec/46041/#pvareaid=2042126
+
+		Version: 2019款 尊享版
+		Price: 14.38 * 10000
+		URL: //www.autohome.com.cn/spec/41266/#pvareaid=2042126
+
+		Version: 2021款 智行版
+		Price: 14.78 * 10000
+		URL: //www.autohome.com.cn/spec/50891/#pvareaid=2042126
+
+	Model: 瑞虎3xe
+	Type: 小型SUV
+	Horse Power: 129 ~ 129
+	Price Range: RMB 9.38 ~ 10.68 * 10000
+	Score: 4.44 / 5.0
+	Endurance: 401km ~ 401km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2018款 480 畅优版
+		Price: 9.38 * 10000
+		URL: //www.autohome.com.cn/spec/34065/#pvareaid=2042126
+
+		Version: 2018款 480 畅行版
+		Price: 9.98 * 10000
+		URL: //www.autohome.com.cn/spec/34066/#pvareaid=2042126
+
+		Version: 2018款 480 畅享版
+		Price: 10.68 * 10000
+		URL: //www.autohome.com.cn/spec/34067/#pvareaid=2042126
+
+	Model: 瑞虎e
+	Type: 小型SUV
+	Horse Power: 129 ~ 163
+	Price Range: RMB 10.88 ~ 13.78 * 10000
+	Score: 4.57 / 5.0
+	Endurance: 401km ~ 401km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 虎踞版 95kW
+		Price: 10.88 * 10000
+		URL: //www.autohome.com.cn/spec/48295/#pvareaid=2042126
+
+		Version: 2021款 虎跃版 95kW
+		Price: 11.58 * 10000
+		URL: //www.autohome.com.cn/spec/48296/#pvareaid=2042126
+
+		Version: 2021款 虎啸版 95kW
+		Price: 12.68 * 10000
+		URL: //www.autohome.com.cn/spec/48102/#pvareaid=2042126
+
+		Version: 2021款 虎威版 95kW
+		Price: 13.78 * 10000
+		URL: //www.autohome.com.cn/spec/48297/#pvareaid=2042126
+
+		Version: 2021款 虎踞版 120kW
+		Price: 10.88 * 10000
+		URL: //www.autohome.com.cn/spec/54308/#pvareaid=2042126
+
+		Version: 2021款 虎跃版 120kW
+		Price: 11.58 * 10000
+		URL: //www.autohome.com.cn/spec/54309/#pvareaid=2042126
+
+		Version: 2021款 虎啸版 120kW
+		Price: 12.68 * 10000
+		URL: //www.autohome.com.cn/spec/54310/#pvareaid=2042126
+
+		Version: 2021款 虎威版 120kW
+		Price: 13.78 * 10000
+		URL: //www.autohome.com.cn/spec/54311/#pvareaid=2042126
+
+
+Brand: Ora
+URL: https://car.autohome.com.cn/diandongche/brand-331.html
+Models:
+
+	Model: 欧拉好猫
+	Type: 小型车
+	Horse Power: 143 ~ 143
+	Price Range: RMB 12.79 ~ 15.79 * 10000
+	Score: 4.75 / 5.0
+	Endurance: 401km ~ 501km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 400km标准续航 豪华型 磷酸铁锂
+		Price: 12.79 * 10000
+		URL: //www.autohome.com.cn/spec/55848/#pvareaid=2042126
+
+		Version: 2022款 400km标准续航 豪华型 三元锂
+		Price: 12.79 * 10000
+		URL: //www.autohome.com.cn/spec/55852/#pvareaid=2042126
+
+		Version: 2022款 400km标准续航 尊贵型 磷酸铁锂
+		Price: 13.79 * 10000
+		URL: //www.autohome.com.cn/spec/55849/#pvareaid=2042126
+
+		Version: 2022款 400km标准续航 尊贵型 三元锂
+		Price: 13.79 * 10000
+		URL: //www.autohome.com.cn/spec/55853/#pvareaid=2042126
+
+		Version: 2022款 500km长续航 豪华型 三元锂
+		Price: 14.79 * 10000
+		URL: //www.autohome.com.cn/spec/55850/#pvareaid=2042126
+
+		Version: 2022款 500km长续航 尊贵型 三元锂
+		Price: 15.79 * 10000
+		URL: //www.autohome.com.cn/spec/55851/#pvareaid=2042126
+
+	Model: 欧拉好猫GT
+	Type: 小型车
+	Horse Power: 171 ~ 171
+	Price Range: RMB 15.4 ~ 15.4 * 10000
+	Score: 4.15 / 5.0
+	Endurance: 480km ~ 480km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 木兰版 480km长续航 标准版 126kW
+		Price: 15.4 * 10000
+		URL: //www.autohome.com.cn/spec/52471/#pvareaid=2042126
+
+
+Brand: Hozonauto
+URL: https://car.autohome.com.cn/diandongche/brand-309.html
+Models:
+
+	Model: 哪吒V
+	Type: 小型SUV
+	Horse Power: 54 ~ 95
+	Price Range: RMB 6.59 ~ 12.38 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 301km ~ 401km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 潮 300 Lite
+		Price: 7.49 * 10000
+		URL: //www.autohome.com.cn/spec/56446/#pvareaid=2042126
+
+		Version: 2022款 标准续航行业定制版
+		Price: 8.59 * 10000
+		URL: //www.autohome.com.cn/spec/54896/#pvareaid=2042126
+
+		Version: 2022款 网约定制版
+		Price: 12.38 * 10000
+		URL: //www.autohome.com.cn/spec/54895/#pvareaid=2042126
+
+		Version: 2021款 标准续航版升级型
+		Price: 6.59 * 10000
+		URL: //www.autohome.com.cn/spec/51149/#pvareaid=2042126
+
+		Version: 2021款 标准续航娱乐版升级型
+		Price: 6.89 * 10000
+		URL: //www.autohome.com.cn/spec/51150/#pvareaid=2042126
+
+		Version: 2022款 潮 400 Lite 粉色定制款
+		Price: 8.29 * 10000
+		URL: //www.autohome.com.cn/spec/56448/#pvareaid=2042126
+
+		Version: 2022款 长续航行业定制版
+		Price: 9.29 * 10000
+		URL: //www.autohome.com.cn/spec/54897/#pvareaid=2042126
+
+		Version: 2021款 长续航娱乐版升级型
+		Price: 7.59 * 10000
+		URL: //www.autohome.com.cn/spec/51151/#pvareaid=2042126
+
+		Version: 2021款 魔女版
+		Price: 7.79 * 10000
+		URL: //www.autohome.com.cn/spec/51318/#pvareaid=2042126
+
+		Version: 2022款 潮 400 Lite
+		Price: 8.19 * 10000
+		URL: //www.autohome.com.cn/spec/56447/#pvareaid=2042126
+
+		Version: 2022款 潮 400
+		Price: 8.99 * 10000
+		URL: //www.autohome.com.cn/spec/56449/#pvareaid=2042126
+
+		Version: 2022款 潮 400 Pro
+		Price: 9.39 * 10000
+		URL: //www.autohome.com.cn/spec/56450/#pvareaid=2042126
+
+		Version: 2022款 Pro 行业定制版
+		Price: 9.99 * 10000
+		URL: //www.autohome.com.cn/spec/56302/#pvareaid=2042126
+
+		Version: 2022款 Pro 长续航智趣版
+		Price: 8.19 * 10000
+		URL: //www.autohome.com.cn/spec/54171/#pvareaid=2042126
+
+		Version: 2022款 Pro 长续航智享版
+		Price: 8.59 * 10000
+		URL: //www.autohome.com.cn/spec/54032/#pvareaid=2042126
+
+	Model: 哪吒U
+	Type: 紧凑型SUV
+	Horse Power: 163 ~ 231
+	Price Range: RMB 10.58 ~ 20.18 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 400km ~ 610km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 智400 三元锂
+		Price: 11.78 * 10000
+		URL: //www.autohome.com.cn/spec/56440/#pvareaid=2042126
+
+		Version: 2022款 智400 磷酸铁锂
+		Price: 11.78 * 10000
+		URL: //www.autohome.com.cn/spec/56646/#pvareaid=2042126
+
+		Version: 2022款 智400 Pro 三元锂
+		Price: 12.18 * 10000
+		URL: //www.autohome.com.cn/spec/56441/#pvareaid=2042126
+
+		Version: 2022款 智400 Pro 磷酸铁锂
+		Price: 12.18 * 10000
+		URL: //www.autohome.com.cn/spec/56647/#pvareaid=2042126
+
+		Version: 2022款 智500 三元锂
+		Price: 13.88 * 10000
+		URL: //www.autohome.com.cn/spec/56442/#pvareaid=2042126
+
+		Version: 2022款 智500 磷酸铁锂
+		Price: 13.88 * 10000
+		URL: //www.autohome.com.cn/spec/56648/#pvareaid=2042126
+
+		Version: 2022款 智500 Pro 三元锂
+		Price: 14.98 * 10000
+		URL: //www.autohome.com.cn/spec/56443/#pvareaid=2042126
+
+		Version: 2022款 智500 Pro 磷酸铁锂
+		Price: 14.98 * 10000
+		URL: //www.autohome.com.cn/spec/56649/#pvareaid=2042126
+
+		Version: 2021款 Pro 400 轻快版
+		Price: 14.28 * 10000
+		URL: //www.autohome.com.cn/spec/51155/#pvareaid=2042126
+
+		Version: 2021款 改款 Pro 400 行业定制版
+		Price: 14.28 * 10000
+		URL: //www.autohome.com.cn/spec/53227/#pvareaid=2042126
+
+		Version: 2022款 Pro 400 畅行网约版
+		Price: 14.98 * 10000
+		URL: //www.autohome.com.cn/spec/56639/#pvareaid=2042126
+
+		Version: 2021款 改款 Pro 400 尊享驾驭版
+		Price: 16.48 * 10000
+		URL: //www.autohome.com.cn/spec/53228/#pvareaid=2042126
+
+		Version: 2021款 Pro 500 行业定制版
+		Price: 17.58 * 10000
+		URL: //www.autohome.com.cn/spec/51157/#pvareaid=2042126
+
+		Version: 2021款 Pro 500 尊享驾驭版
+		Price: 17.98 * 10000
+		URL: //www.autohome.com.cn/spec/51684/#pvareaid=2042126
+
+		Version: 2021款 Pro 400 巡航版
+		Price: 10.98 * 10000
+		URL: //www.autohome.com.cn/spec/49970/#pvareaid=2042126
+
+		Version: 2022款 Pro 400 畅行版
+		Price: 10.58 * 10000
+		URL: //www.autohome.com.cn/spec/55695/#pvareaid=2042126
+
+		Version: 2021款 Pro 500 环球版
+		Price: 13.78 * 10000
+		URL: //www.autohome.com.cn/spec/49971/#pvareaid=2042126
+
+		Version: 2021款 Pro 500 登月版
+		Price: 14.78 * 10000
+		URL: //www.autohome.com.cn/spec/49972/#pvareaid=2042126
+
+		Version: 2022款 智610 三元锂
+		Price: 15.38 * 10000
+		URL: //www.autohome.com.cn/spec/56444/#pvareaid=2042126
+
+		Version: 2021款 Pro 610 行业定制版
+		Price: 19.98 * 10000
+		URL: //www.autohome.com.cn/spec/51158/#pvareaid=2042126
+
+		Version: 2022款 Pro 610 尊享驾驭版
+		Price: 20.18 * 10000
+		URL: //www.autohome.com.cn/spec/56301/#pvareaid=2042126
+
+		Version: 2021款 Pro 610 探火版
+		Price: 16.78 * 10000
+		URL: //www.autohome.com.cn/spec/49973/#pvareaid=2042126
+
+		Version: 2022款 智610 Pro 三元锂
+		Price: 17.98 * 10000
+		URL: //www.autohome.com.cn/spec/56445/#pvareaid=2042126
+
+
+Brand: Cadillac
+URL: https://car.autohome.com.cn/diandongche/brand-47.html
+Models:
+
+	Model: LYRIQ
+	Type: 中大型SUV
+	Horse Power: 347 ~ 347
+	Price Range: RMB 43.97 ~ 43.97 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 650km ~ 650km
+	Charging Time: Fast Charging 0.67H, Slow Charging 15.5H
+	Versions:
+
+		Version: 2022款 后驱长续航豪华版
+		Price: 43.97 * 10000
+		URL: //www.autohome.com.cn/spec/53345/#pvareaid=2042126
+
+
+Brand: Lexus
+URL: https://car.autohome.com.cn/diandongche/brand-52.html
+Models:
+
+	Model: 雷克萨斯NX新能源
+	Type: 中型SUV
+	Horse Power: 0 ~ 0
+	Price Range: RMB 42.88 ~ 50.98 * 10000
+	Score: 4.5 / 5.0
+	Endurance: 73km ~ 76km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 400h+ 畅悦版
+		Price: 42.88 * 10000
+		URL: //www.autohome.com.cn/spec/54182/#pvareaid=2042126
+
+		Version: 2022款 400h+ 畅领版
+		Price: 50.98 * 10000
+		URL: //www.autohome.com.cn/spec/51711/#pvareaid=2042126
+
+	Model: 雷克萨斯UX新能源
+	Type: 紧凑型SUV
+	Horse Power: 204 ~ 204
+	Price Range: RMB 36.2 ~ 38.5 * 10000
+	Score: 4.57 / 5.0
+	Endurance: 400km ~ 400km
+	Charging Time: Fast Charging 0.83H, Slow Charging 6.5H
+	Versions:
+
+		Version: 2020款 300e 纯·悦版
+		Price: 36.2 * 10000
+		URL: //www.autohome.com.cn/spec/45248/#pvareaid=2042126
+
+		Version: 2020款 300e 纯·享版
+		Price: 38.5 * 10000
+		URL: //www.autohome.com.cn/spec/42973/#pvareaid=2042126
+
+
+Brand: Leapmotor
+URL: https://car.autohome.com.cn/diandongche/brand-318.html
+Models:
+
+	Model: 零跑C11
+	Type: 中型SUV
+	Horse Power: 272 ~ 544
+	Price Range: RMB 17.98 ~ 22.98 * 10000
+	Score: 4.53 / 5.0
+	Endurance: 510km ~ 610km
+	Charging Time: Fast Charging 0.67H, Slow Charging 7.5H
+	Versions:
+
+		Version: 2021款 豪华版 磷酸铁锂
+		Price: 17.98 * 10000
+		URL: //www.autohome.com.cn/spec/54760/#pvareaid=2042126
+
+		Version: 2021款 尊享版
+		Price: 20.98 * 10000
+		URL: //www.autohome.com.cn/spec/47707/#pvareaid=2042126
+
+		Version: 2021款 行业版
+		Price: 19.88 * 10000
+		URL: //www.autohome.com.cn/spec/54930/#pvareaid=2042126
+
+		Version: 2021款 性能版
+		Price: 22.98 * 10000
+		URL: //www.autohome.com.cn/spec/48891/#pvareaid=2042126
+
+	Model: 零跑T03
+	Type: 微型车
+	Horse Power: 75 ~ 109
+	Price Range: RMB 7.39 ~ 8.99 * 10000
+	Score: 3.88 / 5.0
+	Endurance: 301km ~ 403km
+	Charging Time: Fast Charging 0.6H, Slow Charging 3.5H
+	Versions:
+
+		Version: 2022款 玛瑙版
+		Price: 7.39 * 10000
+		URL: //www.autohome.com.cn/spec/56275/#pvareaid=2042126
+
+		Version: 2022款 皓玉版
+		Price: 7.99 * 10000
+		URL: //www.autohome.com.cn/spec/56276/#pvareaid=2042126
+
+		Version: 2022款 琥珀版
+		Price: 8.19 * 10000
+		URL: //www.autohome.com.cn/spec/56277/#pvareaid=2042126
+
+		Version: 2022款 耀金版
+		Price: 8.59 * 10000
+		URL: //www.autohome.com.cn/spec/55189/#pvareaid=2042126
+
+		Version: 2022款 星钻版
+		Price: 8.99 * 10000
+		URL: //www.autohome.com.cn/spec/55162/#pvareaid=2042126
+
+	Model: 零跑S01
+	Type: 小型车
+	Horse Power: 170 ~ 170
+	Price Range: RMB 11.99 ~ 15.09 * 10000
+	Score: 4.41 / 5.0
+	Endurance: 305km ~ 451km
+	Charging Time: Fast Charging 1.0H, Slow Charging 8.0H
+	Versions:
+
+		Version: 2021款 460 酷玩版
+		Price: 13.09 * 10000
+		URL: //www.autohome.com.cn/spec/44918/#pvareaid=2042126
+
+		Version: 2021款 460 Pro 酷玩版
+		Price: 15.09 * 10000
+		URL: //www.autohome.com.cn/spec/44919/#pvareaid=2042126
+
+		Version: 2019款 380 标准版
+		Price: 11.99 * 10000
+		URL: //www.autohome.com.cn/spec/37260/#pvareaid=2042126
+
+		Version: 2019款 380 Pro
+		Price: 13.99 * 10000
+		URL: //www.autohome.com.cn/spec/37261/#pvareaid=2042126
+
+		Version: 2020款 460 标准版
+		Price: 12.99 * 10000
+		URL: //www.autohome.com.cn/spec/44923/#pvareaid=2042126
+
+		Version: 2020款 460 Pro
+		Price: 14.99 * 10000
+		URL: //www.autohome.com.cn/spec/44924/#pvareaid=2042126
+
+
+Brand: GEELY
+URL: https://car.autohome.com.cn/diandongche/brand-25.html
+Models:
+
+	Model: 帝豪新能源
+	Type: 紧凑型车
+	Horse Power: 163 ~ 204
+	Price Range: RMB 13.58 ~ 16.18 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 400km ~ 500km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2019款 EV500 进取型标准续航版
+		Price: 13.58 * 10000
+		URL: //www.autohome.com.cn/spec/41118/#pvareaid=2042126
+
+		Version: 2019款 EV500 精英型标准续航版
+		Price: 14.58 * 10000
+		URL: //www.autohome.com.cn/spec/41119/#pvareaid=2042126
+
+		Version: 2019款 EV500 精英型超长续航版
+		Price: 15.98 * 10000
+		URL: //www.autohome.com.cn/spec/41120/#pvareaid=2042126
+
+		Version: 2021款 EV Pro 网约版
+		Price: 13.68 * 10000
+		URL: //www.autohome.com.cn/spec/49315/#pvareaid=2042126
+
+		Version: 2021款 EV Pro 个人网约版
+		Price: 13.98 * 10000
+		URL: //www.autohome.com.cn/spec/53507/#pvareaid=2042126
+
+		Version: 2021款 EV Pro 畅行版
+		Price: 16.18 * 10000
+		URL: //www.autohome.com.cn/spec/53508/#pvareaid=2042126
+
+	Model: 星越新能源
+	Type: 紧凑型SUV
+	Horse Power: 0 ~ 0
+	Price Range: RMB 15.58 ~ 19.68 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 56km ~ 80km
+	Charging Time: Fast Charging 0.0H, Slow Charging 1.5H
+	Versions:
+
+		Version: 2021款 ePro 揽星者 纯电动续航56KM
+		Price: 15.58 * 10000
+		URL: //www.autohome.com.cn/spec/48449/#pvareaid=2042126
+
+		Version: 2021款 ePro 耀星者 纯电动续航56KM
+		Price: 16.88 * 10000
+		URL: //www.autohome.com.cn/spec/48450/#pvareaid=2042126
+
+		Version: 2021款 ePro 耀星者 纯电动续航80KM
+		Price: 17.68 * 10000
+		URL: //www.autohome.com.cn/spec/48451/#pvareaid=2042126
+
+		Version: 2021款 ePro 驭星者 纯电动续航80KM
+		Price: 19.68 * 10000
+		URL: //www.autohome.com.cn/spec/48452/#pvareaid=2042126
+
+	Model: 缤越新能源
+	Type: 小型SUV
+	Horse Power: 0 ~ 0
+	Price Range: RMB 11.98 ~ 13.58 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 85km ~ 85km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 1.5T ePro 85KM星耀版
+		Price: 11.98 * 10000
+		URL: //www.autohome.com.cn/spec/53876/#pvareaid=2042126
+
+		Version: 2022款 1.5T ePro 85KM荣耀版
+		Price: 13.58 * 10000
+		URL: //www.autohome.com.cn/spec/54249/#pvareaid=2042126
+
+	Model: 博瑞新能源
+	Type: 中型车
+	Horse Power: 0 ~ 0
+	Price Range: RMB 15.58 ~ 20.98 * 10000
+	Score: 4.81 / 5.0
+	Endurance: 84km ~ 84km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 1.5T PHEV 里程升级版豪华型
+		Price: 15.58 * 10000
+		URL: //www.autohome.com.cn/spec/53756/#pvareaid=2042126
+
+		Version: 2022款 1.5T PHEV 里程升级版尊贵型
+		Price: 16.98 * 10000
+		URL: //www.autohome.com.cn/spec/53757/#pvareaid=2042126
+
+		Version: 2022款 1.5T PHEV 行政版
+		Price: 20.98 * 10000
+		URL: //www.autohome.com.cn/spec/56486/#pvareaid=2042126
+
+	Model: 帝豪GL新能源
+	Type: 紧凑型车
+	Horse Power: 0 ~ 0
+	Price Range: RMB 16.88 ~ 16.88 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 66km ~ 66km
+	Charging Time: Fast Charging 0.0H, Slow Charging 1.5H
+	Versions:
+
+		Version: 2021款 1.5T DCT智行版
+		Price: 16.88 * 10000
+		URL: //www.autohome.com.cn/spec/51811/#pvareaid=2042126
+
+	Model: 嘉际新能源
+	Type: 紧凑型MPV
+	Horse Power: 0 ~ 0
+	Price Range: RMB 14.58 ~ 16.88 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 82km ~ 82km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 1.5TD PHEV 白金舒适型
+		Price: 14.58 * 10000
+		URL: //www.autohome.com.cn/spec/53615/#pvareaid=2042126
+
+		Version: 2022款 1.5TD PHEV 白金豪华型
+		Price: 15.58 * 10000
+		URL: //www.autohome.com.cn/spec/53616/#pvareaid=2042126
+
+		Version: 2022款 1.5TD PHEV 白金尊贵型
+		Price: 16.88 * 10000
+		URL: //www.autohome.com.cn/spec/53617/#pvareaid=2042126
+
+
+Brand: Jaguar
+URL: https://car.autohome.com.cn/diandongche/brand-44.html
+Models:
+
+	Model: 捷豹I-PACE
+	Type: 中型SUV
+	Horse Power: 400 ~ 400
+	Price Range: RMB 63.08 ~ 71.68 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 456km ~ 456km
+	Charging Time: Fast Charging 0.0H, Slow Charging 11.4H
+	Versions:
+
+		Version: 2020款 EV400 S
+		Price: 63.08 * 10000
+		URL: //www.autohome.com.cn/spec/49168/#pvareaid=2042126
+
+		Version: 2020款 EV400 SE
+		Price: 67.08 * 10000
+		URL: //www.autohome.com.cn/spec/49169/#pvareaid=2042126
+
+		Version: 2020款 EV400 HSE
+		Price: 70.88 * 10000
+		URL: //www.autohome.com.cn/spec/49170/#pvareaid=2042126
+
+		Version: 2018款 EV400 S
+		Price: 63.08 * 10000
+		URL: //www.autohome.com.cn/spec/33680/#pvareaid=2042126
+
+		Version: 2018款 EV400 SE
+		Price: 66.08 * 10000
+		URL: //www.autohome.com.cn/spec/33681/#pvareaid=2042126
+
+		Version: 2018款 EV400 HSE
+		Price: 69.98 * 10000
+		URL: //www.autohome.com.cn/spec/33682/#pvareaid=2042126
+
+		Version: 2018款 EV400 首发限量版
+		Price: 71.68 * 10000
+		URL: //www.autohome.com.cn/spec/33684/#pvareaid=2042126
+
+
+Brand: Geometry
+URL: https://car.autohome.com.cn/diandongche/brand-373.html
+Models:
+
+	Model: 几何A
+	Type: 紧凑型车
+	Horse Power: 204 ~ 204
+	Price Range: RMB 12.68 ~ 19.98 * 10000
+	Score: 4.48 / 5.0
+	Endurance: 430km ~ 600km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 Pro 430KM 青苹果Pro
+		Price: 13.98 * 10000
+		URL: //www.autohome.com.cn/spec/56555/#pvareaid=2042126
+
+		Version: 2022款 Pro 430KM 青苹果Plus
+		Price: 14.58 * 10000
+		URL: //www.autohome.com.cn/spec/56556/#pvareaid=2042126
+
+		Version: 2022款 Pro 430KM 青苹果Halo
+		Price: 15.58 * 10000
+		URL: //www.autohome.com.cn/spec/56557/#pvareaid=2042126
+
+		Version: 2022款 Pro 600KM 红苹果Plus
+		Price: 16.28 * 10000
+		URL: //www.autohome.com.cn/spec/56558/#pvareaid=2042126
+
+		Version: 2022款 Pro 600KM 红苹果Halo
+		Price: 17.58 * 10000
+		URL: //www.autohome.com.cn/spec/56559/#pvareaid=2042126
+
+		Version: 2021款 Pro 畅享高维续航版 430KM A430平方版
+		Price: 12.68 * 10000
+		URL: //www.autohome.com.cn/spec/50244/#pvareaid=2042126
+
+		Version: 2021款 Pro 畅享高维续航版 430KM A430立方版
+		Price: 13.68 * 10000
+		URL: //www.autohome.com.cn/spec/50245/#pvareaid=2042126
+
+		Version: 2021款 Pro 畅享高维续航版 430KM A430畅行版
+		Price: 18.68 * 10000
+		URL: //www.autohome.com.cn/spec/51791/#pvareaid=2042126
+
+		Version: 2021款 Pro 臻享高能续航版 600KM A600亚运版
+		Price: 15.68 * 10000
+		URL: //www.autohome.com.cn/spec/53678/#pvareaid=2042126
+
+		Version: 2021款 Pro 臻享高能续航版 600KM A600立方版
+		Price: 15.68 * 10000
+		URL: //www.autohome.com.cn/spec/50246/#pvareaid=2042126
+
+		Version: 2021款 Pro 臻享高能续航版 600KM A600幂方版
+		Price: 17.28 * 10000
+		URL: //www.autohome.com.cn/spec/50247/#pvareaid=2042126
+
+		Version: 2021款 Pro 臻享高能续航版 600KM A600畅优版
+		Price: 19.98 * 10000
+		URL: //www.autohome.com.cn/spec/54035/#pvareaid=2042126
+
+	Model: EX3 功夫牛
+	Type: 小型SUV
+	Horse Power: 95 ~ 95
+	Price Range: RMB 6.88 ~ 7.88 * 10000
+	Score: 4.51 / 5.0
+	Endurance: 322km ~ 322km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 坚强牛牛
+		Price: 6.88 * 10000
+		URL: //www.autohome.com.cn/spec/53360/#pvareaid=2042126
+
+		Version: 2021款 功夫牛牛
+		Price: 7.88 * 10000
+		URL: //www.autohome.com.cn/spec/53323/#pvareaid=2042126
+
+	Model: 几何C
+	Type: 紧凑型SUV
+	Horse Power: 204 ~ 204
+	Price Range: RMB 12.98 ~ 18.28 * 10000
+	Score: 4.54 / 5.0
+	Endurance: 400km ~ 550km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 400KM 蓝莓Pro
+		Price: 13.97 * 10000
+		URL: //www.autohome.com.cn/spec/56560/#pvareaid=2042126
+
+		Version: 2022款 400KM 蓝莓Plus
+		Price: 14.57 * 10000
+		URL: //www.autohome.com.cn/spec/56561/#pvareaid=2042126
+
+		Version: 2022款 550KM 西柚Pro
+		Price: 15.97 * 10000
+		URL: //www.autohome.com.cn/spec/56562/#pvareaid=2042126
+
+		Version: 2022款 550KM 西柚Plus
+		Price: 16.27 * 10000
+		URL: //www.autohome.com.cn/spec/56563/#pvareaid=2042126
+
+		Version: 2022款 550KM 西柚Halo
+		Price: 17.57 * 10000
+		URL: //www.autohome.com.cn/spec/56564/#pvareaid=2042126
+
+		Version: 2022款 蓝莓C400
+		Price: 13.57 * 10000
+		URL: //www.autohome.com.cn/spec/55252/#pvareaid=2042126
+
+		Version: 2022款 葡萄C550
+		Price: 15.57 * 10000
+		URL: //www.autohome.com.cn/spec/55253/#pvareaid=2042126
+
+		Version: 2022款 西柚C550
+		Price: 17.27 * 10000
+		URL: //www.autohome.com.cn/spec/55254/#pvareaid=2042126
+
+		Version: 2021款 C400 平方版
+		Price: 12.98 * 10000
+		URL: //www.autohome.com.cn/spec/52638/#pvareaid=2042126
+
+		Version: 2021款 C400 立方版
+		Price: 13.98 * 10000
+		URL: //www.autohome.com.cn/spec/52710/#pvareaid=2042126
+
+		Version: 2021款 400 奋斗版
+		Price: 17.58 * 10000
+		URL: //www.autohome.com.cn/spec/52711/#pvareaid=2042126
+
+		Version: 2021款 C550 幂方版
+		Price: 16.28 * 10000
+		URL: //www.autohome.com.cn/spec/52712/#pvareaid=2042126
+
+		Version: 2021款 C550 魔方版
+		Price: 18.28 * 10000
+		URL: //www.autohome.com.cn/spec/52713/#pvareaid=2042126
+
+
+Brand: GAC AION
+URL: https://car.autohome.com.cn/diandongche/brand-313.html
+Models:
+
+	Model: AION Y
+	Type: 紧凑型SUV
+	Horse Power: 184 ~ 184
+	Price Range: RMB 13.76 ~ 18.98 * 10000
+	Score: 4.51 / 5.0
+	Endurance: 500km ~ 600km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 70 乐享版 磷酸铁锂
+		Price: 13.76 * 10000
+		URL: //www.autohome.com.cn/spec/54108/#pvareaid=2042126
+
+		Version: 2022款 70 乐享版 三元锂
+		Price: 13.76 * 10000
+		URL: //www.autohome.com.cn/spec/56660/#pvareaid=2042126
+
+		Version: 2022款 70 智领版 磷酸铁锂
+		Price: 14.76 * 10000
+		URL: //www.autohome.com.cn/spec/54109/#pvareaid=2042126
+
+		Version: 2022款 70 智领版 三元锂
+		Price: 14.76 * 10000
+		URL: //www.autohome.com.cn/spec/56661/#pvareaid=2042126
+
+		Version: 2022款 70 智驾版 磷酸铁锂
+		Price: 15.76 * 10000
+		URL: //www.autohome.com.cn/spec/54110/#pvareaid=2042126
+
+		Version: 2022款 70 智驾版 三元锂
+		Price: 15.76 * 10000
+		URL: //www.autohome.com.cn/spec/56662/#pvareaid=2042126
+
+		Version: 2022款 70 科技版 磷酸铁锂
+		Price: 15.76 * 10000
+		URL: //www.autohome.com.cn/spec/54111/#pvareaid=2042126
+
+		Version: 2022款 70 科技版 三元锂
+		Price: 15.76 * 10000
+		URL: //www.autohome.com.cn/spec/56663/#pvareaid=2042126
+
+		Version: 2022款 70 行政版 磷酸铁锂
+		Price: 17.98 * 10000
+		URL: //www.autohome.com.cn/spec/56650/#pvareaid=2042126
+
+		Version: 2022款 70 行政版 三元锂
+		Price: 17.98 * 10000
+		URL: //www.autohome.com.cn/spec/56664/#pvareaid=2042126
+
+		Version: 2022款 80 超长续航版
+		Price: 16.26 * 10000
+		URL: //www.autohome.com.cn/spec/54112/#pvareaid=2042126
+
+		Version: 2022款 80 智驾版
+		Price: 17.56 * 10000
+		URL: //www.autohome.com.cn/spec/54051/#pvareaid=2042126
+
+		Version: 2022款 80 行政版
+		Price: 18.98 * 10000
+		URL: //www.autohome.com.cn/spec/56651/#pvareaid=2042126
+
+	Model: AION S Plus
+	Type: 紧凑型车
+	Horse Power: 136 ~ 224
+	Price Range: RMB 13.96 ~ 19.16 * 10000
+	Score: 4.52 / 5.0
+	Endurance: 410km ~ 602km
+	Charging Time: Fast Charging 0.4H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 60 智领版
+		Price: 13.96 * 10000
+		URL: //www.autohome.com.cn/spec/51861/#pvareaid=2042126
+
+		Version: 2022款 70 智领版
+		Price: 16.38 * 10000
+		URL: //www.autohome.com.cn/spec/55243/#pvareaid=2042126
+
+		Version: 2022款 70 智驾版
+		Price: 17.58 * 10000
+		URL: //www.autohome.com.cn/spec/55244/#pvareaid=2042126
+
+		Version: 2022款 70 行政版
+		Price: 18.49 * 10000
+		URL: //www.autohome.com.cn/spec/56655/#pvareaid=2042126
+
+		Version: 2021款 70 科技版
+		Price: 16.36 * 10000
+		URL: //www.autohome.com.cn/spec/51555/#pvareaid=2042126
+
+		Version: 2022款 80 科技版
+		Price: 17.58 * 10000
+		URL: //www.autohome.com.cn/spec/55245/#pvareaid=2042126
+
+		Version: 2022款 80 智驾版
+		Price: 18.98 * 10000
+		URL: //www.autohome.com.cn/spec/55246/#pvareaid=2042126
+
+		Version: 2022款 80 行政版
+		Price: 19.16 * 10000
+		URL: //www.autohome.com.cn/spec/56656/#pvareaid=2042126
+
+		Version: 2021款 80 超长续航版
+		Price: 16.36 * 10000
+		URL: //www.autohome.com.cn/spec/51863/#pvareaid=2042126
+
+	Model: AION V
+	Type: 紧凑型SUV
+	Horse Power: 224 ~ 272
+	Price Range: RMB 18.76 ~ 26.59 * 10000
+	Score: 4.52 / 5.0
+	Endurance: 500km ~ 702km
+	Charging Time: Fast Charging 0.17H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 Plus 70 智领版 磷酸铁锂
+		Price: 18.76 * 10000
+		URL: //www.autohome.com.cn/spec/53558/#pvareaid=2042126
+
+		Version: 2021款 Plus 70 智领版 三元锂
+		Price: 18.76 * 10000
+		URL: //www.autohome.com.cn/spec/56657/#pvareaid=2042126
+
+		Version: 2021款 Plus 70 行政版 磷酸铁锂
+		Price: 19.16 * 10000
+		URL: //www.autohome.com.cn/spec/56652/#pvareaid=2042126
+
+		Version: 2021款 Plus 70 行政版 三元锂
+		Price: 19.16 * 10000
+		URL: //www.autohome.com.cn/spec/56658/#pvareaid=2042126
+
+		Version: 2021款 Plus 70 智享科技版 磷酸铁锂
+		Price: 19.76 * 10000
+		URL: //www.autohome.com.cn/spec/53559/#pvareaid=2042126
+
+		Version: 2021款 Plus 70 智享科技版 三元锂
+		Price: 19.76 * 10000
+		URL: //www.autohome.com.cn/spec/56659/#pvareaid=2042126
+
+		Version: 2021款 Plus 70 超级快充版 三元锂
+		Price: 20.96 * 10000
+		URL: //www.autohome.com.cn/spec/53560/#pvareaid=2042126
+
+		Version: 2021款 Plus 80 智领版 三元锂
+		Price: 20.26 * 10000
+		URL: //www.autohome.com.cn/spec/53561/#pvareaid=2042126
+
+		Version: 2021款 Plus 80 智享科技版 三元锂
+		Price: 21.46 * 10000
+		URL: //www.autohome.com.cn/spec/53562/#pvareaid=2042126
+
+		Version: 2021款 Plus 80 行政版 三元锂
+		Price: 22.96 * 10000
+		URL: //www.autohome.com.cn/spec/56653/#pvareaid=2042126
+
+		Version: 2021款 Plus 80 领航智驾版 三元锂
+		Price: 23.46 * 10000
+		URL: //www.autohome.com.cn/spec/53136/#pvareaid=2042126
+
+		Version: 2021款 Plus 80 领袖版 三元锂
+		Price: 26.59 * 10000
+		URL: //www.autohome.com.cn/spec/56654/#pvareaid=2042126
+
+		Version: 2021款 Plus 90 超长续航版 三元锂
+		Price: 24.96 * 10000
+		URL: //www.autohome.com.cn/spec/53563/#pvareaid=2042126
+
+	Model: AION S
+	Type: 紧凑型车
+	Horse Power: 136 ~ 184
+	Price Range: RMB 13.98 ~ 17.98 * 10000
+	Score: 4.44 / 5.0
+	Endurance: 410km ~ 510km
+	Charging Time: Fast Charging 0.78H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 炫 530
+		Price: 13.98 * 10000
+		URL: //www.autohome.com.cn/spec/55000/#pvareaid=2042126
+
+		Version: 2020款 炫 580
+		Price: 13.98 * 10000
+		URL: //www.autohome.com.cn/spec/46341/#pvareaid=2042126
+
+		Version: 2020款 炫 580 出行标准版
+		Price: 17.28 * 10000
+		URL: //www.autohome.com.cn/spec/49838/#pvareaid=2042126
+
+		Version: 2020款 魅 580
+		Price: 14.68 * 10000
+		URL: //www.autohome.com.cn/spec/46345/#pvareaid=2042126
+
+		Version: 2020款 魅 580 出行标准版
+		Price: 17.98 * 10000
+		URL: //www.autohome.com.cn/spec/49839/#pvareaid=2042126
+
+		Version: 2020款 炫 630
+		Price: 15.38 * 10000
+		URL: //www.autohome.com.cn/spec/46343/#pvareaid=2042126
+
+	Model: AION LX
+	Type: 中型SUV
+	Horse Power: 245 ~ 490
+	Price Range: RMB 28.66 ~ 46.96 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 600km ~ 1008km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 PLUS 80 智尊版
+		Price: 28.66 * 10000
+		URL: //www.autohome.com.cn/spec/55278/#pvareaid=2042126
+
+		Version: 2022款 PLUS 千里版
+		Price: 46.96 * 10000
+		URL: //www.autohome.com.cn/spec/55280/#pvareaid=2042126
+
+		Version: 2022款 PLUS 80D 旗舰版
+		Price: 33.96 * 10000
+		URL: //www.autohome.com.cn/spec/55279/#pvareaid=2042126
+
+		Version: 2022款 PLUS 80D Max版
+		Price: 41.96 * 10000
+		URL: //www.autohome.com.cn/spec/55088/#pvareaid=2042126
+
+
+Brand: HiPhi
+URL: https://car.autohome.com.cn/diandongche/brand-383.html
+Models:
+
+	Model: 高合HiPhi X
+	Type: 中大型SUV
+	Horse Power: 299 ~ 598
+	Price Range: RMB 57.0 ~ 80.0 * 10000
+	Score: 4.45 / 5.0
+	Endurance: 550km ~ 630km
+	Charging Time: Fast Charging 0.75H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 智远版6座 长续航版
+		Price: 57.0 * 10000
+		URL: //www.autohome.com.cn/spec/55994/#pvareaid=2042126
+
+		Version: 2022款 创远版6座 长续航版
+		Price: 62.0 * 10000
+		URL: //www.autohome.com.cn/spec/55925/#pvareaid=2042126
+
+		Version: 2021款 豪华版6座
+		Price: 62.0 * 10000
+		URL: //www.autohome.com.cn/spec/50429/#pvareaid=2042126
+
+		Version: 2021款 旗舰版6座
+		Price: 68.0 * 10000
+		URL: //www.autohome.com.cn/spec/50427/#pvareaid=2042126
+
+		Version: 2021款 旗舰版4座
+		Price: 80.0 * 10000
+		URL: //www.autohome.com.cn/spec/50428/#pvareaid=2042126
+
+
+Brand: Hongqi
+URL: https://car.autohome.com.cn/diandongche/brand-91.html
+Models:
+
+	Model: 红旗E-HS9
+	Type: 大型SUV
+	Horse Power: 435 ~ 551
+	Price Range: RMB 50.98 ~ 77.98 * 10000
+	Score: 4.49 / 5.0
+	Endurance: 460km ~ 690km
+	Charging Time: Fast Charging 0.8H, Slow Charging 9.5H
+	Versions:
+
+		Version: 2021款 460km 旗悦版 七座
+		Price: 50.98 * 10000
+		URL: //www.autohome.com.cn/spec/49052/#pvareaid=2042126
+
+		Version: 2022款 690km 旗悦版 七座
+		Price: 58.98 * 10000
+		URL: //www.autohome.com.cn/spec/54511/#pvareaid=2042126
+
+		Version: 2021款 460km 旗享版 六座
+		Price: 53.98 * 10000
+		URL: //www.autohome.com.cn/spec/49051/#pvareaid=2042126
+
+		Version: 2022款 690km 旗享版 六座
+		Price: 61.98 * 10000
+		URL: //www.autohome.com.cn/spec/54512/#pvareaid=2042126
+
+		Version: 2021款 510km 旗畅版 六座
+		Price: 63.98 * 10000
+		URL: //www.autohome.com.cn/spec/47984/#pvareaid=2042126
+
+		Version: 2022款 660km 旗畅版 六座
+		Price: 68.98 * 10000
+		URL: //www.autohome.com.cn/spec/54514/#pvareaid=2042126
+
+		Version: 2021款 510km 旗领版 四座
+		Price: 72.98 * 10000
+		URL: //www.autohome.com.cn/spec/46868/#pvareaid=2042126
+
+		Version: 2022款 660km 旗领版 四座
+		Price: 77.98 * 10000
+		URL: //www.autohome.com.cn/spec/54515/#pvareaid=2042126
+
+	Model: 红旗E-QM5
+	Type: 中型车
+	Horse Power: 136 ~ 190
+	Price Range: RMB 12.28 ~ 23.98 * 10000
+	Score: 3.38 / 5.0
+	Endurance: 431km ~ 431km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 431km 换电乐享版
+		Price: 12.28 * 10000
+		URL: //www.autohome.com.cn/spec/56053/#pvareaid=2042126
+
+		Version: 2021款 网约充电 T3版 4座
+		Price: 23.98 * 10000
+		URL: //www.autohome.com.cn/spec/56059/#pvareaid=2042126
+
+		Version: 2021款 网约充电 T3版 5座
+		Price: 23.98 * 10000
+		URL: //www.autohome.com.cn/spec/56060/#pvareaid=2042126
+
+		Version: 2021款 网约充电 基础版 4座
+		Price: 23.98 * 10000
+		URL: //www.autohome.com.cn/spec/56055/#pvareaid=2042126
+
+		Version: 2021款 网约充电 基础版 5座
+		Price: 23.98 * 10000
+		URL: //www.autohome.com.cn/spec/56056/#pvareaid=2042126
+
+		Version: 2021款 网约充电 滴滴版 4座
+		Price: 23.98 * 10000
+		URL: //www.autohome.com.cn/spec/56061/#pvareaid=2042126
+
+		Version: 2021款 网约充电 滴滴版 5座
+		Price: 23.98 * 10000
+		URL: //www.autohome.com.cn/spec/56062/#pvareaid=2042126
+
+		Version: 2021款 网约换电 出租版 4座
+		Price: 23.98 * 10000
+		URL: //www.autohome.com.cn/spec/56057/#pvareaid=2042126
+
+		Version: 2021款 网约换电 出租版 5座
+		Price: 23.98 * 10000
+		URL: //www.autohome.com.cn/spec/56058/#pvareaid=2042126
+
+		Version: 2021款 充电 旗享版
+		Price: 23.98 * 10000
+		URL: //www.autohome.com.cn/spec/51378/#pvareaid=2042126
+
+		Version: 2021款 充电 旗悦版
+		Price: 23.98 * 10000
+		URL: //www.autohome.com.cn/spec/49386/#pvareaid=2042126
+
+		Version: 2021款 换电 旗享版
+		Price: 23.98 * 10000
+		URL: //www.autohome.com.cn/spec/51379/#pvareaid=2042126
+
+		Version: 2021款 换电 旗悦版
+		Price: 23.98 * 10000
+		URL: //www.autohome.com.cn/spec/51380/#pvareaid=2042126
+
+		Version: 2021款 充电 滴滴版
+		Price: 23.98 * 10000
+		URL: //www.autohome.com.cn/spec/51792/#pvareaid=2042126
+
+		Version: 2021款 充电 T3版 4座
+		Price: 23.98 * 10000
+		URL: //www.autohome.com.cn/spec/51381/#pvareaid=2042126
+
+		Version: 2021款 充电 T3版 5座
+		Price: 23.98 * 10000
+		URL: //www.autohome.com.cn/spec/55692/#pvareaid=2042126
+
+		Version: 2022款 431km 充电乐享版
+		Price: 16.58 * 10000
+		URL: //www.autohome.com.cn/spec/56032/#pvareaid=2042126
+
+	Model: 红旗E-HS3
+	Type: 紧凑型SUV
+	Horse Power: 155 ~ 310
+	Price Range: RMB 22.58 ~ 26.58 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 344km ~ 407km
+	Charging Time: Fast Charging 0.0H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2019款 智联旗悦两驱版
+		Price: 22.58 * 10000
+		URL: //www.autohome.com.cn/spec/38362/#pvareaid=2042126
+
+		Version: 2019款 智联旗领四驱版
+		Price: 26.58 * 10000
+		URL: //www.autohome.com.cn/spec/38363/#pvareaid=2042126
+
+
+Brand: Hycan
+URL: https://car.autohome.com.cn/diandongche/brand-376.html
+Models:
+
+	Model: 合创Z03
+	Type: 紧凑型SUV
+	Horse Power: 184 ~ 218
+	Price Range: RMB 13.28 ~ 17.88 * 10000
+	Score: 4.52 / 5.0
+	Endurance: 430km ~ 620km
+	Charging Time: Fast Charging 0.6H, Slow Charging 12.9H
+	Versions:
+
+		Version: 2022款 潮享版 430km
+		Price: 13.28 * 10000
+		URL: //www.autohome.com.cn/spec/56543/#pvareaid=2042126
+
+		Version: 2022款 潮享版 510km
+		Price: 13.98 * 10000
+		URL: //www.autohome.com.cn/spec/56544/#pvareaid=2042126
+
+		Version: 2022款 潮酷版 510km
+		Price: 14.68 * 10000
+		URL: //www.autohome.com.cn/spec/56545/#pvareaid=2042126
+
+		Version: 2022款 潮智版 510km
+		Price: 15.88 * 10000
+		URL: //www.autohome.com.cn/spec/56547/#pvareaid=2042126
+
+		Version: 2021款 潮玩版
+		Price: 13.28 * 10000
+		URL: //www.autohome.com.cn/spec/50882/#pvareaid=2042126
+
+		Version: 2021款 潮智版
+		Price: 14.88 * 10000
+		URL: //www.autohome.com.cn/spec/52770/#pvareaid=2042126
+
+		Version: 2022款 潮酷版 620km
+		Price: 15.88 * 10000
+		URL: //www.autohome.com.cn/spec/56546/#pvareaid=2042126
+
+		Version: 2022款 潮智版 620km
+		Price: 17.28 * 10000
+		URL: //www.autohome.com.cn/spec/56548/#pvareaid=2042126
+
+		Version: 2022款 Z潮版 620km
+		Price: 17.88 * 10000
+		URL: //www.autohome.com.cn/spec/56549/#pvareaid=2042126
+
+		Version: 2021款 长续航潮智版
+		Price: 15.88 * 10000
+		URL: //www.autohome.com.cn/spec/53753/#pvareaid=2042126
+
+		Version: 2021款 Z潮版
+		Price: 16.88 * 10000
+		URL: //www.autohome.com.cn/spec/52769/#pvareaid=2042126
+
+	Model: 合创007
+	Type: 中型SUV
+	Horse Power: 204 ~ 204
+	Price Range: RMB 29.98 ~ 29.98 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 643km ~ 643km
+	Charging Time: Fast Charging 0.58H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 PLUS版
+		Price: 29.98 * 10000
+		URL: //www.autohome.com.cn/spec/51163/#pvareaid=2042126
+
+
+Brand: Smart
+URL: https://car.autohome.com.cn/diandongche/brand-45.html
+Models:
+
+	Model: smart精灵#1
+	Type: 小型SUV
+	Horse Power: 272 ~ 272
+	Price Range: RMB 19.0 ~ 23.0 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 535km ~ 560km
+	Charging Time: Fast Charging 0.5H, Slow Charging 7.5H
+	Versions:
+
+		Version: 2022款 Pro+
+		Price: 19.0 * 10000
+		URL: //www.autohome.com.cn/spec/56772/#pvareaid=2042126
+
+		Version: 2022款 Premium
+		Price: 23.0 * 10000
+		URL: //www.autohome.com.cn/spec/56536/#pvareaid=2042126
+
+
+Brand: Venucia
+URL: https://car.autohome.com.cn/diandongche/brand-122.html
+Models:
+
+	Model: 启辰D60EV
+	Type: 紧凑型车
+	Horse Power: 163 ~ 163
+	Price Range: RMB 15.005 ~ 17.88 * 10000
+	Score: 4.51 / 5.0
+	Endurance: 405km ~ 481km
+	Charging Time: Fast Charging 0.5H, Slow Charging 6.4H
+	Versions:
+
+		Version: 2022款 换电版
+		Price: 15.005 * 10000
+		URL: //www.autohome.com.cn/spec/55657/#pvareaid=2042126
+
+		Version: 2022款 标准续航舒适版
+		Price: 15.005 * 10000
+		URL: //www.autohome.com.cn/spec/54821/#pvareaid=2042126
+
+		Version: 2022款 标准续航智行版
+		Price: 15.005 * 10000
+		URL: //www.autohome.com.cn/spec/54823/#pvareaid=2042126
+
+		Version: 2022款 标准续航智享版
+		Price: 15.805 * 10000
+		URL: //www.autohome.com.cn/spec/54822/#pvareaid=2042126
+
+		Version: 2020款 标准续航舒适版
+		Price: 15.005 * 10000
+		URL: //www.autohome.com.cn/spec/46380/#pvareaid=2042126
+
+		Version: 2020款 标准续航智行版
+		Price: 15.005 * 10000
+		URL: //www.autohome.com.cn/spec/46381/#pvareaid=2042126
+
+		Version: 2020款 标准续航智享版
+		Price: 15.805 * 10000
+		URL: //www.autohome.com.cn/spec/46382/#pvareaid=2042126
+
+		Version: 2019款 高续航出行版
+		Price: 17.08 * 10000
+		URL: //www.autohome.com.cn/spec/42642/#pvareaid=2042126
+
+		Version: 2019款 高续航舒适版
+		Price: 16.28 * 10000
+		URL: //www.autohome.com.cn/spec/40753/#pvareaid=2042126
+
+		Version: 2019款 高续航智享版
+		Price: 17.18 * 10000
+		URL: //www.autohome.com.cn/spec/41129/#pvareaid=2042126
+
+		Version: 2019款 高续航尊享版
+		Price: 17.88 * 10000
+		URL: //www.autohome.com.cn/spec/38269/#pvareaid=2042126
+
+	Model: 启辰e30
+	Type: 小型SUV
+	Horse Power: 45 ~ 45
+	Price Range: RMB 7.24 ~ 8.54 * 10000
+	Score: 4.13 / 5.0
+	Endurance: 301km ~ 301km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 改款 精灵版
+		Price: 7.24 * 10000
+		URL: //www.autohome.com.cn/spec/56669/#pvareaid=2042126
+
+		Version: 2021款 改款 精英版
+		Price: 7.74 * 10000
+		URL: //www.autohome.com.cn/spec/56670/#pvareaid=2042126
+
+		Version: 2021款 改款 精睿版
+		Price: 8.54 * 10000
+		URL: //www.autohome.com.cn/spec/56671/#pvareaid=2042126
+
+		Version: 2021款 精灵版
+		Price: 7.24 * 10000
+		URL: //www.autohome.com.cn/spec/51765/#pvareaid=2042126
+
+		Version: 2021款 精英版
+		Price: 7.74 * 10000
+		URL: //www.autohome.com.cn/spec/51766/#pvareaid=2042126
+
+		Version: 2021款 精睿版
+		Price: 8.54 * 10000
+		URL: //www.autohome.com.cn/spec/51767/#pvareaid=2042126
+
+	Model: 启辰T60EV
+	Type: 小型SUV
+	Horse Power: 163 ~ 163
+	Price Range: RMB 16.38 ~ 18.18 * 10000
+	Score: 4.53 / 5.0
+	Endurance: 442km ~ 442km
+	Charging Time: Fast Charging 0.5H, Slow Charging 6.8H
+	Versions:
+
+		Version: 2020款 AI时尚型
+		Price: 16.38 * 10000
+		URL: //www.autohome.com.cn/spec/43120/#pvareaid=2042126
+
+		Version: 2020款 AI悦享型
+		Price: 16.88 * 10000
+		URL: //www.autohome.com.cn/spec/43121/#pvareaid=2042126
+
+		Version: 2020款 AI尊享型
+		Price: 17.78 * 10000
+		URL: //www.autohome.com.cn/spec/43122/#pvareaid=2042126
+
+		Version: 2020款 AI旗舰型
+		Price: 18.18 * 10000
+		URL: //www.autohome.com.cn/spec/38659/#pvareaid=2042126
+
+
+Brand: Mazda
+URL: https://car.autohome.com.cn/diandongche/brand-58.html
+Models:
+
+	Model: 马自达CX-30 EV
+	Type: 小型SUV
+	Horse Power: 218 ~ 218
+	Price Range: RMB 15.98 ~ 20.18 * 10000
+	Score: 4.88 / 5.0
+	Endurance: 450km ~ 450km
+	Charging Time: Fast Charging 0.92H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2021款 纯电驭享版
+		Price: 15.98 * 10000
+		URL: //www.autohome.com.cn/spec/53495/#pvareaid=2042126
+
+		Version: 2021款 纯电劲享版
+		Price: 18.08 * 10000
+		URL: //www.autohome.com.cn/spec/53496/#pvareaid=2042126
+
+		Version: 2021款 纯电尊享版
+		Price: 20.18 * 10000
+		URL: //www.autohome.com.cn/spec/50797/#pvareaid=2042126
+
+
+Brand: Skyworth
+URL: https://car.autohome.com.cn/diandongche/brand-400.html
+Models:
+
+	Model: 创维EV6
+	Type: 中型SUV
+	Horse Power: 204 ~ 204
+	Price Range: RMB 14.68 ~ 25.28 * 10000
+	Score: 4.24 / 5.0
+	Endurance: 410km ~ 520km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2022款 410 欢乐版
+		Price: 14.68 * 10000
+		URL: //www.autohome.com.cn/spec/56396/#pvareaid=2042126
+
+		Version: 2021款 410 出行版
+		Price: 16.58 * 10000
+		URL: //www.autohome.com.cn/spec/52342/#pvareaid=2042126
+
+		Version: 2022款 520 欢乐版
+		Price: 16.68 * 10000
+		URL: //www.autohome.com.cn/spec/56397/#pvareaid=2042126
+
+		Version: 2021款 520 出行版
+		Price: 18.58 * 10000
+		URL: //www.autohome.com.cn/spec/53357/#pvareaid=2042126
+
+		Version: 2021款 520 标准版
+		Price: 17.98 * 10000
+		URL: //www.autohome.com.cn/spec/52343/#pvareaid=2042126
+
+		Version: 2021款 520 创享版
+		Price: 18.98 * 10000
+		URL: //www.autohome.com.cn/spec/52346/#pvareaid=2042126
+
+		Version: 2021款 520 智能版
+		Price: 20.58 * 10000
+		URL: //www.autohome.com.cn/spec/52345/#pvareaid=2042126
+
+		Version: 2021款 520 PRO版
+		Price: 25.28 * 10000
+		URL: //www.autohome.com.cn/spec/52347/#pvareaid=2042126
+
+	Model: 天美汽车ET5
+	Type: 中型SUV
+	Horse Power: 204 ~ 204
+	Price Range: RMB 15.28 ~ 19.88 * 10000
+	Score: 0.0 / 5.0
+	Endurance: 410km ~ 520km
+	Charging Time: Fast Charging 0.5H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2020款 明心健康版410km
+		Price: 15.28 * 10000
+		URL: //www.autohome.com.cn/spec/46641/#pvareaid=2042126
+
+		Version: 2020款 净心智慧版410km
+		Price: 16.88 * 10000
+		URL: //www.autohome.com.cn/spec/46642/#pvareaid=2042126
+
+		Version: 2020款 净心智慧版520km
+		Price: 18.38 * 10000
+		URL: //www.autohome.com.cn/spec/46643/#pvareaid=2042126
+
+		Version: 2020款 智健合一版520km
+		Price: 19.88 * 10000
+		URL: //www.autohome.com.cn/spec/44798/#pvareaid=2042126
+
+
+Brand: Aiways
+URL: https://car.autohome.com.cn/diandongche/brand-327.html
+Models:
+
+	Model: 爱驰U5
+	Type: 中型SUV
+	Horse Power: 190 ~ 204
+	Price Range: RMB 16.69 ~ 24.99 * 10000
+	Score: 4.65 / 5.0
+	Endurance: 405km ~ 600km
+	Charging Time: Fast Charging 0.45H, Slow Charging 0.0H
+	Versions:
+
+		Version: 2020款 U5 Lite
+		Price: 21.99 * 10000
+		URL: //www.autohome.com.cn/spec/49186/#pvareaid=2042126
+
+		Version: 2021款 U5 SE
+		Price: 16.69 * 10000
+		URL: //www.autohome.com.cn/spec/47702/#pvareaid=2042126
+
+		Version: 2021款 U5 标准续航 PURE智净版
+		Price: 17.99 * 10000
+		URL: //www.autohome.com.cn/spec/50022/#pvareaid=2042126
+
+		Version: 2021款 U5 ING
+		Price: 18.69 * 10000
+		URL: //www.autohome.com.cn/spec/47703/#pvareaid=2042126
+
+		Version: 2021款 U5 长续航 PURE智净版
+		Price: 19.99 * 10000
+		URL: //www.autohome.com.cn/spec/50023/#pvareaid=2042126
+
+		Version: 2021款 U5 ING+
+		Price: 20.99 * 10000
+		URL: //www.autohome.com.cn/spec/47704/#pvareaid=2042126
+
+		Version: 2021款 U5 PRO
+		Price: 22.99 * 10000
+		URL: //www.autohome.com.cn/spec/47705/#pvareaid=2042126
+
+		Version: 2021款 U5 PRO+
+		Price: 24.99 * 10000
+		URL: //www.autohome.com.cn/spec/47706/#pvareaid=2042126
+
+
