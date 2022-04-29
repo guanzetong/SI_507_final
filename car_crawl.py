@@ -448,16 +448,15 @@ def submit_form():
         print('\n')
         print('Do you confirm the information above?')
         print('0: Yes, I confirm')
-        print('1: No, I want to resubmit')
-        print('2: No, I want to exit')
+        print('1: No, I want to cancel')
         print('\n')
         confirm_str = input('Your answer: ')
         try:
             confirm_int = int(confirm_str)
-            if confirm_int > 2 or confirm_int < 0:
+            if confirm_int > 1 or confirm_int < 0:
                 print('Invalid input, please retry.')
             else:
-                if confirm_int == 2:
+                if confirm_int == 1:
                     exit_code = 1
                 else:
                     exit_code = 0
@@ -572,6 +571,9 @@ def init():
             brand_tree.append(brand_object)
         save_brand_tree(brand_tree=brand_tree, cache_file=cache_file)
         cache_file.close()
+        cache_file = open('cache.txt', 'r')
+        brand_tree = load_brand_tree(cache_file=cache_file)
+        cache_file.close()
     return brand_tree
 
 def home():
@@ -615,6 +617,12 @@ def run(brand_tree):
 if __name__ == '__main__':
     # Crawl and scrape data
     brand_tree = init()
+    print_file = open('print.txt', 'w')
+    for brand in brand_tree:
+        print(brand, file=print_file)
+        
+    print_file.close()
+
     while True:
         home_cmd = home()
         if home_cmd == 0:
