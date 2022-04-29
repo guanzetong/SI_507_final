@@ -1,17 +1,12 @@
-1. Target Brands
-    Tesla: Model SEXY
-    NIO: ES ET EC
-    XPENG: P7 P5 G3
-    LI Auto: One
-    Volkswagen: ID
-    ZEEKR: 001
-    Mercedes Benz: 
+# An Electric Car Crawler and Recommendation Robot in Python
 
-2. Request Data
-    Model Name
-    Type
-    Horse Power (Electric Only)
-    Price Range
-    Evaluation
-    Charging
-    Sales (From 16888)
+## Prerequisite
+
+**OS**: Windows 10
+
+**Python Packages**: requests, bs4 - BeautifulSoup, re, os, copy
+
+## Interaction
+
+User's interaction with application is through terminal. Prompt texts are printed to terminal when user needs to input commands to proceed.
+

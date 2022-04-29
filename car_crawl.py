@@ -1,6 +1,8 @@
+import copy
 import requests
 from bs4 import BeautifulSoup
 import re
+import os
 
 headers = {
     'User-Agent' : 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36'
@@ -95,6 +97,37 @@ class Version:
     def __str__(self):
         version_str = f"\t\tVersion: {self.name}\n\t\tPrice: {self.price} * 10000\n\t\tURL: {self.url}\n\n"
         return version_str
+    
+class Form:
+    def __init__(self, user="X", type=0, size=0, endurance=[0, 0], 
+                 price_range=[0.0, 0.0]):
+        self.user = user
+        self.type = type
+        self.size = size
+        self.endurance = endurance
+        self.price_range = price_range
+        
+    def __str__(self):
+        if self.type == 0:
+            type_str = "Not Specified"
+        elif self.type == 1:
+            type_str = "SUV"
+        else:
+            type_str = "Sedan"
+            
+        if self.size == 0:
+            size_str = "Not Specified"
+        elif self.size == 1:
+            size_str = "Subcompact"
+        elif self.size == 2:
+            size_str = "Compact"
+        elif self.size == 3:
+            size_str = "Mid-size"
+        else:
+            size_str = "Large"
+            
+        form_str = f"Your Name: {self.user}\nType: {type_str}\nSize: {size_str}\nEndurance: {str(self.endurance[0])} ~ {str(self.endurance[1])}\nPrice: RMB {str(self.price_range[0])} ~ {str(self.price_range[1])} * 10000"
+        return form_str
         
 def request_brand(brand):
     """Request the data for one brand
@@ -311,52 +344,280 @@ def load_version_nodes(cache_file):
     else:
         return []
     
+def form_construct():
+    os.system('cls')
     
-#     return model_node
+    print("----------------------------------------------")
+    print("Now let's talk about your dream car")
+    print("----------------------------------------------")
+    # Input User Name
+    user_str = input("What's your name? ")
+    # Input Type of Car
+    while True:
+        print('\n')
+        print('Q1. What is the type of your dream car')
+        print('0: Not Specified')
+        print('1: SUV')
+        print('2: Sedan')
+        type_str = input('Your answer: ')
+        try:
+            type_int = int(type_str)
+            if type_int > 2 or type_int < 0:
+                print('Invalid input, please retry.')
+            else:
+                break
+        except:
+            print('Invalid input, please retry.')
+    # Input Size of Car
+    while True:
+        print('\n')
+        print('Q2. What is size of your dream car?')
+        print('0: Not Specified')
+        print('1: Subcompact')
+        print('2: Compact')
+        print('3: Mid-size')
+        print('4: Large')
+        size_str = input('Your answer: ')
+        try:
+            size_int = int(size_str)
+            if size_int > 4 or size_int < 0:
+                print('Invalid input, please retry.')
+            else:
+                break
+        except:
+            print('Invalid input, please retry.')
+    # Input Endurance of Car
+    while True:
+        print('\n')
+        min_endu_str = input('Q3.1. What is the minimal endurance (kilometer) of your dream car? ')
+        try:
+            min_endurance = float(min_endu_str)
+            if min_endurance < 0:
+                print('Invalid input, please retry.')
+            else:
+                break
+        except:
+            print('Invalid input, please retry.')
+    while True:
+        print('\n')
+        max_endu_str = input('Q3.2. What is the maximal endurance (kilometer) of your dream car? ')
+        try:
+            max_endurance = float(max_endu_str)
+            if max_endurance < min_endurance:
+                print('Invalid input, please retry.')
+            else:
+                break
+        except:
+            print('Invalid input, please retry.')
+    # Input Price Range of Car
+    while True:
+        print('\n')
+        min_price_str = input('Q4.1. What is the minimal price (10000 RMB) of your dream car? ')
+        try:
+            min_price = float(min_price_str)
+            if min_price < 0:
+                print('Invalid input, please retry.')
+            else:
+                break
+        except:
+            print('Invalid input, please retry.')
+    while True:
+        print('\n')
+        max_price_str = input('Q4.2. What is the maximal price (10000 RMB) of your dream car? ')
+        try:
+            max_price = float(max_price_str)
+            if max_price < min_price:
+                print('Invalid input, please retry.')
+            else:
+                break
+        except:
+            print('Invalid input, please retry.')
+            
+    input_form = Form(user=user_str, type=type_int, size=size_int, endurance=[min_endurance, max_endurance], 
+                       price_range=[min_price, max_price])
+    return input_form
+
+def submit_form():
+    while True:
+        input_form = form_construct()
+        os.system('cls')
+        print('Your Dream Car:')
+        print("----------------------------------------------")
+        print(input_form)
+        print("----------------------------------------------")
+        print('\n')
+        print('Do you confirm the information above?')
+        print('0: Yes, I confirm')
+        print('1: No, I want to resubmit')
+        print('2: No, I want to exit')
+        print('\n')
+        confirm_str = input('Your answer: ')
+        try:
+            confirm_int = int(confirm_str)
+            if confirm_int > 2 or confirm_int < 0:
+                print('Invalid input, please retry.')
+            else:
+                if confirm_int == 2:
+                    exit_code = 1
+                else:
+                    exit_code = 0
+                break
+        except:
+            print('Invalid input, please retry.')
+    
+    return input_form, exit_code
+
+def handle_form(input_form, exit_code, brand_tree):
+    if exit_code == 1:
+        return [], exit_code
+    else:
+        matched_brand_tree = []
+        for brand in brand_tree:
+            matched_model_tree = []
+            for model in brand.model_tree:
+                # Compare type
+                if (input_form.type == 1) and ("SUV" not in model.type):
+                    continue
+                elif (input_form.type == 2) and ("车" not in model.type):
+                    continue
+                
+                if (input_form.size == 1) and ("小型" not in model.type):
+                    continue
+                elif (input_form.size == 2) and ("紧凑型" not in model.type):
+                    continue
+                elif (input_form.size == 3) and ("中型" not in model.type):
+                    continue
+                elif (input_form.size == 4) and ("中大型" not in model.type):
+                    continue
+                # Compare Endurance
+                if (input_form.endurance[0] > model.endurance[1]):
+                    continue
+                elif (input_form.endurance[1] < model.endurance[0]):
+                    continue
+                # Compare Price
+                if (input_form.price_range[0] > model.price_range[1]):
+                    continue
+                elif (input_form.price_range[1] < model.price_range[0]):
+                    continue
+                matched_model_tree.append(model)
+            
+            # Append the brand to matched_brand_tree 
+            # if the matched_model_tree is not empty
+            if len(matched_model_tree) > 0:
+                temp_brand = copy.deepcopy(brand)
+                temp_brand.model_tree = matched_model_tree
+                matched_brand_tree.append(temp_brand)
+        return matched_brand_tree, exit_code
+        
+def sort_result(matched_brand_tree):
+    sorted_brand_tree = []
+    for brand in matched_brand_tree:
+        for model in brand.model_tree:
+            if sorted_brand_tree == []:
+                temp_brand = Brand()
+                temp_brand = copy.deepcopy(brand)
+                temp_brand.model_tree = [model]
+                sorted_brand_tree.append(temp_brand)
+            else:
+                for index in range(0, len(sorted_brand_tree)):
+                    if (sorted_brand_tree[index].model_tree[0].score < model.score) or (index == (len(sorted_brand_tree) - 1)):
+                        temp_brand = Brand()
+                        temp_brand = copy.deepcopy(brand)
+                        temp_brand.model_tree = [model]
+                        sorted_brand_tree.insert(index, temp_brand)
+                        break
+    return sorted_brand_tree
+
+def display_result(sorted_brand_tree):
+    index = 0
+    while True:
+        os.system('cls')
+        print(f"----------------------------------------------")
+        print(f"Candidates of you dream car")
+        print(f"----------------------------------------------")
+        print(sorted_brand_tree[index])
+        print(f"Page {index+1} / {len(sorted_brand_tree)}")
+        if index == 0:
+            print("+: to the next page")
+            print("0: to the home page")
+        elif (index == len(sorted_brand_tree) - 1):
+            print("-: to the previous page")
+            print("0: to the home page")
+        else:
+            print("+: to the next page")
+            print("-: to the previous page")
+            print("0: to the home page")
+        cmd_str = input("Input Command: ")
+        
+        if cmd_str == '+':
+            if (index < len(sorted_brand_tree) - 1):
+                index = index + 1
+        elif cmd_str == '-':
+            if (index > 0):
+                index = index - 1
+        elif cmd_str == '0':
+            return 
+        
+def init():
+    brand_tree = []
+    if os.path.exists('cache.txt') is True:
+        cache_file = open('cache.txt', 'r')
+        brand_tree = load_brand_tree(cache_file=cache_file)
+        cache_file.close()
+    else:
+        cache_file = open('cache.txt', 'w')
+        for brand in autohome_brand_dict:
+            print(f'Requesting {brand}')
+            brand_object = request_brand(brand)
+            brand_tree.append(brand_object)
+        save_brand_tree(brand_tree=brand_tree, cache_file=cache_file)
+        cache_file.close()
+    return brand_tree
+
+def home():
+    while True:
+        os.system('cls')
+        print("----------------------------------------------")
+        print("Welcome! Let's find out your dream electric cars")
+        print("(that are available in China)")
+        print("----------------------------------------------")
+        print("0: Start")
+        print("1: Exit")
+        cmd_str = input("Input Command: ")
+        if cmd_str == '0':
+            return 0
+        elif cmd_str == '1':
+            return 1
+    
+    
+def run(brand_tree):
+    # Ask user for specific needs on their dream electric car
+    user_form, exit_code = submit_form()
+    # Find all the matched models
+    matched_brand_tree, exit_code = handle_form(input_form=user_form, exit_code=exit_code, brand_tree=brand_tree)
+    if exit_code == 1:
+        return
+    # Print the matched models to file
+    print_file = open('matched.txt', 'w')
+    print(len(matched_brand_tree))
+    for brand in matched_brand_tree:
+        print(brand, file=print_file)
+    print_file.close()
+    # Print the sorted matched module to file
+    print_file = open('sorted.txt', 'w')
+    sorted_brand_tree = sort_result(matched_brand_tree)
+    for brand in sorted_brand_tree:
+        print(brand, file=print_file)
+    print_file.close()
+    # Display result
+    display_result(sorted_brand_tree)
 
 if __name__ == '__main__':
-    # request_brand('ZEEKR')
-    brand_tree = []
-    # cache_file = open('cache.txt', 'w')
-    # for brand in autohome_brand_dict:
-    #     print(f'Requesting {brand}')
-    #     brand_object = request_brand(brand)
-    #     print(brand_object)
-    #     brand_tree.append(brand_object)
-    # save_brand_tree(brand_tree=brand_tree, cache_file=cache_file)
-    
-    
-    cache_file = open('cache.txt', 'r')
-    brand_tree = load_brand_tree(cache_file=cache_file)
-    
-    print_file = open('print.txt', 'w')
-    # print(brand_tree)
-    # print(brand_tree[0])
-    for brand in brand_tree:
-        print(brand, file=print_file)
-        
-    cache_file.close()
-    print_file.close()
-    
-    # url = autohome_base_url + autohome_brand_dict['Tesla']
-    # response = requests.get(url = url, headers = headers)
-    # # print(response.text)
-    # soup = BeautifulSoup(response.text, 'html.parser')
-    # # print(soup)
-    # all_models = soup.find_all('div', class_='list-cont-main')
-    # # print(all_models)
-    # all_titles = soup.find_all('div', class_='main-title')
-    # # print(all_titles)
-    # all_names = soup.find_all('a', class_='font-bold')
-    # print(all_names)
-    # for X in all_names:
-    #     print(X.string)
-    #     print(X.string.strip())
-    #     print(X['href'])
-    #     print(X)
-    #     print(type(X.string))
-    #     print(type(X))
-    # print(autohome_brand_dict)
-    # for brand in autohome_brand_dict:
-    #     print(brand, '->', autohome_brand_dict[brand])
-        
+    # Crawl and scrape data
+    brand_tree = init()
+    while True:
+        home_cmd = home()
+        if home_cmd == 0:
+            run(brand_tree)
+        elif home_cmd == 1:
+            break
